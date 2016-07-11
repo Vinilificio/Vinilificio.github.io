@@ -1,0 +1,219 @@
+---
+---
+@import 'settings';
+@import 'foundation';
+
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-accordion;
+@include foundation-accordion-menu;
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+@include foundation-close-button;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+@include foundation-label;
+@include foundation-media-object;
+@include foundation-menu;
+@include foundation-off-canvas;
+@include foundation-orbit;
+@include foundation-pagination;
+@include foundation-progress-bar;
+@include foundation-slider;
+@include foundation-sticky;
+@include foundation-reveal;
+@include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+@include foundation-thumbnail;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: $body-font-family-fb;
+    letter-spacing: 0.3px;
+}
+
+.wf-active {
+    body, h1, h2, h3, h4, h5, h6 {
+        font-family: $body-font-family;
+        letter-spacing: 0;
+    }
+}
+
+.header {
+    @include grid-row;
+    padding: 1rem 0;
+    border-bottom: 1px solid $light-gray;
+    font-size: 0.875rem;
+    text-align: center;
+    @include breakpoint(large) {
+        margin-bottom: 5rem;
+    }
+}
+
+
+.header-logo {
+//    @include grid-column(4);
+//    @include breakpoint(large) {
+//        @include grid-column(2);
+//    }
+}
+
+.header-menu {
+//    @include grid-column(6);
+//    padding-top: 0.75rem;
+//    @include breakpoint(large) {
+//        @include grid-column(4);
+//        padding-top: 1.25rem;
+//    }
+}
+
+.header-menu li {
+    display: inline-block;
+}
+
+.header-menu ul li  ul{
+    display: none;
+}
+
+.header-menu__hint {
+    padding: 0.5rem;
+    margin: 0;
+    font-size: 0.75rem;
+}
+
+.header-contact {
+    @include grid-column;
+    padding-top: 0.5rem;
+    color: $dark-gray;
+    @include breakpoint(large) {
+        @include grid-column(4);
+    }
+}
+
+.main {
+    @include grid-row;
+    margin-bottom: 1rem;
+}
+
+.main-sidebar {
+    @include grid-column;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 0.75rem;
+    background: $light-gray;
+    @include breakpoint(large) {
+        width: 12rem;
+        margin-left: 6.25rem;
+        position: fixed;
+        border-radius: $global-radius;
+    }
+    & * {
+        font-size: 0.875rem;
+    }
+}
+
+.main-sidebar__menu-item:not(:last-child){
+    border-bottom: 1px solid $medium-gray;
+}
+
+.main-sidebar__menu-item > a{
+    padding: 0.5rem 0 !important;
+}
+
+.main-content {
+    @include grid-column;
+    @include breakpoint(large) {
+        @include grid-column(5);
+        @include grid-column-offset(3);
+    }
+    h1,h2,h3,h4,h5,h6 {
+        line-height: 1.2;
+    }
+    a {
+        color: $dark-gray;
+        text-decoration: underline;
+        &:hover {
+            color: $black;
+        }
+    }
+    em, i {
+        color: $dark-gray;
+    }
+    iframe {
+        width: 100%;
+        border: 1px solid lightgrey;
+        height: 20rem;
+        @include breakpoint(large) {
+            width: 133.333%;
+        }
+    }
+    table {
+        width: 100%;
+        //border: 1px solid lightgrey;
+        //height: 20rem;
+        font-size: 0.75rem;
+        @include breakpoint(large) {
+            width: 133.333%;
+        }
+    }
+}
+
+.main-right-side {
+    @include grid-column;
+    @include breakpoint(large) {
+        @include grid-column(2);
+        //position: fixed;
+        //right: 1rem;
+        font-size: 0.875rem;
+    }
+    & ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    & li {
+        padding: 0 2rem 0 0;
+        margin: 0 0 1rem;
+    }
+}
+
+.separator-txt {
+    margin: 2rem 0 1rem;
+    border-top: 1px solid $light-gray;
+    text-align: center;
+    color: $dark-gray;
+    h4 {
+        margin-top: -0.75em;
+        font-size: 1rem;
+        font-weight: 400;
+    }
+    span {
+        padding: 0 1em;
+        background: $white;
+    }
+}
+
+.footer {
+    @include grid-column-row;
+    padding: 1rem 0;
+    border-top: 1px solid $light-gray;
+    text-align: center;
+    & a {
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
+
+

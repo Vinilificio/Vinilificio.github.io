@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+    {% include header.html %}
+    <div class="column row" style="">
+<!--
+        {{ content }}
+        <h3>Ultime news</h3>
+        <ul>
+            {% for post in site.posts %}
+            <li>
+                <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+-->
+    <img src="img/home-placeholder.jpg" alt="">
+    </div>
+
+    {{ site.data.contentful.spaces.vinilificio }}
+
+    {% include footer.html %}
+</body>
+
+</html>
