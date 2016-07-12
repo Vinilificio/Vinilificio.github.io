@@ -35,10 +35,11 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "_pages"
+      path: ""
       type: "pages"
     values:
       layout: "default"
+      position: "footer"
 
 # Include
 include: ["_pages"]

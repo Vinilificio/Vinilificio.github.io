@@ -6,15 +6,14 @@
     </div>
     <nav class="site-header__menu">
     <ul>
+        {% assign pages = site.pages | sort: "index"  %}
+        {% for page in pages %}
+        {% if page.title and page.position == "header" %}
         <li>
-            <a href="{{site.baseurl}}/custom-vinyl">Custom Vinyl</a>
+            <a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a>
         </li>
-        <li>
-            <a href="{{site.baseurl}}/vinyl-press">Vinyl Press</a>
-        </li>
-        <li>
-            <a href="{{site.baseurl}}/cassette">Cassette</a>
-        </li>
+        {% endif %}
+        {% endfor %}
     </ul>
     </nav>
 <!--

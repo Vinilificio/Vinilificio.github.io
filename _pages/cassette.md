@@ -1,6 +1,8 @@
 ---
 title: Cassette
 permalink: /cassette/
+position: header
+index: 3
 menu:
   - titolo: Info
     id: info

@@ -1,13 +1,14 @@
 <footer class="site-footer">
     <nav class="site-footer__menu">
         <ul>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Chi siamo</a></li>
-            <li><a href="#">Contatti</a></li>
-            <li><a href="#">Terms &amp; Conditions</a></li>
-            <li><a href="#">FB</a></li>
-            <li><a href="#">TW</a></li>
-            <li><a href="#">News</a></li>
+            {% assign pages = site.pages | sort: "index"  %}
+            {% for page in pages %}
+            {% if page.title and page.position == "footer" %}
+            <li>
+                <a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
         </ul>
     </nav>
 </footer>
