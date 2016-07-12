@@ -39,7 +39,9 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      permalink: ""
       position: "footer"
+      index: ""
 
 # Include
 include: ["_pages"]
