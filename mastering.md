@@ -1,8 +1,9 @@
 ---
 title: Mastering
-date: 
+date: '2016-07-12 15:51:00'
 layout: default
 position: footer
-index: 1
+index: 4
 draft: true
 ---
+Il mastering...
