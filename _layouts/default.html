@@ -7,18 +7,18 @@
     {% include header.html %}
 
     <div class="main">
-        <div class="main-sidebar">
+        <div class="main__left-sidebar">
             <h3>{{ page.title }}</h3>
             <ul class="menu vertical">
                 {% for menuItem in page.menu %}
-                <li class="main-sidebar__menu-item"><a href="#{{menuItem.id}}">{{ menuItem.titolo }}</a></li>
+                <li class="main__left-menu-item"><a href="#{{menuItem.id}}">{{ menuItem.titolo }}</a></li>
                 {% endfor %}
             </ul>
         </div>
-        <div class="main-content">
+        <div class="main__content">
             {{ content }}
         </div>
-        <div class="main-right-side">
+        <div class="main__right-sidebar">
             {% for sidebar in site.sidebars %}
                 {% if page.sidebar == sidebar.name %}
                     {{ sidebar.content }}
