@@ -52,6 +52,10 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/*
+ * Header
+ */
+
 .site-header {
     @include grid-column-row;
     padding-bottom: 0.75rem;
@@ -60,10 +64,9 @@ body, h1, h2, h3, h4, h5, h6 {
         text-align: center;
     }
     @include breakpoint(large) {
-        margin-bottom: 5rem;
+        margin-bottom: 4rem;
     }
 }
-
 
 .site-header__logo {
     padding: 1rem 0 0.5rem;
@@ -91,12 +94,20 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/*
+ * Main
+ */
+
 .main {
     @include grid-row;
     margin-bottom: 1rem;
 }
 
-.main-sidebar {
+/*
+ * Main - left sidebar
+ */
+
+.main__left-sidebar {
     @include grid-column;
     margin-bottom: 1rem;
     padding-top: 1rem;
@@ -113,15 +124,19 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
-.main-sidebar__menu-item:not(:last-child){
+.main__left-menu-item:not(:last-child){
     border-bottom: 1px solid $medium-gray;
 }
 
-.main-sidebar__menu-item > a{
+.main__left-menu-item > a{
     padding: 0.5rem 0 !important;
 }
 
-.main-content {
+/*
+ * Main - content
+ */
+
+.main__content {
     @include grid-column;
     @include breakpoint(large) {
         @include grid-column(6);
@@ -159,16 +174,32 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
-.main-right-side {
+/*
+ * Main - right sidebar
+ */
+
+.main__right-sidebar {
     @include grid-column;
-    & ul{
-        list-style: none;
-        margin: 0;
-        padding: 0;
+//    & ul{
+//        list-style: none;
+//        margin: 0;
+//        padding: 0;
+//    }
+//    & li {
+//        padding: 0 2rem 0 0;
+//        margin: 0 0 1rem;
+//    }
+    & a {
+        display: inline-block;
+        padding: 0.5rem;
+        background: $black;
+        color: $white;
+        border-radius: $global-radius;
     }
-    & li {
-        padding: 0 2rem 0 0;
-        margin: 0 0 1rem;
+    & p {
+        margin: 0 0 0.5rem;
+        padding: 0;
+        font-size: 0.75rem;
     }
     @include breakpoint(large) {
         width: 12rem;
@@ -181,6 +212,10 @@ body, h1, h2, h3, h4, h5, h6 {
         margin-left: 60rem;
     }
 }
+
+/*
+ * Misc
+ */
 
 .separator-txt {
     margin: 2rem 0 1rem;
@@ -197,6 +232,10 @@ body, h1, h2, h3, h4, h5, h6 {
         background: $white;
     }
 }
+
+/*
+ * Footer
+ */
 
 .site-footer {
     @include grid-column-row;
