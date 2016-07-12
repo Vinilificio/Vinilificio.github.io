@@ -76,8 +76,8 @@ $breakpoints: (
   small: 0,
   medium: 640px,
   large: 1000px,
-  xlarge: 1200px,
-  xxlarge: 1440px,
+  xlarge: 1260px,
+  xxlarge: 1400px,
 );
 $breakpoint-classes: (small medium large);
 
@@ -87,9 +87,9 @@ $breakpoint-classes: (small medium large);
 $grid-row-width: $global-width;
 $grid-column-count: 10;
 $grid-column-responsive-gutter: (
-  small: 40px,
-  medium: 60px,
-  large: 30px
+  small: 20px,
+  medium: 40px,
+  large: 40px
 );
 $grid-column-align-edge: false;
 $block-grid-max: 8;

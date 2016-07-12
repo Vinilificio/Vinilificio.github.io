@@ -1,5 +1,4 @@
 ---
-layout: news
 title: Vinilificio è partner di Disco Days 2016
 ---
 

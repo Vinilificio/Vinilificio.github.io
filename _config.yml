@@ -26,6 +26,20 @@ github_username:  jekyll
 #
 # Conf
 #
+defaults:
+  -
+    scope:
+      path: "_posts" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "default"
+
 # Include
 include: ["_pages"]
 

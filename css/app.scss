@@ -1,5 +1,6 @@
 ---
 ---
+
 @import 'settings';
 @import 'foundation';
 
@@ -51,49 +52,37 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
-.header {
-    @include grid-row;
-    padding: 1rem 0;
+.site-header {
+    @include grid-column-row;
+    padding-bottom: 0.75rem;
     border-bottom: 1px solid $light-gray;
-    font-size: 0.875rem;
-    text-align: center;
+    @include breakpoint(medium) {
+        text-align: center;
+    }
     @include breakpoint(large) {
         margin-bottom: 5rem;
     }
 }
 
 
-.header-logo {
-//    @include grid-column(4);
-//    @include breakpoint(large) {
-//        @include grid-column(2);
-//    }
+.site-header__logo {
+    padding: 1rem 0 0.5rem;
 }
 
-.header-menu {
-//    @include grid-column(6);
-//    padding-top: 0.75rem;
-//    @include breakpoint(large) {
-//        @include grid-column(4);
-//        padding-top: 1.25rem;
-//    }
-}
-
-.header-menu li {
-    display: inline-block;
-}
-
-.header-menu ul li  ul{
-    display: none;
-}
-
-.header-menu__hint {
-    padding: 0.5rem;
+.site-header__menu ul{
     margin: 0;
-    font-size: 0.75rem;
+    padding: 0;
 }
 
-.header-contact {
+.site-header__menu li{
+    display: inline-block;
+    margin-right: 0.5rem;
+    & a {
+        padding: 0.5rem 1rem;
+    }
+}
+
+.site-header__contact {
     @include grid-column;
     padding-top: 0.5rem;
     color: $dark-gray;
@@ -115,7 +104,7 @@ body, h1, h2, h3, h4, h5, h6 {
     background: $light-gray;
     @include breakpoint(large) {
         width: 12rem;
-        margin-left: 6.25rem;
+        margin-left: 0.6rem;
         position: fixed;
         border-radius: $global-radius;
     }
@@ -135,8 +124,8 @@ body, h1, h2, h3, h4, h5, h6 {
 .main-content {
     @include grid-column;
     @include breakpoint(large) {
-        @include grid-column(5);
-        @include grid-column-offset(3);
+        @include grid-column(6);
+        @include grid-column-offset(2);
     }
     h1,h2,h3,h4,h5,h6 {
         line-height: 1.2;
@@ -172,12 +161,6 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .main-right-side {
     @include grid-column;
-    @include breakpoint(large) {
-        @include grid-column(2);
-        //position: fixed;
-        //right: 1rem;
-        font-size: 0.875rem;
-    }
     & ul{
         list-style: none;
         margin: 0;
@@ -186,6 +169,16 @@ body, h1, h2, h3, h4, h5, h6 {
     & li {
         padding: 0 2rem 0 0;
         margin: 0 0 1rem;
+    }
+    @include breakpoint(large) {
+        width: 12rem;
+        padding: 0;
+        position: fixed;
+        margin-left: 80%;
+        font-size: 0.875rem;
+    }
+    @include breakpoint(xlarge) {
+        margin-left: 60rem;
     }
 }
 
@@ -205,15 +198,26 @@ body, h1, h2, h3, h4, h5, h6 {
     }
 }
 
-.footer {
+.site-footer {
     @include grid-column-row;
-    padding: 1rem 0;
+    padding-top: 0.75em;
+    padding-bottom: 1rem;
     border-top: 1px solid $light-gray;
-    text-align: center;
-    & a {
-        display: inline-block;
-        margin-right: 10px;
+    @include breakpoint(medium) {
+        text-align: center;
     }
 }
 
+.site-footer__menu ul{
+    margin: 0;
+    padding: 0;
+}
+
+.site-footer__menu li{
+    display: inline-block;
+    margin-right: 0.5rem;
+    & a {
+        padding: 0.5rem 1rem;
+    }
+}
 
