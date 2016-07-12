@@ -39,12 +39,10 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      permalink: ""
       position: "footer"
-      index: ""
+      index: 1
 
 # Include
-include: ["_pages"]
 
 # Exclude these files from your production _site
 exclude:
@@ -63,3 +61,6 @@ sass:
 collections:
   sidebars:
     foo: bar
+
+# Permalinks
+permalink: pretty

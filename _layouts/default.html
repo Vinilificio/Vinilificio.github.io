@@ -19,8 +19,9 @@
             {{ content }}
         </div>
         <div class="main__right-sidebar">
+            {% assign sidebar_name = page.permalink | remove: "/" %}
             {% for sidebar in site.sidebars %}
-                {% if page.sidebar == sidebar.name %}
+                {% if sidebar_name == sidebar.name %}
                     {{ sidebar.content }}
                 {% endif %}
             {% endfor %}

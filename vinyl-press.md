@@ -1,6 +1,5 @@
 ---
 title: Vinyl Press
-permalink: /vinyl-press/
 position: header
 index: 2
 menu:

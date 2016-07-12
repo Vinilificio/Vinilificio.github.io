@@ -1,6 +1,6 @@
 ---
 title: Custom Vinyl
-permalink: /custom-vinyl/
+
 position: header
 index: 1
 menu:
