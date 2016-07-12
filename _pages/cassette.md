@@ -10,7 +10,6 @@ menu:
     id: gallery
   - titolo: Tech specs
     id: tech specs
-sidebar: cassette
 ---
 
 ### Info

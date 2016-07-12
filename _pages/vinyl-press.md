@@ -12,7 +12,6 @@ menu:
     id: tempi
   - titolo: Tech specs
     id: tech-specs
-sidebar: vinyl-press
 ---
 
 ### Info
