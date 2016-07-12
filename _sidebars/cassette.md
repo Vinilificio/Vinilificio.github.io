@@ -2,4 +2,4 @@
 name: cassette
 ---
 
-* Ordina: [Scrivi a Vinilificio](http://example.net/)
+[Scrivi a Vinilificio](http://example.net/)
