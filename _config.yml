@@ -35,14 +35,16 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
+      path: "_pages"
       type: "pages"
     values:
       layout: "default"
       position: "footer"
       index: 1
+      permalink: /:basename/
 
 # Include
+include: ["_pages"]
 
 # Exclude these files from your production _site
 exclude:
@@ -63,4 +65,4 @@ collections:
     foo: bar
 
 # Permalinks
-permalink: pretty
+#permalink: pretty
