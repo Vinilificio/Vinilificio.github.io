@@ -7,8 +7,6 @@ menu:
     id: info
   - titolo: Gallery
     id: gallery
-  - titolo: Tech specs
-    id: tech specs
 published: true
 ---
 
