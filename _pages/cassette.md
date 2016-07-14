@@ -9,6 +9,7 @@ menu:
     id: gallery
   - titolo: Tech specs
     id: tech specs
+published: true
 ---
 
 ### Info
