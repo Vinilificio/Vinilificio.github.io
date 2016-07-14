@@ -1,6 +1,5 @@
 ---
 title: Custom Vinyl
-
 position: header
 index: 1
 menu:
@@ -10,13 +9,17 @@ menu:
     id: gallery
   - titolo: Tech specs
     id: tech-specs
+published: true
 ---
 
 ### Info
 
 _Hai bisogno di stampare il tuo vinile in piccole quantità?_
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis ldis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+
+![e53cd756d0c2c9210fb753a37c1ec011_YucQoNgf_l.jpg]({{site.baseurl}}/_pages/e53cd756d0c2c9210fb753a37c1ec011_YucQoNgf_l.jpg)
+
 
 ### Gallery
 
@@ -25,4 +28,3 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ### Tech specs
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-
