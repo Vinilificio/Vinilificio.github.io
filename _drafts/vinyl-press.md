@@ -38,10 +38,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero i
 
 ### Tech specs
 
+**FORMATO**
+Consigliamo formato .wav o .aif . Per le frequenze di campionamento e bitrate vedi qui sotto.
+
 La qualità (volume, frequenze e dinamica) di un’incisione su vinile è determinata da alcuni importanti fattori del master. Il master che verrà riprodotto dovrà rispettare alcune regole che trovi qui di seguito :
 
 
-**VOLUME: **
+**VOLUME**
 * Minore è la quantità musica incisa su ciascun lato, più alto è il volume, più ampi sono i solchi. Ad esempio, 12 minuti è il massimo di musica per ottenere un risultato ottimale su vinile di formato  12″ inciso a 33 rpm (giri), soprattutto per i dj che necessitano un volume importante.
 
 * Il volume del master per un incisione stereo dev’essre per lo standard analogico 0 dbu o 0,775 volts .
@@ -52,7 +55,7 @@ La frequenza di campionamento deve essere 44100 Hz o superiore. La gamma di freq
 Oltre tali livelli viene pregiudicata la qualità del suono inciso.
  
 
-Il compromesso ottimale qualità/quantità è il seguente: 12″ a 33 rpm ad alto volume max. 12 min. 12″ a 45 rpm ad alto volume max. 9 min. 10″ a 33 rpm ad alto volume max. 8 min. 10″ a 45 rpm ad alto volume max. 6 min. 7″ a 45 rpm ad alto volume max. 4 min.
+* Il compromesso ottimale qualità/quantità è il seguente: 12″ a 33 rpm ad alto volume max. 12 min. 12″ a 45 rpm ad alto volume max. 9 min. 10″ a 33 rpm ad alto volume max. 8 min. 10″ a 45 rpm ad alto volume max. 6 min. 7″ a 45 rpm ad alto volume max. 4 min.
 Migliore rapporto durata/volume:
 12″ a 33 rpm ad alto volume max. 12 min.
 12″ a 45 rpm ad alto volume max. 9 min.
