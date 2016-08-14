@@ -18,11 +18,11 @@ published: true
 _La tua musica su vinile anche in quantità a partire da 100 copie_
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
-Stampiamo i tuoi vinili a partire da 100 copie nei formati 7" e 12" 140 gr. e da 300 copie nei formati 10" e 12" 180 gr.
-Stampiamo vinili neri, colorati e mermorizzati, oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
+Stampiamo i tuoi vinili a partire da 100 copie nei formati 7" e 12" 140 gr. e a partire da 300 copie nei formati 10" e 12" 180 gr.
+Stampiamo vinili neri, colorati e marmorizzati, oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
 Abbiamo a cuore la qualità dei tuoi vinili grazie al Quality Department che controlla ad ogni passaggio produttivo la qualità della lavorazione.
 
-Vinilificio ti guida nella migliore scelta 
+Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapporto qualità/volume/durata, stampe... . La decennale esperienza nella produzione di vinili fa di Vinilificio il migliore partner per la tua produzione.
 
 
 [ciao rega sono un link](/fesdhtgv)
