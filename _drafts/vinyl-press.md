@@ -41,8 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero i
 La qualità (volume, frequenze e dinamica) di un’incisione su vinile è determinata da alcuni importanti fattori del master. Il master che verrà riprodotto dovrà rispettare alcune regole che trovi qui di seguito :
 
 
-VOLUME: 
-*Minore è la quantità musica incisa su ciascun lato, più alto è il volume, più ampi sono i solchi. Ad esempio, 12 minuti è il massimo di musica per ottenere un risultato ottimale su vinile di formato  12″ inciso a 33 rpm (giri), soprattutto per i dj che necessitano un volume importante.
+**VOLUME: **
+* Minore è la quantità musica incisa su ciascun lato, più alto è il volume, più ampi sono i solchi. Ad esempio, 12 minuti è il massimo di musica per ottenere un risultato ottimale su vinile di formato  12″ inciso a 33 rpm (giri), soprattutto per i dj che necessitano un volume importante.
 
 * Il volume del master per un incisione stereo dev’essre per lo standard analogico 0 dbu o 0,775 volts .
 Per lo standard digitale il discorso è un po’ più articolato:
