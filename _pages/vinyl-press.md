@@ -17,7 +17,7 @@ published: true
 ---
 ### Info
 
-_La tua musica su vinile anche in quantità a partire da 100 copie_
+__La tua musica su vinile anche in quantità a partire da 100 copie__
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
 Stampiamo i tuoi vinili a partire da 
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero i
 
 
 ### Specifiche
-**Audio per Mastering e transfer su Lacquer disc
+__Audio per Mastering e transfer su Lacquer disc__
 
 * ▪ formati
 * ▪ bit rate , headroom e compressione
