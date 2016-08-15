@@ -25,11 +25,11 @@ Stampiamo i tuoi vinili a partire da
 * ▪ da 100 copie nei formati 7" e 12" 140 gr. 
 * ▪ da 300 copie nei formati 10" e 12" 180 gr.
 
-Stampiamo vinili neri, colorati e marmorizzati, oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
+Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande) 10" e 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
 
-Stampiamo copertine buste e inserti in tutti i formati, bianco e nero, colori, colori speciali (Pantone, UV, metallici...).
+Stampiamo copertine buste, inserti, centrini, sticker adesivi, in tutti i formati, in bianco e nero, a colori o con colori speciali (Pantone, UV, metallici...).
 
-Abbiamo a cuore la qualità dei tuoi vinili grazie al Quality Department che controlla ad ogni passaggio produttivo la qualità della lavorazione.
+Abbiamo a cuore la qualità dei tuoi vinili. Per questo grazie al Quality Department controlliamo la qualità della lavorazione ad ogni passaggio produttivo.
 
 Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapporto qualità/volume/durata, stampe... . La decennale esperienza nella produzione di vinili fa di Vinilificio il migliore partner per la tua produzione.
 
