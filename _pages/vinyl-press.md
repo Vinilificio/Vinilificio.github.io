@@ -42,7 +42,7 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero id gravida facilisis. Fusce ultrices, lorem eu luctus egestas, lectus libero posuere libero, sit amet pulvinar ante est sit amet elit. Sed porttitor malesuada posuer
 
 
-### Specifiche: 
+### Specifiche
 **Audio per Mastering e transfer su Lacquer disc
 
 * ▪ formati
