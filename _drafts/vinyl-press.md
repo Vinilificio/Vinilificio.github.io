@@ -36,18 +36,17 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero id gravida facilisis. Fusce ultrices, lorem eu luctus egestas, lectus libero posuere libero, sit amet pulvinar ante est sit amet elit. Sed porttitor malesuada posuer
 
 
-### Tech specs
-Specifiche:
-Audio per Mastering e transfer su Lacquer disc
-▪ formati
-▪ bit rate , headroom e compressione
-▪ sampling rate e frequenze
-▪ de- essing
-▪ livelli e frequenze stereo
-▪ durata per lato e volume
-▪ dissolvenze e spirali
-▪ files master a richiseta / lacquer disc di riferimento a richiesta
-I formati dei file con cui lavoriamo sono WAV, AIFF, FLAC (senza perdita dati) ed immagine DDP (solo
+### Specifiche: Audio per Mastering e transfer su Lacquer disc
+
+* ▪ formati
+* ▪ bit rate , headroom e compressione
+* ▪ sampling rate e frequenze
+* ▪ de- essing
+* ▪ livelli e frequenze stereo
+* ▪ durata per lato e volume
+* ▪ dissolvenze e spirali
+* ▪ files master a richiseta / lacquer disc di riferimento a richiesta
+* I formati dei file con cui lavoriamo sono WAV, AIFF, FLAC (senza perdita dati) ed immagine DDP (solo
 per il transfer su lacquer disc). Si prega di evitare l’invio di files che abbiano una compressione con
 perdita di dati o qualsiasi formato di file trascodificati (mp3, m4a, wma…). I CD audio non sono raccomandati,
 in quanto non offrono alcun controllo CRC . Si prega di utilizzare CD dati o inviare i files
