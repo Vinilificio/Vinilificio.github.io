@@ -45,7 +45,7 @@ La qualità (volume, frequenze e dinamica) di un’incisione su vinile è determ
 
 
 **VOLUME**
-* Minore è la quantità musica incisa su ciascun lato, più alto è il volume, più ampi sono i solchi. Ad esempio, 12 minuti è il massimo di musica per ottenere un risultato ottimale su vinile di formato  12″ inciso a 33 rpm (giri), soprattutto per i dj che necessitano un volume importante.
+* Minore è la quantità di musica incisa su ciascun lato, più alto è il volume, più ampi sono i solchi. Ad esempio, 12 minuti è il massimo di musica per ottenere un risultato ottimale su vinile di formato  12″ inciso a 33 rpm (giri), soprattutto per i dj che necessitano un volume importante.
 
 * Il volume del master per un incisione stereo dev’essre per lo standard analogico 0 dbu o 0,775 volts .
 Per lo standard digitale il discorso è un po’ più articolato:
@@ -56,12 +56,14 @@ Oltre tali livelli viene pregiudicata la qualità del suono inciso.
  
 
 * Il compromesso ottimale qualità/quantità è il seguente: 12″ a 33 rpm ad alto volume max. 12 min. 12″ a 45 rpm ad alto volume max. 9 min. 10″ a 33 rpm ad alto volume max. 8 min. 10″ a 45 rpm ad alto volume max. 6 min. 7″ a 45 rpm ad alto volume max. 4 min.
+
 Migliore rapporto durata/volume:
 12″ a 33 rpm ad alto volume max. 12 min.
 12″ a 45 rpm ad alto volume max. 9 min.
 10″ a 33 rpm ad alto volume max. 8 min.
 10″ a 45 rpm ad alto volume max. 6 min.
 7″ a 45 rpm ad alto volume max. 4 min.
+
 Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:
 < 12 min. per lato        ->     volume alto
 12 / 15 min. per lato    ->     volume medio / alto
