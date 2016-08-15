@@ -11,7 +11,6 @@ menu:
   id: tempi
 - titolo: Tech Specs
   id: tech-specs
-published: true
 - titolo: Specifiche
   id: specifiche
 published: true
