@@ -9,7 +9,7 @@ menu:
   id: gallery
 - titolo: Tempi di lavorazione e spedizione
   id: tempi
-- titolo: Specifiche: Audio per Mastering e transfer su Lacquer disc
+- titolo: Tech Specs
   id: tech-specs
 published: true
 ---
