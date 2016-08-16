@@ -45,14 +45,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero i
 ### Specifiche
 __Audio per Mastering e transfer su Lacquer disc__
 
-* ▪ formati
-* ▪ bit rate , headroom e compressione
-* ▪ sampling rate e frequenze
-* ▪ de- essing
-* ▪ livelli e frequenze stereo
-* ▪ durata per lato e volume
-* ▪ dissolvenze e spirali
-* ▪ files master a richiseta / lacquer disc di riferimento a richiesta
+* formati
+* bit rate , headroom e compressione
+* sampling rate e frequenze
+* de- essing
+* livelli e frequenze stereo
+* durata per lato e volume
+* dissolvenze e spirali
+* files master a richiseta / lacquer disc di riferimento a richiesta
 
 I formati dei file con cui lavoriamo sono WAV, AIFF, FLAC (senza perdita dati) ed immagine DDP (solo per il transfer su lacquer disc). Si prega di evitare l’invio di files che abbiano una compressione con perdita di dati o qualsiasi formato di file trascodificati (mp3, m4a, wma…). I CD audio non sono raccomandati, in quanto non offrono alcun controllo CRC . Si prega di utilizzare CD dati o inviare i files come da nostre indicazioni. Per tutti gli altri formati, sia analogici che digitali, si prega di chiedere per ulteriori informazioni.
 
