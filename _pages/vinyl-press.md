@@ -40,7 +40,7 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 ### Gallery
 
 ![Vinyl12inch]({{ site.baseurl }}/forestryio/images/13814044_761073040662410_2408294282722944411_n.jpg)
-
+12" 140 gr. green transparent with printed label, inner sleeve white and 12" cover, 3mm spine, printed 4c
 
 ### Specifiche
 __Audio per Mastering e transfer su Lacquer disc__
