@@ -39,7 +39,7 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 
 ### Gallery
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare libero id gravida facilisis. Fusce ultrices, lorem eu luctus egestas, lectus libero posuere libero, sit amet pulvinar ante est sit amet elit. Sed porttitor malesuada posuer
+![Vinyl12inch]({{ site.baseurl }}/forestryio/images/13814044_761073040662410_2408294282722944411_n.jpg)
 
 
 ### Specifiche
