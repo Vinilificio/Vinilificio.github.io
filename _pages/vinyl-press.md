@@ -72,7 +72,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 7″ a 45 rpm ad alto volume max. 4 min.
 
-* durata per lato max e volume (sconsigliamo di arrivare ai limiti di durata):
+* durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata):
 
 12″ a 33 rpm a basso volume max. 25 min.
 
