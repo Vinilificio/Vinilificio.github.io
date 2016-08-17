@@ -48,12 +48,15 @@ __Audio per Mastering e transfer su Lacquer disc__
 WAV, AIFF, FLAC, immagine DDP
 
 * bit rate
+
 16 bit, 24 bit
 
 * sampling rate e frequenze
+
 44100 hz o superiore
 
 * de- essing
+
 Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
 
 * Controfasi e frequenze stereo sotto i 300 hz
@@ -61,7 +64,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 * durata per lato e volume:
 
-Migliore rapporto durata/volume:
+_Migliore rapporto durata/volume:_
 
 12″ a 33 rpm ad alto volume max. 12 min.
 
@@ -74,7 +77,7 @@ Migliore rapporto durata/volume:
 7″ a 45 rpm ad alto volume max. 4 min.
 
 
-Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:
+_Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:_
 < 12 min. per lato        ->     volume alto
 12 / 15 min. per lato    ->     volume medio / alto
 15 / 20 min. per lato    ->     volume medio / basso
