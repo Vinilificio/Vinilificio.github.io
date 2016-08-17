@@ -40,7 +40,7 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
 ### Specifiche
 __Audio per Mastering e transfer su Lacquer disc__
 
-* formati
+* _formati_
 
 WAV, AIFF, FLAC, immagine DDP
 
