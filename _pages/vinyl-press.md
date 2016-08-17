@@ -34,9 +34,6 @@ Abbiamo a cuore la qualità dei tuoi vinili. Per questo grazie al Quality Depart
 Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapporto qualità/volume/durata, stampe... . La decennale esperienza nella produzione di vinili fa di Vinilificio il migliore partner per la tua produzione.
 
 
-[ciao rega sono un link](/fesdhtgv)
-
-
 ### Gallery
 
 ![Vinyl12inch]({{ site.baseurl }}/forestryio/images/13814044_761073040662410_2408294282722944411_n.jpg)
@@ -48,11 +45,48 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
 __Audio per Mastering e transfer su Lacquer disc__
 
 * formati
-* bit rate , headroom e compressione
+WAV, AIFF, FLAC, immagine DDP
+
+* bit rate
+16 bit, 24 bit
+
 * sampling rate e frequenze
+44100 hz o superiore
+
 * de- essing
-* livelli e frequenze stereo
-* durata per lato e volume
+Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
+
+* Controfasi e frequenze stereo sotto i 300 hz
+Evitare controfasi e frequenze in stereo sotto i 300 hz
+
+* durata per lato e volume:
+
+Migliore rapporto durata/volume:
+
+12″ a 33 rpm ad alto volume max. 12 min.
+
+12″ a 45 rpm ad alto volume max. 9 min.
+
+10″ a 33 rpm ad alto volume max. 8 min.
+
+10″ a 45 rpm ad alto volume max. 6 min.
+
+7″ a 45 rpm ad alto volume max. 4 min.
+
+
+Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:
+< 12 min. per lato        ->     volume alto
+12 / 15 min. per lato    ->     volume medio / alto
+15 / 20 min. per lato    ->     volume medio / basso
+> 20 min. per lato (max. 25 minuti)        ->     volume basso
+
+
+- massimi livelli, circa +6 dB : 6 min a 45 RPM, 8 min a 33 giri
+- livelli sufficienti , circa +4 dB : 8 min a 45 giri , 11 min a 33 giri
+- livello massimo consigliato per dj, circa 0 dB : 11 min a 45 giri , 15 min a 33 giri
+- durata massima su vinile e soprattutto perché abbia senso una registrazione su vinile , circa -6 dB o
+- inferiore: 18 min a 45 giri , 24 min a 33 giri.
+
 * dissolvenze e spirali
 * files master a richiseta / lacquer disc di riferimento a richiesta
 
@@ -66,8 +100,7 @@ La frequenza di campionamento deve essere 44100 Hz o superiore. La gamma di freq
 
 Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti. Le sibilianti possono produrre “esplosioni” di alte frequenze causa di fastidiose distorsioni. Puoi utilizzare un de-esser sul master già mixato, ma consigliamo se possibile di applicarlo durante la fase di mixaggio, per un risultato più trasparente ed efficace.
 
-Le informazioni stereo (segnale in MS) dovrebbero essere di 6 dB inferiori rispetto alle informazioni mono (metà del segnale in MS). Pertanto, il segnale stereo non dovrebbe mai essere più forte della metà del livello mono. Per incisioni ad alto volume è consigliato una distanza di almeno 9 dB (tra segnale
-mono e stereo), utile per evitare eventuali problemi di tracciatura del solco. Inoltre, non è consigliato avere importanti contenuti stero al di sotto dei 200Hz. Mentre il solco mono viene inciso orizzontalmente, tutte le informazioni stereo sono incise verticalmente sul vinile (quindi in profondità), per questo la modulazione sul verticale è molto più limitata, proprio per evitare che la puntina salti.
+Le informazioni stereo (segnale in MS) dovrebbero essere di 6 dB inferiori rispetto alle informazioni mono (metà del segnale in MS). Pertanto, il segnale stereo non dovrebbe mai essere più forte della metà del livello mono. Per incisioni ad alto volume è consigliato una distanza di almeno 9 dB (tra segnale mono e stereo), utile per evitare eventuali problemi di tracciatura del solco. Inoltre, non è consigliato avere importanti contenuti stero al di sotto dei 200Hz. Mentre il solco mono viene inciso orizzontalmente, tutte le informazioni stereo sono incise verticalmente sul vinile (quindi in profondità), per questo la modulazione sul verticale è molto più limitata, proprio per evitare che la puntina salti.
 
 Per gli LP la correlazione non dev’essere superiore ai 90 °, mentre per i maxi single ad alto volume non superiore ai 60 °.
 
