@@ -11,9 +11,9 @@ menu:
   id: specifiche
 published: true
 ---
-### Info
+# __La stampa del tuo vinile a partire da 100 copie__
 
-__La stampa del tuo vinile a partire da 100 copie__
+### Info
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
 Stampiamo i tuoi vinili a partire da 
