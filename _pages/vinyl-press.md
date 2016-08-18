@@ -13,7 +13,7 @@ published: true
 ---
 ### Info
 
-__La tua musica su vinile anche in quantità a partire da 100 copie__
+__La stampa del tuo vinile a partire da 100 copie__
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
 Stampiamo i tuoi vinili a partire da 
@@ -40,27 +40,27 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
 ### Specifiche
 __Audio per Mastering e transfer su Lacquer disc__
 
-* _formati_
+* formati
 
 WAV, AIFF, FLAC, immagine DDP
 
-* _bit rate_
+* bit rate
 
 16 bit, 24 bit
 
-* _sampling rate e frequenze_
+* sampling rate e frequenze
 
 44100 hz o superiore
 
-* _de- essing_
+* de- essing
 
 Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
 
-* _Controfasi e frequenze stereo sotto i 300 hz_
+* Controfasi e frequenze stereo sotto i 300 hz
 
 Evitare controfasi e frequenze in stereo sotto i 300 hz
 
-* _durata per lato e volume ottimale_
+* durata per lato e volume ottimale:
 
 12″ a 33 rpm ad alto volume max. 12 min.
 
@@ -72,15 +72,13 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 7″ a 45 rpm ad alto volume max. 4 min.
 
-* _durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)_
+* durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata):
 
 12″ a 33 rpm a basso volume max. 25 min.
 
 10″ a 33 rpm a basso volume max. 12 min.
 
 7″ a 45 rpm a basso volume max. 6 min.
-
-
 
 
 
