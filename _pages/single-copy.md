@@ -18,8 +18,8 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 #specifiche
 
-![]({{ site.baseurl }}/forestryio/images/infografic-vinili_griglia_web-8.jpg)
-![]({{ site.baseurl }}/forestryio/images/infografic-vinili_senza_web-7.jpg)
+![]({{ site.baseurl }}/forestryio/images/infografic-vinili_griglia_web-9.jpg)
+![]({{ site.baseurl }}/forestryio/images/infografic-vinili_senza_web-8.jpg)
 
 ![]({{ site.baseurl }}/forestryio/images/infografic-vinili_griglia_web-4.jpg)
 ![]({{ site.baseurl }}/forestryio/images/infografic-vinili_senza_web-3.jpg)
