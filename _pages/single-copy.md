@@ -27,12 +27,9 @@ Su vinile la quantità di musica incisa per lato determina il volume del segnale
 
 Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa meno spazio se inciso a basso volume.
 
-
 (-) musica per lato = (+) volume
 
 (+) musica per lato = (-) volume
-
-L'incisione fonografica ha un rapporto segnale/rumore. Minore il sengale, maggiore è il rumore di fondo e viceversa.
 
 Migliore rapporto durata/volume:
 * 12″ a 33 rpm ad alto volume max. 12 min.
