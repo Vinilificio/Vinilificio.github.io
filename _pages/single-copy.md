@@ -21,7 +21,7 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Specifiche
 
-##Quanta musica si può incidere su vinile?
+## Quanta musica si può incidere su vinile?
 
 Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso. 
 
@@ -38,9 +38,23 @@ Migliore rapporto durata/volume:
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
 
+## Audio
+Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
+
+Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qualità dell'incisione su vinile.
+
+Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
+
+**Frequenze basse:** 
+
+* Taglio sotto i 20hz. Le frequenze sotto i 20 Hz possono creare problemi di risonanza.
+* Per evitare controfasi con conseguenti interuzzioni del solco e quindi salto della puntina, è consigliabile tenere in MONO le frequenze sotto i 300 hz.
+
+**Frequenze alte:** 
+
+* De-esser: È consigliato utilzzare un de-esser sulle voci e in generale sulle sibilanti
+* Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
+* Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
+
+
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
-
-
-
-
-
