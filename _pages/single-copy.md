@@ -29,8 +29,17 @@ Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa m
 
 
 (-) musica per lato = (+) volume
+
 (+) musica per lato = (-) volume
 
+L'incisione fonografica ha un rapporto segnale/rumore. Minore il sengale, maggiore è il rumore di fondo e viceversa.
+
+Migliore rapporto durata/volume:
+* 12″ a 33 rpm ad alto volume max. 12 min.
+* 12″ a 45 rpm ad alto volume max. 9 min.
+* 10″ a 33 rpm ad alto volume max. 8 min.
+* 10″ a 45 rpm ad alto volume max. 6 min.
+* 7″ a 45 rpm ad alto volume max. 4 min.
 
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
 
