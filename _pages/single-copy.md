@@ -21,6 +21,13 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Specifiche
 
+##Quanta musica si può incidere su vinile?
+Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso. 
+Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa meno spazio se inciso a basso volume.
+(-) musica per lato = (+) volume
+(+) musica per lato = (-) volume
+
+
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
 
 
