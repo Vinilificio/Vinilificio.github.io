@@ -29,7 +29,6 @@ Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa m
 
 
 (-) musica per lato = (+) volume
-
 (+) musica per lato = (-) volume
 
 
