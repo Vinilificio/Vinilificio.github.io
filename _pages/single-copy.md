@@ -49,6 +49,7 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
 * Taglio sotto i 20hz. Le frequenze sotto i 20 Hz possono creare problemi di risonanza.
 * Per evitare controfasi con conseguenti interuzzioni del solco e quindi salto della puntina, è consigliabile tenere in MONO le frequenze sotto i 300 hz.
+* Evitare controfasi se non si ha un'approfondita conoscenza di mastering. Per vericare se ci sono controfasi utilizza un "correlation meter" presente praticamente in tutti i programmi di audio.
 
 **Frequenze alte:** 
 
