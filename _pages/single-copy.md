@@ -22,7 +22,6 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 ### Specifiche
 
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
-Format: ![Vinyl format](url)
 
 
 
