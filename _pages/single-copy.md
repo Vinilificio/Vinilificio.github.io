@@ -57,5 +57,8 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 * Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
 * Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
 
+**Vuoi saperne di più?** Dai un'occhiata qua
+
+**Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
