@@ -5,10 +5,10 @@ index: 2
 menu:
 - titolo: Info
   id: info
-- titolo: Grafica
-  id: grafica
 - titolo: Singola copia o piccole tirature
   id: single
+- titolo: Grafica
+  id: grafica
 - titolo: Audio
   id: audio
 - titolo: Ordina il tuo vinile
@@ -22,11 +22,16 @@ ___VINILE IN SINGOLA COPIA E DUBPLATE___
 Dal 2005 il Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
 I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, 5" x 7" (vinyl postcard) diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente e picture disc.
 
+### Singola copia o piccole tirature
+
+Realizziamo il tuo vinile in singola copia, qualche unità o piccole tirature. 
+Dalla Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
+
 ### Grafica
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la grafica della tua copertina.
 
-### Singola copia o piccole tirature
+ 
 
 ![infographic vinili](/img/infografic-vinili_senza_web.jpg)
 
