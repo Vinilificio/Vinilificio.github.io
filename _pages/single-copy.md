@@ -7,8 +7,8 @@ menu:
   id: info
 - titolo: Gallery
   id: gallery
-- titolo: Specifiche
-  id: specifiche
+- titolo: Audio
+  id: audio
 published: true
 ---
 ___VINILE IN SINGOLA COPIA E DUBPLATE___
@@ -19,7 +19,7 @@ Dal 2005 il Vinilificio riversa la tua musica in singola copia su vero disco di 
 I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente e picture disc.
 
 
-### Specifiche
+### Audio
 
 ## Quanta musica si può incidere su vinile?
 
@@ -38,7 +38,7 @@ Migliore rapporto durata/volume:
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
 
-## Audio
+## Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
 
 Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qualità dell'incisione su vinile.
