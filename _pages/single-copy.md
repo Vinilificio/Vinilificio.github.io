@@ -21,7 +21,7 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Audio
 
-# Quanta musica si può incidere su vinile?
+#### Quanta musica si può incidere su vinile?
 
 Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso. 
 
@@ -38,7 +38,7 @@ Migliore rapporto durata/volume:
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
 
-# Files audio e alcune indicazioni importanti
+#### Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
 
 Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qualità dell'incisione su vinile.
