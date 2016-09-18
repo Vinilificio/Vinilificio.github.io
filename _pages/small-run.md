@@ -15,6 +15,7 @@ Riversiamo l’audio su vinile per i tuoi promo in piccole quantità senza dover
 * 20 x 12″ nero 1,5 mm (entro 8 minuti per lato) € 400,00 (*)
 * 30 x 12″ nero 1,5 mm (entro 8 minuti per lato)  € 540,00 (*)
  
+
 * 10 x 10″ nero 1,5 mm (entro 6 minuti per lato) € 220,00 (*)
 * 20 x 10″ nero 1,5 mm (entro 6 minuti per lato) € 380,00 (*)
 * 30 x 10″ nero 1,5 mm (entro 6 minuti per lato)  € 510,00 (*)
