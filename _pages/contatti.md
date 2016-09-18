@@ -25,5 +25,7 @@ email: info [at] vinilificio.com
 
 
 facebook: http://www.facebook.com/VINILIFICIOVINYL
+
 instagram: http://instagram.com/vinilificio
+
 twitter: http://www.twitter.com/vinilificio
