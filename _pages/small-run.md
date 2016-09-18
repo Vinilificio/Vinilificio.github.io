@@ -5,7 +5,7 @@ layout: default
 position: footer
 index: 3
 ---
-
+![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
 Vinilificio offre un nuovo servizio di transfer audio su vinile pensato per dj ed etichette.
 
 Riversiamo l’audio su vinile per i tuoi promo in piccole quantità senza dover attendere mesi ed impegnarsi in grandi quantità.
