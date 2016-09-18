@@ -24,7 +24,7 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Singola copia o piccole tirature
 
-Realizziamo il tuo vinile in singola copia, qualche unità o piccole tirature. 
+Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](https://vinilificio.github.io/small-run/). 
 
 Con la Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
