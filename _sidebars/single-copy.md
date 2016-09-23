@@ -1,5 +1,5 @@
 ---
-name: custom-vinyl
+name: single-copy
 ---
 
 [Crea il tuo vinile](/)
