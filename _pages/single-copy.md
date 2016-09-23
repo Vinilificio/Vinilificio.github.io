@@ -6,7 +6,7 @@ menu:
 - titolo: Info
   id: info
 - titolo: Singola copia o piccole tirature
-  id: singola_copia,_piccole_tirature
+  id: singola-copia,-piccole-tirature
 - titolo: Grafica
   id: grafica
 - titolo: Audio
