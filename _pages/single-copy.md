@@ -24,8 +24,7 @@ I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come l
 
 ### Singola copia o piccole tirature
 
-Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](https://vinilificio.github.io/small-run/). 
-
+Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](https://vinilificio.github.io/small-run/).
 Con la Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
 
 ### Grafica
@@ -34,7 +33,7 @@ Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti
 
  
 
-![infographic vinili](/img/infografic-vinili_senza_web.jpg)
+![infographic vinili](/img/infografic-vinili_senza_web.jpg) 
 
 ### Audio
 
@@ -49,6 +48,7 @@ Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa m
 (+) musica per lato = (-) volume
 
 Migliore rapporto durata/volume:
+
 * 12″ a 33 rpm ad alto volume max. 12 min.
 * 12″ a 45 rpm ad alto volume max. 9 min.
 * 10″ a 33 rpm ad alto volume max. 8 min.
