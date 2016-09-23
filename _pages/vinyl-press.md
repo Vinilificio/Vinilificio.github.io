@@ -39,48 +39,42 @@ _12" 140 gr. verde trasparente con centrino stampato 4c, busta interna bianca e 
 _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
 
 ### Specifiche
-__Audio per Mastering e transfer su Lacquer disc__
+_Audio per Mastering e transfer su Lacquer disc_
 
-* formati
+__Formati__
 
 WAV, AIFF, FLAC, immagine DDP
 
-* bit rate
+__Bit rate__
 
 16 bit, 24 bit
 
-* sampling rate e frequenze
+__Sampling rate e frequenze__
 
 44100 hz o superiore
 
-* de- essing
+__De-essing__
 
 Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
 
-* Controfasi e frequenze stereo sotto i 300 hz
+__Controfasi e frequenze stereo sotto i 300 hz__
 
 Evitare controfasi e frequenze in stereo sotto i 300 hz
 
-* durata per lato e volume ottimale:
+__Durata per lato e volume ottimale__
 
-12″ a 33 rpm ad alto volume max. 12 min.
+* 12″ a 33 rpm ad alto volume max. 12 min.
+* 12″ a 45 rpm ad alto volume max. 9 min.
+* 10″ a 33 rpm ad alto volume max. 8 min.
+* 10″ a 45 rpm ad alto volume max. 6 min.
+* 7″ a 45 rpm ad alto volume max. 4 min. 
 
-12″ a 45 rpm ad alto volume max. 9 min.
+__Durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)__
 
-10″ a 33 rpm ad alto volume max. 8 min.
-
-10″ a 45 rpm ad alto volume max. 6 min.
-
-7″ a 45 rpm ad alto volume max. 4 min.
-
-* durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata):
-
-12″ a 33 rpm a basso volume max. 25 min.
-
-10″ a 33 rpm a basso volume max. 12 min.
-
-7″ a 45 rpm a basso volume max. 6 min.
-
-
+* 12″ a 33 rpm a basso volume max. 25 min.
+* 10″ a 33 rpm a basso volume max. 12 min.
+* 7″ a 45 rpm a basso volume max. 6 min.
 
 [Scarica o guarda il pdf con le specifiche dettagliate](https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf)
+
+<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">Scarica (di là)</a>
