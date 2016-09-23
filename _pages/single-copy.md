@@ -32,9 +32,13 @@ Con la Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio,
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la grafica della tua copertina.
 
- 
+ <align="center">*Formati standard</align>
 
-![infographic vinili](/img/infografic-vinili_senza_web.jpg) 
+![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png) 
+
+ <align="center">*Formati speciali</align>
+
+![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png) 
 
 ### Audio
 
