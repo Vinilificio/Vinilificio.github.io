@@ -76,6 +76,5 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 * 10″ a 33 rpm a basso volume max. 12 min.
 * 7″ a 45 rpm a basso volume max. 6 min.
 
-[Scarica o guarda il pdf con le specifiche dettagliate](https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf)
 
-<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">Scarica (di là)</a>
+<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">[Scarica o guarda il pdf con le specifiche dettagliate]</a>
