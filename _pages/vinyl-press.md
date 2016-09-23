@@ -11,8 +11,8 @@ menu:
   id: specifiche
 published: true
 ---
-__LA STAMPA DEL TUO VINILE A PARTIRE DA 100 COPIE__
 
+# La stampa dei tuoi vinili a partire da 100 copie
 
 ### Info
 
