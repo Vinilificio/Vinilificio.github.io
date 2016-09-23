@@ -35,6 +35,7 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 
 ![Vinyl12inchcolor]({{ site.baseurl }}/forestryio/images/13814044_761073040662410_2408294282722944411_n.jpg)
 _12" 140 gr. verde trasparente con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
+
 ![Vinyl12inchblack]({{ site.baseurl }}/forestryio/images/BJ_vinyl_pic01.jpg)
 _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
 
