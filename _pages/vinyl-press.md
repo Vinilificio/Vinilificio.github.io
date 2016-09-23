@@ -11,7 +11,7 @@ menu:
   id: specifiche
 published: true
 ---
-___LA STAMPA DEL TUO VINILE A PARTIRE DA 100 COPIE___
+__LA STAMPA DEL TUO VINILE A PARTIRE DA 100 COPIE__
 
 
 ### Info
@@ -41,27 +41,27 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
 ### Specifiche
 _Audio per Mastering e transfer su Lacquer disc_
 
-__Formati__
+###### Formati
 
 WAV, AIFF, FLAC, immagine DDP
 
-__Bit rate__
+###### Bit rate
 
 16 bit, 24 bit
 
-__Sampling rate e frequenze__
+###### Sampling rate e frequenze
 
 44100 hz o superiore
 
-__De-essing__
+###### De-essing
 
 Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
 
-__Controfasi e frequenze stereo sotto i 300 hz__
+###### Controfasi e frequenze stereo sotto i 300 hz
 
 Evitare controfasi e frequenze in stereo sotto i 300 hz
 
-__Durata per lato e volume ottimale__
+###### Durata per lato e volume ottimale
 
 * 12″ a 33 rpm ad alto volume max. 12 min.
 * 12″ a 45 rpm ad alto volume max. 9 min.
@@ -69,7 +69,7 @@ __Durata per lato e volume ottimale__
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min. 
 
-__Durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)__
+###### Durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)
 
 * 12″ a 33 rpm a basso volume max. 25 min.
 * 10″ a 33 rpm a basso volume max. 12 min.
