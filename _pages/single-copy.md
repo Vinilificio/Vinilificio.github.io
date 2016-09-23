@@ -15,7 +15,7 @@ menu:
   id: ordina
 published: true
 ---
-___VINILE IN SINGOLA COPIA E DUBPLATE___
+# Vinile in singola copia e dubplate
 
 ### Info
 
