@@ -79,4 +79,4 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
 **Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
-### Ordina il tuo vinile
+### Ordina
