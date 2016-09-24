@@ -2,12 +2,12 @@
 title: Mastering
 date: '2016-07-12 15:51:00'
 layout: default
-position: footer
-index: 4
+position: header
+index: 5
 draft: true
 ---
 
-### mastering audio, ottimizzazione per vinile, restauro
+### Mastering audio, ottimizzazione per vinile, restauro
 
 Ogni supporto fonografico sia esso vinile, file, cd, dvd, video ha delle sue peculiarità tecniche (limiti e vantaggi). Il mastering permette di adattare il master audio al supporto su cui verrà trasferito. Il mastering è un procedimento essenziale per realizzare un buon prodotto audio (senza errori) e soprattutto per poter mettere in risalto quei “colori” e quei “toni” che senza mastering rimarrebbero sopiti.
 
