@@ -32,14 +32,6 @@ Con la Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio,
 
 Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la grafica della tua copertina.
 
-*Formati standard*
-
-![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png) 
-
-*Formati speciali*
-
-![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png) 
-
 ### Audio
 
 #### Quanta musica si può incidere su vinile?
@@ -59,6 +51,14 @@ Migliore rapporto durata/volume:
 * 10″ a 33 rpm ad alto volume max. 8 min.
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
+
+*Formati standard*
+
+![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png) 
+
+*Formati speciali*
+
+![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png) 
 
 #### Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
