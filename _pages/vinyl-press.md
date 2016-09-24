@@ -11,8 +11,6 @@ menu:
   id: specifiche
 - titolo: Preventivo
   id: preventivo
-- titolo: Ordina
-   id: ordina
 published: true
 ---
 
