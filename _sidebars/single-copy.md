@@ -4,7 +4,7 @@ name: single-copy
 
 [Crea il tuo vinile](/)
 
-[Small run](https://vinilificio.github.io/single-copy/)
+[Small run](https://vinilificio.github.io/small-run/)
 
 Scopri di più sulle piccole tirature (10, 20, 30 copie)
 
