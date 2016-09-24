@@ -36,3 +36,5 @@ Tempi di lavorazione: 15/20 giorni lavorativi
 
 Per ordini e informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
 
+
+![small runs](/img/14310876_1791097337805434_318083881_n.jpg) 
