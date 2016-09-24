@@ -21,10 +21,8 @@ Le cassette possono essere nere, bianche, blu, gialle, rosse, rosa, trasparenti,
 
 Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
 
-– Durata Master
+* Durata Master
+* Con o senza stampa tampone sulla cassetta 
+* Con o senza inlay (inserto di carta stampato)
 
-– Con o senza stampa tampone sulla cassetta 
-
-– Con o senza inlay (inserto di carta stampato)
-
-Contattaci per maggiori informazioni.
+Per ordinare le tue cassette scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
