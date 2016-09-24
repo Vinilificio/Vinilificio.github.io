@@ -5,16 +5,25 @@ index: 4
 menu:
   - titolo: Info
     id: info
-  - titolo: Gallery
-    id: gallery
 published: true
 ---
+# Cassette
+
 
 ### Info
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Le vecchie cassette, le ricordi ? Quelle che si ascoltavano nel mangianastri, nel ghetto blaster  o nello stereo dell’automobile?
 
+Il Vinilificio può realizzare a partire da 50 copie le tua audiocassette. Possiamo stampare direttamente sulla cassetta, stampare sull’inserto di carta (0 ante, 1 anta, 2 ante), custodia di cartone stampata o neutra, fogli A4 fustellati per l'etichetta da apporre sulla cassetta. Incidiamo su nastro al ferro. Il nastro al cromo è disponibile soloper le cassette vergini.
 
-### Gallery
+Le cassette possono essere nere, bianche, blu, gialle, rosse, rosa, trasparenti, fumè.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
+
+– Durata Master
+
+– Con o senza stampa tampone sulla cassetta 
+
+– Con o senza inlay (inserto di carta stampato)
+
+Contattaci per maggiori informazioni.
