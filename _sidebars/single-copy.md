@@ -4,15 +4,15 @@ name: single-copy
 
 [Crea il tuo vinile](/)
 
-[Small run](http://example.net/)
+[Small run](https://vinilificio.github.io/single-copy/)
 
 Scopri di più sulle piccole tirature (10, 20, 30 copie)
 
-[Mastering](http://example.net/)
+[Mastering](https://vinilificio.github.io/mastering/)
 
 Scopri come far suonare al meglio il tuo vinile
 
-[Scrivi a Vinilificio](http://example.net/)
+[Scrivi a Vinilificio](<a href="mailto:info@vinilificio.com">Vinilificio</a>)
 
 
 
