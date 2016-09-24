@@ -27,4 +27,5 @@ Le nostre tariffe:
 (**) Ottimizzazione per vinile: Ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
 
 Qualità, cura, competenza, esperienza al giusto prezzo per la massima qualità del tuo audio su vinile.
-Per maggiori informazioni e  preventivi, contattaci a: info [at] vinilificio [dot] com
+
+Per maggiori informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
