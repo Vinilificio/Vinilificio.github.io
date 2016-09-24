@@ -17,9 +17,9 @@ Le nostre tariffe:
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+|               | Are           |
+| ------------- |:-----------------------------------------------------------------------:| -----:|
+| Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
