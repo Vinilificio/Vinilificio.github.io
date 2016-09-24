@@ -27,6 +27,7 @@ Riversiamo l’audio su vinile per i tuoi promo in piccole quantità senza dover
 I vinili sono forniti con  etichetta bianca + busta interna bianca polylined + copertina bianca doppio foro
 
 *Oltre 8 minuti per lato + € 1,00 al minuto*
+
 La stampa dei centrini è di € 2,00 a vinile.
 
 Tempi di lavorazione: 15/20 giorni lavorativi
