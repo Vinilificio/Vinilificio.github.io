@@ -9,6 +9,8 @@ menu:
   id: gallery
 - titolo: Specifiche
   id: specifiche
+- titolo: Preventivo
+  id: preventivo
 published: true
 ---
 
@@ -78,3 +80,19 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 
 <a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">[Scarica o guarda il pdf con le specifiche dettagliate]</a>
+
+### Preventivo
+Per richiedere un preventivo scrivi a info@vinilificio.com indicando le seguenti informazioni:
+* Quantità
+* Formato vinile
+* Colore vinile
+* Durata master
+* Centrini: stampati o neutri
+* Busta Interna: neutra o stampata
+* Copertina: neutra o stampata
+* Inserto
+* Incellofanatura
+* Extra (stampa adesivi, download card, inserimento cd...)
+
+### Ordina
+Per ordinare la stampa del tuo vinile scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
