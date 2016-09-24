@@ -5,7 +5,7 @@ layout: default
 position: header
 index: 3
 ---
-### Piccole tirature (10/20/30 vinili)
+# Piccole tirature (10/20/30 vinili)
 
 
 ![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
