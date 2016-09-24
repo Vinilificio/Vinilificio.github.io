@@ -12,7 +12,7 @@ Scopri di più sulle piccole tirature (10, 20, 30 copie)
 
 Scopri come far suonare al meglio il tuo vinile
 
-[Scrivi a Vinilificio](<a href="mailto:info@vinilificio.com">Vinilificio</a>)
+[Scrivi a Vinilificio](info@vinilificio.com)
 
 
 
