@@ -15,8 +15,6 @@ Il Vinilificio fornisce servizio di mastering con percorso misto digitale analog
 
 Le nostre tariffe:
 
-Colons can be used to align columns.
-
 |               | Costo al minuto                                                         |
 | ------------- |:-----------------------------------------------------------------------:| 
 | Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
