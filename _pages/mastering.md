@@ -20,7 +20,7 @@ Colons can be used to align columns.
 |               | Costo al minuto                                                         |
 | ------------- |:-----------------------------------------------------------------------:| 
 | Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
-| Ottimizzazione per vinile (**)      | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. | 
+| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. | 
 
 
 
