@@ -9,6 +9,7 @@ published: true
 ---
 # Cassette
 
+![cassetta](/img/cassette_vinilificio1.jpg) 
 
 ### Info
 
