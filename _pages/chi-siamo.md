@@ -2,7 +2,7 @@
 title: Chi siamo
 index: 1
 ---
-Vinilificio nasce nel 2005 a Bologna da un'idea di Cristian Adamo. Vinilificio è il primo servizio al mondo di personalizzazione completa (incisione, stampa copertine e centrini, sagomati, picture disc...) del disco in vinile in singola copia.
+Vinilificio nasce nel 2005 a Bologna da un'idea di Cristian Adamo. Vinilificio è il primo servizio al mondo di personalizzazione completa del disco in vinile in singola copia.
 
 Ad ognuno la propria musica ad ognuno il proprio vinile personalizzato.
 
