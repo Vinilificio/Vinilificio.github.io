@@ -2,7 +2,7 @@
 title: Small Run
 date: '2016-07-12 12:50:00'
 layout: default
-position: footer
+position: header
 index: 3
 ---
 ![infographic vinili](/img/PROMO-SMALL-RUNS_GFX_big-5.jpg)
