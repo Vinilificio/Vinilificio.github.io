@@ -8,6 +8,8 @@ name: single-copy
 
 [Mastering](https://vinilificio.github.io/mastering/)
 
+[FAQ](https://vinilificio.github.io/faq/)
+
 [Scrivi a Vinilificio](<a href="mailto:info@vinilificio.com">Vinilificio</a>)
 
 
