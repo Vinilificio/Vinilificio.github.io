@@ -6,6 +6,6 @@ name: small-run
 
 [Mastering](https://vinilificio.github.io/mastering/)
 
-[FAQ](https://vinilificio.github.io/)
+[FAQ](https://vinilificio.github.io/faq/)
 
 [Scrivi a Vinilificio](http://example.net/)
