@@ -57,8 +57,8 @@ In estrema sintesi la produzione di un vinile avviene in questo modo:
 
 Per una descrizione più accurata:
 
-Vd. Anche: <a target="blank" href="http://en.wikipedia.org/wiki/Production_of_gramophone_records">http://en.wikipedia.org/wiki/Production_of_gramophone_records</a>
-Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.be/xUGRRUecBik</a>
+Vd. Anche: <a target="blank" href="http://en.wikipedia.org/wiki/Production_of_gramophone_records">http://en.wikipedia.org/wiki/Production_of_gramophone_records</a><br>
+Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.be/xUGRRUecBik</a><br>
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
 
