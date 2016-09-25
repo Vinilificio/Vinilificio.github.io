@@ -9,7 +9,7 @@ menu:
   id: vantaggio-del-riversamento-su-vinile
 - titolo: Audio transfer su lacca
   id: audio-transfer-(o-riversamento-su vinile)-su-lacca-o-acetato 
-- titolo: Differenza tra vinile prodotto industrialmente e audio transfer su vinile
+- titolo: Che differenza c’è tra un vinile prodotto industrialmente e un audio transfer su vinile
   id: che-differenza-c'è-tra-un-vinile-prodotto-industrialmente-e-un-audio-transfer-su-vinile   
 
 published: true
