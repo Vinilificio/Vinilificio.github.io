@@ -13,6 +13,8 @@ menu:
   id: differenza-tra-vinile-prodotto-stampato-e-vinile-inciso
 - titolo: Come viene prodotto industrialmente un vinile
   id: come-viene-prodotto-industrialmente-un-vinile
+- titolo: Cos'è il test pressing
+  id: cos'è-il-test-pressing
 published: true
 ---
 
@@ -63,5 +65,6 @@ Vd. Anche: <a target="blank" href="http://en.wikipedia.org/wiki/Production_of_gr
 Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.be/xUGRRUecBik</a><br>
 <a target="blank" href="http://youtu.be/IReDh9ec_rk">pt.2 http://youtu.be/IReDh9ec_rk</a>
 
-
+### Cos'è il test pressing
+Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato ed è esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione. E’ importante non confondere il test pressing con il transfer audio su vinile. Sono due cose diverse, con funzioni diverse.
 
