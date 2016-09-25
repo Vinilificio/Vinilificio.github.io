@@ -20,7 +20,9 @@ menu:
 - titolo: A cosa serve il mastering
   id: mastering
 - titolo: Perchè il mastering è importante
-  id: perchè-il-mastering-è_importante
+  id: perchè-il-mastering-è-importante
+- titolo: Glossario
+  id: glossario
 published: true
 ---
 
@@ -84,5 +86,17 @@ Il mastering prevede principalmente (ma non solo) interventi di correzione sulle
 ### Perchè il mastering è importante
 Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al supporto sul quale verrà successivamente duplicato. Un buon disco non è solo frutto di una buona registrazione e di un buon mixaggio ma anche da un mastering ben fatto. Non sottovalutare mai il mastering e affidati a tecnici competenti e con esperienza. Un cattivo mastering o una duplicazione di un master audio privo di mastering è sinonimo di un disco che non suona bene!<br>
 Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
+
+### Glossario
+* Riversamento audio su vinile: [Audio transfer su vinile](https://vinilificio.github.io/faq/#audio-transfer-in-singola-copia)
+* 7″: vinile con diametro cm 17,78 noto anche come 45 giri o singolo
+* 10″: vinile con diametro cm 25,4 noto anche come EP
+* 12″: vinile con diametro cm 30,48 noto anche come 33 giri o LP  
+* Label: o Centrino è l’etichetta tonda che sta al centro del vinile  
+* Sleeve: Busta di carta
+* Inner Sleeve: Busta interna  
+* Cover: Copertina di cartone
+* Gatefold: Copertina aprile per vinile doppio o singolo
+* Bleed Zone: In grafica abbondanza (vd. Layout delle grafiche)
 
 
