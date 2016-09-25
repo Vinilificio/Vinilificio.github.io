@@ -83,7 +83,7 @@ Il test pressing è uno strumento molto importante al fine di verificare la qual
 Il mastering è una forma di post-produzione audio. Si tratta di un processo di preparazione e trasferimento dell’audio registrato da una sorgente contenente il mix finale su un dispositivo di memorizzazione di dati (il master), ovvero la sorgente da cui tutte le copie saranno prodotte (tramite metodi quali pressatura, la duplicazione o la replica).<br>
 Il mastering prevede principalmente (ma non solo) interventi di correzione sulle equalizzazioni, valorizzazione delle dinamiche, controllo di eventuali contro fasi.
 
-### L'### Importanza del mastering
+### Importanza del mastering
 Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al supporto sul quale verrà successivamente duplicato. Un buon disco non è solo frutto di una buona registrazione e di un buon mixaggio ma anche da un mastering ben fatto. Non sottovalutare mai il mastering e affidati a tecnici competenti e con esperienza. Un cattivo mastering o una duplicazione di un master audio privo di mastering è sinonimo di un disco che non suona bene!<br>
 Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
 
