@@ -15,6 +15,12 @@ menu:
   id: come-viene-prodotto-industrialmente-un-vinile
 - titolo: Cos'è il test pressing
   id: il-test-pressing
+- titolo: A cosa serve il test pressing
+  id: a-cosa-serve-il-test-pressing
+- titolo: A cosa serve il mastering
+  id: mastering
+- titolo: Perchè il mastering è importante
+  id: perchè-il-mastering-è_importante
 published: true
 ---
 
@@ -67,4 +73,16 @@ Video: <a target="blank" href="http://youtu.be/xUGRRUecBik"> pt.1 http://youtu.b
 
 ### Il test pressing
 Prima di andare in stampa solitamente si producono i test pressing. Il test pressing non è altro che una prova di stampa, prodotta in poche copie per verificare che il prodotto non presenti difetti di produzione. E’ importante sapere che il test pressing è un vinile stampato ed è esattamente uguale a quelli che saranno prodotti successivamente in serie. Pertanto, qualora ci siano difetti è necessario ri iniziare l’intera produzione. E’ importante non confondere il test pressing con il transfer audio su vinile. Sono due cose diverse, con funzioni diverse. Per saperne di più consulta [Come viene prodotto industrialmente un vinile](https://vinilificio.github.io/faq/#come-viene-prodotto-industrialmente-un-vinile)
+
+### A cosa serve il test pressing
+Il test pressing è uno strumento molto importante al fine di verificare la qualità delle matrici che verranno utilizzate per produrre il vinile. Il test pressing essendo un vero e proprio vinile stampato permetterà di stabile se sono presenti difetti come salti di puntina, rumori eccessivi, chiusura del solco a fine corsa e così via. In caso il test pressing presenti reali problemi bisognerà procedere nuovamente con la produzione delle matrici (1-3) ed effettuare nuovi test pressing.
+
+### Mastering
+Il mastering è una forma di post-produzione audio. Si tratta di un processo di preparazione e trasferimento dell’audio registrato da una sorgente contenente il mix finale su un dispositivo di memorizzazione di dati (il master), ovvero la sorgente da cui tutte le copie saranno prodotte (tramite metodi quali pressatura, la duplicazione o la replica).<br>
+Il mastering prevede principalmente (ma non solo) interventi di correzione sulle equalizzazioni, valorizzazione delle dinamiche, controllo di eventuali contro fasi.
+
+### Perchè il mastering è importante
+Il mastering permette innanzi tutto di ottimizzare l’audio prodotto al supporto sul quale verrà successivamente duplicato. Un buon disco non è solo frutto di una buona registrazione e di un buon mixaggio ma anche da un mastering ben fatto. Non sottovalutare mai il mastering e affidati a tecnici competenti e con esperienza. Un cattivo mastering o una duplicazione di un master audio privo di mastering è sinonimo di un disco che non suona bene!<br>
+Prima di andare in stampa assicurati sempre della qualità del tuo master, ascoltalo su diversi impianti e sistemi ed eventualmente, se proprio non sei sicuro fai un transfer audio vinile per avere un test verosimile di quello che potrebbe essere il tuo master su vinile.
+
 
