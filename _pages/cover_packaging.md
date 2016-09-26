@@ -9,7 +9,6 @@ published: true
 # Copertine e Packaging
 
 ### Copertina
-<em>con costina da 3mm, 5mm e 7mm</em>
 *con costina da 3mm, 5mm e 7mm*
 
 
