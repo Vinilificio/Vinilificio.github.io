@@ -2,4 +2,4 @@
 name: cassette
 ---
 
-[Scrivi a Vinilificio](http://example.net/)
+[Scrivi a Vinilificio](mailto:info@vinilificio.com)

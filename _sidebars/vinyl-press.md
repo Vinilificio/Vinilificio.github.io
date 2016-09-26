@@ -2,10 +2,10 @@
 name: vinyl-press
 ---
 
-[Preventivo](https://vinilificio.github.io/)
+[Preventivo](/)
 
-[Mastering](https://vinilificio.github.io/mastering/)
+[Mastering](/mastering/)
 
-[FAQ](https://vinilificio.github.io/faq/)
+[FAQ](/faq/)
 
-[Scrivi a Vinilificio](http://example.net/)
+[Scrivi a Vinilificio](mailto:info@vinilificio.com)

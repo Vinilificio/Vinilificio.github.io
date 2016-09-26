@@ -4,8 +4,8 @@ name: small-run
 
 [Crea il tuo vinile](/)
 
-[Mastering](https://vinilificio.github.io/mastering/)
+[Mastering](/mastering/)
 
-[FAQ](https://vinilificio.github.io/faq/)
+[FAQ](/faq/)
 
-[Scrivi a Vinilificio](http://example.net/)
+[Scrivi a Vinilificio](mailto:info@vinilificio.com)

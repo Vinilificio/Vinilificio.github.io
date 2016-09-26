@@ -4,13 +4,13 @@ name: single-copy
 
 [Crea il tuo vinile](/)
 
-[Small run](https://vinilificio.github.io/small-run/)
+[Small run](/small-run/)
 
-[Mastering](https://vinilificio.github.io/mastering/)
+[Mastering](/mastering/)
 
-[FAQ](https://vinilificio.github.io/faq/)
+[FAQ](/faq/)
 
-[Scrivi a Vinilificio](<a href="mailto:info@vinilificio.com">Vinilificio</a>)
+[Scrivi a Vinilificio](mailto:info@vinilificio.com)
 
 
 

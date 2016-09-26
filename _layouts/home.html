@@ -8,6 +8,8 @@
 
     <div class="column row" style="">
         {{ content }}
+
+        {% comment %}
         <h3>Ultime news</h3>
         <ul>
             {% for post in site.posts %}
@@ -16,8 +18,11 @@
             </li>
             {% endfor %}
         </ul>
+        {% endcomment %}
+
     <img src="img/home-placeholder.jpg" alt="">
     </div>
+
 
     {% include footer.html %}
 </body>

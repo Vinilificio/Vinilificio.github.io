@@ -4,9 +4,9 @@ name: mastering
 
 [Crea il tuo vinile](/)
 
-[FAQ](https://vinilificio.github.io/faq/)
+[FAQ](/faq/)
 
-[Scrivi a Vinilificio](<a href="mailto:info@vinilificio.com">Vinilificio</a>)
+[Scrivi a Vinilificio](mailto:info@vinilificio.com)
 
 
 
