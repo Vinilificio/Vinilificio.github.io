@@ -2,7 +2,7 @@
 title: Cover Packaging
 menu:
 - titolo: Copertina
-  id: copertina_ad_una_tasca
+  id: copertina-ad-una-tasca
 - titolo: Copertina gatefold
   id: copertina-gatefold
 published: true
