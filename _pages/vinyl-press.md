@@ -10,7 +10,7 @@ menu:
 - titolo: Specifiche
   id: specifiche
 - titolo: Cover e Packaging
-  id: cover_e_packaging
+  id: cover-e-packaging
 - titolo: Preventivo
   id: preventivo
 - titolo: Ordina
