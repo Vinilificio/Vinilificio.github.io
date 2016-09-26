@@ -9,6 +9,8 @@ menu:
   id: gallery
 - titolo: Specifiche
   id: specifiche
+- titolo: Cover e Packaging
+  id: cover_e_packaging
 - titolo: Preventivo
   id: preventivo
 - titolo: Ordina
@@ -82,6 +84,9 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 
 <a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">[Scarica o guarda il pdf con le specifiche dettagliate]</a>
+
+### Cover e Packaging
+Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.      
 
 ### Preventivo
 Per richiedere un preventivo scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  indicando le seguenti informazioni:
