@@ -1,7 +1,5 @@
 ---
 title: Cover Packaging
-position: header
-index: 0
 menu:
 - titolo: Copertina
   id: copertina
