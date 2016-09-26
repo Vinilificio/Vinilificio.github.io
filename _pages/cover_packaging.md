@@ -9,7 +9,9 @@ published: true
 # Copertine e Packaging
 
 ### Copertina
-*con costina da 3mm, 5mm e 7mm
+<em>con costina da 3mm, 5mm e 7mm</em>
+*con costina da 3mm, 5mm e 7mm*
+
 
 ![12" gatefold cover](/img/Gatefold.jpg)
 
