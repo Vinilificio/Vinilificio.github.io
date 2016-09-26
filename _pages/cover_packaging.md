@@ -1,5 +1,5 @@
 ---
-title: Copertine e Packaging
+title: Cover Packaging
 menu:
 - titolo: Copertina
   id: copertina
