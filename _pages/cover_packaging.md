@@ -16,7 +16,9 @@ published: true
 
 ![12" cover costina 3mm](/img/Costina3mm.jpg)
 
-Caratteristiche:
+Dimensioni: 7", 10", 12"<br>
+Costina: 3mm (per vinile singolo), 5mm (per vinile doppio), 7mm (per vinile triplo)<br>
+Caratteristiche:<br>
 Le copertine vengono stampate su carta 320 gr. 
 
 Finiture:
