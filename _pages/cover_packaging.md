@@ -31,7 +31,7 @@ Scarica le specifiche:
 
 ### Copertina gatefold
 
-![12" gatefold cover](/img/Gatefold.jpg)
+![12" gatefold cover](/gatefold800px.png)
 
 Caratteristiche:
 Le copertine vengono stampate su carta 320 gr. 
