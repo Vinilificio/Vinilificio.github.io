@@ -29,7 +29,14 @@ Finiture:
 * Verniciatura Opaca: Verniciatura opaca
 
 Scarica le specifiche:
-<a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_1lp_3mm.pdf" target="_blank">copertina 12" con costina da 3mm</a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/7inch_cover.pdf" target="_blank">copertina 7" con costina da 3mm</a>
+* <a href="https://www.dropbox.com/home/public/TEMPLATES/Specs%20RAND?preview=12inch_cover_1lp_3mm.pdf" target="_blank">copertina 10" con costina da 3mm</a>
+
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_1lp_3mm.pdf" target="_blank">copertina 12" con costina da 3mm</a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_2lp_5mm.pdf" target="_blank">copertina 12" con costina da 5mm</a>
+* <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_cover_3lp_7mm.pdf" target="_blank">copertina 12" con costina da 7mm</a>
+
+
 
 ### Copertina gatefold
 
