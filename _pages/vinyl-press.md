@@ -23,9 +23,9 @@ published: true
 ### Info
 
 Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
-Stampiamo i tuoi vinili a partire da 
+Stampiamo i tuoi vinili a partire da
 
-* da 100 copie nei formati 7" e 12" 140 gr. 
+* da 100 copie nei formati 7" e 12" 140 gr.
 * da 300 copie nei formati 10" e 12" 180 gr.
 
 Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande) 10" e 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
@@ -74,7 +74,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 * 12″ a 45 rpm ad alto volume max. 9 min.
 * 10″ a 33 rpm ad alto volume max. 8 min.
 * 10″ a 45 rpm ad alto volume max. 6 min.
-* 7″ a 45 rpm ad alto volume max. 4 min. 
+* 7″ a 45 rpm ad alto volume max. 4 min.
 
 ###### Durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)
 
@@ -83,7 +83,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 * 7″ a 45 rpm a basso volume max. 6 min.
 
 
-<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">[Scarica o guarda il pdf con le specifiche dettagliate]</a>
+<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">Scarica o guarda il pdf con le specifiche dettagliate</a>
 
 ### Cover e Packaging
 Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.      
@@ -104,4 +104,4 @@ Per richiedere un preventivo scrivi a <a href="mailto:info@vinilificio.com">info
 * Extra (stampa adesivi, download card, inserimento cd...)
 
 ### Ordina
-Per ordinare la stampa del tuo vinile scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
+Per ordinare la stampa del tuo vinile scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
