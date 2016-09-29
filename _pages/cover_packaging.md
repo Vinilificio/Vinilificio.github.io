@@ -14,7 +14,7 @@ published: true
 *con costina da 3mm, 5mm e 7mm*
 
 
-![12" cover costina 3mm](/img/Costina3mm.jpg)
+![12" cover costina 3mm](/img/Costina3mm_.jpg)
 
 Dimensioni: 7", 10", 12"<br>
 Costina: 3mm (per vinile singolo), 5mm (per vinile doppio), 7mm (per vinile triplo)<br>
