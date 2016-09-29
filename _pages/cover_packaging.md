@@ -5,6 +5,8 @@ menu:
   id: copertina-ad-una-tasca
 - titolo: Copertina gatefold
   id: copertina-gatefold
+- titolo: Inserto
+  id: inserto
 published: true
 ---
 
@@ -56,6 +58,34 @@ Scarica le specifiche:
 <a href="https://dl.dropboxusercontent.com/u/6988499/TEMPLATES/Specs%20RAND/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
 
 
+### Inserto
 
 
+![12" inserto]()
+
+Caratteristiche:
+Inseto stampato a colori, bianco e nero, fronte retro. L'inserto viene inserito nella copertina con costina da 3mm, 5mm e 7mm, oppure nelle buste in plastica PE o PVC.  
+
+Carta:
+
+* 450 g/mq chromo board
+* 300 g/mq recycling cardboard
+* 80 g/mq recycling cardboard
+* 300 g/mq art print paper, matte
+* 170 g/mq art print paper, matte
+* 90 g/mq art print paper, matte
+* 90 g/mq art print paper, glossy
+* 170 g/mq art print paper, glossy
+* 250 g/mq offset paper
+* 150 g/mq offset paper
+* 120 g/mq offset paper
+
+
+
+Finiture:
+
+* Semilucida: la finitura standard
+* Opaca (Inside/out): la stampa viene fatta sul lato grezzo della copertina, in modo tale da ottenere una finutura opaca. La parte grezza del cartoncino ha un grado di assorbimento maggiore dell'inchiostro rispetto alla parte "finita" del cartoncino
+* Verniciature UV: Verniciature lucida
+* Verniciatura Opaca: Verniciatura opaca
 
