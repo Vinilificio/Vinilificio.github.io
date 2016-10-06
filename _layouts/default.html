@@ -7,11 +7,12 @@
     {% include header.html %}
 
     <div class="main">
-        <div class="main__left-sidebar">
+        <div class="jsMainAnchor"></div>
+        <div class="main__left-sidebar jsSidebar">
             <h3 class="main__left-title">{{ page.title }}</h3>
             <ul class="menu vertical">
                 {% for menuItem in page.menu %}
-                <li class="main__left-menu-item"><a href="#{{menuItem.id}}">{{ menuItem.titolo }}</a></li>
+                <li class="main__left-menu-item"><a href="#{{menuItem.id}}" class="jsSidebarLink">{{ menuItem.titolo }}</a></li>
                 {% endfor %}
             </ul>
         </div>

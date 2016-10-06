@@ -1,26 +1,30 @@
 
-<header class="site-header">
-    <div class="site-header__logo">
-        <!--<h1>Vinilificio</h1>-->
-        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/logo.jpg" alt="" style="max-height:64px"></a>
-    </div>
-    <nav class="site-header__menu">
-    <ul>
-        {% assign pages = site.pages | sort: "index"  %}
-        {% for page in pages %}
-        {% if page.title and page.position == "header" %}
-        <li>
-            <a href="{{site.baseurl}}{{page.url}}">{{ page.title }}</a>
-        </li>
-        {% endif %}
-        {% endfor %}
-    </ul>
-    </nav>
-<!--
-    <div class="site-header__contact">
-        Hai dei dubbi?
-        <br> e: info@vinilificio.com
-        <br> t: +39 051 4690174 | +39 333 5290168
-    </div>
--->
-</header>
+<div class="site-header-wrapper jsSiteHeader">
+    <header class="site-header">
+        <div class="site-header__logo">
+            <!--<h1>Vinilificio</h1>-->
+            <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/logo.jpg" alt="" style="max-height:64px; margin-left:-4px"></a>
+        </div>
+        <nav class="site-header__menu">
+        <ul>
+            {% assign pages = site.pages | sort: "index"  %}
+            {% assign current = page.url | downcase | split: '/' %}
+            {% for page in pages %}
+            {% assign page_url = page.url | downcase | split: '/' %}
+            {% if page.title and page.position == "header" %}
+            <li class="site-nav-item">
+                <a href="{{site.baseurl}}{{page.url}}" {% if page_url == current %}class="site-nav-link--active"{% endif %}>{{ page.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        </nav>
+    <!--
+        <div class="site-header__contact">
+            Hai dei dubbi?
+            <br> e: info@vinilificio.com
+            <br> t: +39 051 4690174 | +39 333 5290168
+        </div>
+    -->
+    </header>
+</div>
