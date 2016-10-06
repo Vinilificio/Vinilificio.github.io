@@ -11,6 +11,8 @@ menu:
   id: busta-interna
 - titolo: Disco Bag
   id: disco-bag  
+- titolo: Lable
+  id: label    
 published: true
 ---
 
@@ -100,4 +102,7 @@ Le buste interne sono su carta bianca o nera, con foro centrale, con o senza pol
 
 ### Disco Bag
 
-Le disco bag sono particolarmente indicate per i 12" mix poiché non necessitano di busta interna. Hanno il doppio foro centrale. Sono disponibile su cartoncino nero, bianco o marrone riclato, oppure possono essere stampate.
+Le disco bag sono particolarmente indicate per i dj poiché non necessitano di busta interna. Hanno il doppio foro centrale. Sono disponibile su cartoncino nero, bianco o marrone riclato, oppure possono essere stampate.
+
+
+### Lable
