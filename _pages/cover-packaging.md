@@ -7,6 +7,10 @@ menu:
   id: copertina-gatefold
 - titolo: Inserto
   id: inserto
+- titolo: Busta Interna
+  id: busta-interna
+- titolo: Busta Interna
+  id: busta-interna  
 published: true
 ---
 
@@ -89,3 +93,6 @@ Finiture:
 * Verniciature UV: Verniciature lucida
 * Verniciatura Opaca: Verniciatura opaca
 
+### Busta Interna
+
+Le buste interne sono su carta bianca o nera, con foro centrale, con o senza polylined antistatico.  
