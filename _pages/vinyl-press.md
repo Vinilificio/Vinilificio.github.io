@@ -87,7 +87,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 
 ### Cover e Packaging
 Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.
-<a href="/_pages/cover-packaging">Specifiche</a>
+<a href="/cover-packaging">Specifiche</a>
 
 ### Preventivo
 Per richiedere un preventivo scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  indicando le seguenti informazioni:
