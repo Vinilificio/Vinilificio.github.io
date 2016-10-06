@@ -324,12 +324,18 @@ p + ul {
     bottom: 0;
     left: 0;
     right: 0;
-    background: $white;
+    background: $black;
 }
 
 .site-footer {
     @include grid-column-row;
     font-size: ms(-1);
+    a {
+        color: $white;
+        &:hover {
+            color: $xlight-gray;
+        }
+    }
 }
 
 .site-footer__menu ul{
