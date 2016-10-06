@@ -39,10 +39,10 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 
 ### Gallery
 
-![Vinyl12inchcolor]({{ site.baseurl }}/forestryio/images/13814044_761073040662410_2408294282722944411_n.jpg)
+![Vinyl12inchcolor]({{ site.baseurl }}/img/13814044_761073040662410_2408294282722944411_n.jpg)
 _12" 140 gr. verde trasparente con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
 
-![Vinyl12inchblack]({{ site.baseurl }}/forestryio/images/BJ_vinyl_pic01.jpg)
+![Vinyl12inchblack]({{ site.baseurl }}/img/BJ_vinyl_pic01.jpg)
 _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
 
 ### Specifiche
@@ -86,7 +86,7 @@ Evitare controfasi e frequenze in stereo sotto i 300 hz
 <a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">Scarica o guarda il pdf con le specifiche dettagliate</a>
 
 ### Cover e Packaging
-Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.      
+Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.
 <a href="/cover_packaging/">Specifiche</a>
 
 ### Preventivo
