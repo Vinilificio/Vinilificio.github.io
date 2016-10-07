@@ -3,10 +3,11 @@
 
 {% include head.html %}
 
-<body class="template-home">
+<body class="{{ page.lang }} template-home">
     {% include header.html %}
 
-    <div class="column row" style="">
+    <div class="video-container">
+
         {{ content }}
 
         {% comment %}
@@ -20,10 +21,9 @@
         </ul>
         {% endcomment %}
 
-        <div class="home-video-container">
             <div class="video-home selected js-home-video">
                 <video autoplay loop>
-                  <source src="/img/press.mp4" type="video/mp4">
+                  <source src="/img/dubplate_round.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
                 <div class="video-description">
@@ -35,7 +35,7 @@
             </div>
             <div class="video-home js-home-video">
                 <video>
-                  <source src="/img/dubplate.mp4" type="video/mp4">
+                  <source src="/img/press_round.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
                 <div class="video-description">
@@ -47,7 +47,7 @@
             </div>
             <div class="video-home js-home-video">
                 <video>
-                  <source src="/img/press.mp4" type="video/mp4">
+                  <source src="/img/cassette_round.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>
                 <div class="video-description">
@@ -57,7 +57,6 @@
                     <a class="video-description__link" href="#">Scopri di più</a>
                 </div>
             </div>
-        </div>
     </div>
 
     {% include footer.html %}

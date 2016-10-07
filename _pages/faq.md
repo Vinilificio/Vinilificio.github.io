@@ -8,7 +8,7 @@ menu:
 - titolo: Vantaggio del riversamento su vinile
   id: vantaggio-del-riversamento-su-vinile
 - titolo: Audio transfer su lacca
-  id: audio-transfer-su-lacca-o-acetato 
+  id: audio-transfer-su-lacca-o-acetato
 - titolo: Differenza tra vinile prodotto stampato e vinile inciso
   id: differenza-tra-vinile-prodotto-stampato-e-vinile-inciso
 - titolo: Come viene prodotto industrialmente un vinile
@@ -23,7 +23,9 @@ menu:
   id: importanza-del-mastering
 - titolo: Glossario
   id: glossario
-published: true
+lang: it
+ref: faq
+hero_img: http://payload243.cargocollective.com/1/5/186515/7170536/1_1000.png
 ---
 
 # FAQ
@@ -34,10 +36,10 @@ Si tratta di un trasferimento (o riversamento) di un master audio da un supporto
 ### Vantaggio del riversamento su vinile
 E’ un vinile unico, realizzato “manualmente” trasferendo l’audio 1X. Qualità ed usura sono praticamente identici ad un vinile prodotto industrialmente. Il riversamento audio su vinile è particolarmente adatto per chi necessita di un vinile unico o in piccole tirature.
 
-### Audio transfer su lacca o acetato  
+### Audio transfer su lacca o acetato
 Si tratta di un trasferimento di un master audio da un supporto (solitamente digitale, ma non necessariamente) ad una lacca o acetato. Il procedimento prevede l’incisione di un disco solitamente di diametro 14” composto da un disco di metallo, ricoperto da una speciale lacca/vernice che poi verrà incisa da una puntina di zafiro. Questo speciale disco inciso (da non confondersi con il disco di vinile) è il primo procedimento della produzione di un vinile in scala industriale. La qualità dell’audio di questo disco è molto alta, ma subisce un forte deterioramento ad ogni ascolto.
 
-### Differenza tra vinile prodotto stampato e vinile inciso 
+### Differenza tra vinile prodotto stampato e vinile inciso
 Il vinile prodotto industrialmente prevede la realizzazione di matrici che serviranno per produrre (tramite pressatura) in serie e in quantità copie di dischi in vinile tutte uguali.
 
 Il vinile inciso tramite un procedimento di audio transfer è un vinile unico, realizzato singolarmente e non in serie.
@@ -91,10 +93,10 @@ Prima di andare in stampa assicurati sempre della qualità del tuo master, ascol
 * Riversamento audio su vinile: [Audio transfer su vinile](https://vinilificio.github.io/faq/#audio-transfer-in-singola-copia)
 * 7″: vinile con diametro cm 17,78 noto anche come 45 giri o singolo
 * 10″: vinile con diametro cm 25,4 noto anche come EP
-* 12″: vinile con diametro cm 30,48 noto anche come 33 giri o LP  
-* Label: o Centrino è l’etichetta tonda che sta al centro del vinile  
+* 12″: vinile con diametro cm 30,48 noto anche come 33 giri o LP
+* Label: o Centrino è l’etichetta tonda che sta al centro del vinile
 * Sleeve: Busta di carta
-* Inner Sleeve: Busta interna  
+* Inner Sleeve: Busta interna
 * Cover: Copertina di cartone
 * Gatefold: Copertina aprile per vinile doppio o singolo
 * Bleed Zone: In grafica abbondanza (vd. Layout delle grafiche)

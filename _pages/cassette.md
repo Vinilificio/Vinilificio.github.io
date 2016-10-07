@@ -5,11 +5,13 @@ index: 4
 menu:
   - titolo: Info
     id: info
-published: true
+lang: it
+ref: cassette
+hero_img: https://source.unsplash.com/Y7SQO1p6B0A/1200x700
 ---
 # Cassette
 
-![cassetta](/img/cassette_vinilificio1.jpg) 
+![cassetta](/img/cassette_vinilificio1.jpg)
 
 ### Info
 
@@ -22,7 +24,7 @@ Le cassette possono essere nere, bianche, blu, gialle, rosse, rosa, trasparenti,
 Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
 
 * Durata Master
-* Con o senza stampa tampone sulla cassetta 
+* Con o senza stampa tampone sulla cassetta
 * Con o senza inlay (inserto di carta stampato)
 
-Per ordinare le tue cassette scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
+Per ordinare le tue cassette scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>

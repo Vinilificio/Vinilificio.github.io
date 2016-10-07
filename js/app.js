@@ -26,9 +26,9 @@ $(document).ready(function(){
                 $('.jsSiteHeader').removeClass('site-header-wrapper--hidden');
             }
             if (window_top > div_top) {
-                $('.jsSidebar').addClass('to-the-top');
+                $('.jsSidebar').addClass('left-sidebar--top');
             } else {
-                $('.jsSidebar').removeClass('to-the-top');
+                $('.jsSidebar').removeClass('left-sidebar--top');
             }
     });
 
@@ -77,19 +77,19 @@ $(document).ready(function(){
             }
 
             if (windowPos >= divPos && windowPos < divPosNext) {
-                $("a[href='" + theID + "']").addClass("page-nav-link--active");
+                $("a[href='" + theID + "']").addClass("left-sidebar__link--active");
             } else {
-                $("a[href='" + theID + "']").removeClass("page-nav-link--active");
+                $("a[href='" + theID + "']").removeClass("left-sidebar__link--active");
             }
         }
-
-        if(windowPos + windowHeight == docHeight) {
-            if (!$("nav li:last-child a").hasClass("nav-active")) {
-                var navActiveCurrent = $(".nav-active").attr("href");
-                $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
-                $("nav li:last-child a").addClass("nav-active");
-            }
-        }
+// PER L'ULTIMO ELEMENTO DELLA LISTA
+//        if(windowPos + windowHeight == docHeight) {
+//            if (!$("nav li:last-child a").hasClass("nav-active")) {
+//                var navActiveCurrent = $(".nav-active").attr("href");
+//                $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
+//                $("nav li:last-child a").addClass("nav-active");
+//            }
+//        }
     });
 
 

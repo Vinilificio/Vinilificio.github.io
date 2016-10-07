@@ -1,10 +1,11 @@
 ---
 title: Mastering
-date: '2016-07-12 15:51:00'
 layout: default
 position: header
 index: 5
-draft: true
+lang: it
+ref: master
+hero_img: https://source.unsplash.com/SA1gpcN-Pz4/1200x700
 ---
 
 # Mastering audio, ottimizzazione per vinile, restauro
@@ -16,9 +17,9 @@ Il Vinilificio fornisce servizio di mastering con percorso misto digitale analog
 Le nostre tariffe:
 
 |               | Costo al minuto                                                         |
-| ------------- |:-----------------------------------------------------------------------:| 
+| ------------- |:-----------------------------------------------------------------------:|
 | Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
-| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. | 
+| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
 
 
 
@@ -28,4 +29,4 @@ Le nostre tariffe:
 
 Qualità, cura, competenza, esperienza al giusto prezzo per la massima qualità del tuo audio su vinile.
 
-Per maggiori informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a> 
+Per maggiori informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>

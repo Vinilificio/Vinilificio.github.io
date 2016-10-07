@@ -1,5 +1,6 @@
 ---
 title: Cover Packaging
+position: none
 menu:
 - titolo: Copertina
   id: copertina-ad-una-tasca
@@ -10,10 +11,12 @@ menu:
 - titolo: Busta Interna
   id: busta-interna
 - titolo: Disco Bag
-  id: disco-bag  
+  id: disco-bag
 - titolo: Lable
-  id: label    
-published: true
+  id: label
+lang: it
+ref: packaging
+hero_img: https://mir-s3-cdn-cf.behance.net/project_modules/hd/e085f743172557.57e59d6417a83.jpg
 ---
 
 # Copertine e Packaging
@@ -27,7 +30,7 @@ published: true
 Dimensioni: 7", 10", 12"<br>
 Costina: 3mm (per vinile singolo), 5mm (per vinile doppio), 7mm (per vinile triplo)<br>
 Caratteristiche:<br>
-Le copertine vengono stampate su carta 320 gr. 
+Le copertine vengono stampate su carta 320 gr.
 
 Finiture:
 
@@ -51,7 +54,7 @@ Scarica le specifiche:
 ![12" gatefold cover](/img/gatefold800px.png)
 
 Caratteristiche:
-Le copertine vengono stampate su carta 320 gr. 
+Le copertine vengono stampate su carta 320 gr.
 
 Finiture:
 
@@ -70,7 +73,7 @@ Scarica le specifiche:
 ![12" inserto]()
 
 Caratteristiche:
-Inseto stampato a colori, bianco e nero, fronte retro. L'inserto viene inserito nella copertina con costina da 3mm, 5mm e 7mm, oppure nelle buste in plastica PE o PVC.  
+Inseto stampato a colori, bianco e nero, fronte retro. L'inserto viene inserito nella copertina con costina da 3mm, 5mm e 7mm, oppure nelle buste in plastica PE o PVC.
 
 Carta:
 
@@ -97,7 +100,7 @@ Finiture:
 
 ### Busta Interna
 
-Le buste interne sono su carta bianca o nera, con foro centrale, con o senza polylined antistatico.  
+Le buste interne sono su carta bianca o nera, con foro centrale, con o senza polylined antistatico.
 
 
 ### Disco Bag

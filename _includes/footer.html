@@ -1,14 +1,14 @@
 <div class="site-footer-wrapper">
     <footer class="site-footer">
         <nav class="site-footer__menu">
-            <ul>
-                {% assign pages = site.pages | sort: "index"  %}
+            <ul class="site-footer__list">
+                {% assign pages = site.pages | where:"lang", page.lang | where:"position", "footer" | sort: "index"  %}
                 {% assign current = page.url | downcase | split: '/' %}
                 {% for page in pages %}
                 {% assign page_url = page.url | downcase | split: '/' %}
-                {% if page.title and page.position == "footer" %}
-                <li class="site-nav-item">
-                    <a href="{{site.baseurl}}{{page.url}}" {% if page_url == current %}class="site-nav-link--active"{% endif %}>{{ page.title }}</a>
+                {% if page.title %}
+                <li class="site-footer__item">
+                    <a href="{{site.baseurl}}{{page.url}}" class="site-footer__link{% if page_url == current %} site-footer__link--active{% endif %}">{{ page.title }}</a>
                 </li>
                 {% endif %}
                 {% endfor %}

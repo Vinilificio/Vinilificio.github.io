@@ -13,7 +13,9 @@ menu:
   id: audio
 - titolo: Ordina il tuo vinile
   id: ordina
-published: true
+lang: it
+ref: single-copy
+hero_img: https://source.unsplash.com/1w1OMV8CEeM/1200x700
 ---
 
 # Vinile in singola copia e dubplate
@@ -36,7 +38,7 @@ Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti
 
 #### Quanta musica si può incidere su vinile?
 
-Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso. 
+Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso.
 
 Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa meno spazio se inciso a basso volume.
 
@@ -54,11 +56,11 @@ Migliore rapporto durata/volume:
 
 *Formati standard*
 
-![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png) 
+![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png)
 
 *Formati speciali*
 
-![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png) 
+![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png)
 
 #### Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
@@ -67,13 +69,13 @@ Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qu
 
 Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
-**Frequenze basse:** 
+**Frequenze basse:**
 
 * Taglio sotto i 20hz. Le frequenze sotto i 20 Hz possono creare problemi di risonanza.
 * Per evitare controfasi con conseguenti interuzzioni del solco e quindi salto della puntina, è consigliabile tenere in MONO le frequenze sotto i 300 hz.
 * Evitare controfasi se non si ha un'approfondita conoscenza di mastering. Per vericare se ci sono controfasi utilizza un "correlation meter" presente praticamente in tutti i programmi di audio.
 
-**Frequenze alte:** 
+**Frequenze alte:**
 
 * De-esser: È consigliato utilzzare un de-esser sulle voci e in generale sulle sibilanti
 * Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
