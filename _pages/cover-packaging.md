@@ -120,6 +120,7 @@ Finiture:
 Scarica le specifiche:
 
 Scarica le specifiche:
+
 * <a href="http://www.randmuzik.de/files/7inch_sleeve_185x185.pdf" target="_blank">Busta interna 7"</a>
 * <a href="http://www.randmuzik.de/files/10inch_discosleeve.pdf" target="_blank">Busta interna 10"</a>
 * <a href="http://www.randmuzik.de/files/12inch_discosleeve_1lp.pdf" target="_blank">Busta interna 12"</a>
@@ -144,6 +145,7 @@ Finiture:
 * Verniciatura Opaca: Verniciatura opaca
 
 Scarica le specifiche:
+
 * <a href="http://www.randmuzik.de/files/7inch_sleeve_185x185.pdf" target="_blank">Disco Bag 7"</a>
 * <a href="http://www.randmuzik.de/files/10inch_discosleeve.pdf" target="_blank">Disco Bag 10"</a>
 * <a href="http://www.randmuzik.de/files/12inch_discosleeve_1lp.pdf" target="_blank">Disco Bag 12"</a>
