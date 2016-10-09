@@ -6,6 +6,8 @@ menu:
   id: copertina-ad-una-tasca
 - titolo: Copertina gatefold
   id: copertina-gatefold
+- titolo: Buste Esterne
+  id: buste-esterne
 - titolo: Inserto
   id: inserto
 - titolo: Busta Interna
@@ -67,6 +69,18 @@ Scarica le specifiche:
 
 * <a href="http://www.randmuzik.de/files/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
 
+### Buste Esterne
+
+Le Buste trasparenti possono essere adatte per proteggere le copertine, oppure per inserire vinili trasparenti e colorati.
+Possono essere robuste (PVC) oppure leggere (PE)
+
+Scarica le specifiche:
+
+* <a href="http://www.randmuzik.de/files/10inch_pvc-huelle.pdf" target="_blank">busta 10" PVC</a>
+* <a href="http://www.randmuzik.de/files/12inch_pe-huelle.pdf" target="_blank">busta 12" PE</a>
+* <a href="http://www.randmuzik.de/files/12inch_pvc-huelle.pdf" target="_blank">busta 12" PVC</a>
+
+
 
 ### Inserto
 
@@ -92,7 +106,8 @@ Carta:
 
 Scarica le specifiche:
 
-* <a href="http://www.randmuzik.de/files/12inch_einleger.pdf" target="_blank">inlay</a>
+* <a href="http://www.randmuzik.de/files/7inch_einleger.pdf" target="_blank">7" inlay</a>
+* <a href="http://www.randmuzik.de/files/12inch_einleger.pdf" target="_blank">12" inlay</a>
 
 Finiture:
 
