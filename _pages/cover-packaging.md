@@ -109,3 +109,5 @@ Le disco bag sono particolarmente indicate per i dj poiché non necessitano di b
 
 
 ### Label
+
+La label o centrino è l'etichetta tonda che si trova al centro del vinile. Può essere neutra (bianca o nera) oppure stampata ad un colore o quadricromia e con colori speciali.
