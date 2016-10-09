@@ -168,7 +168,7 @@ Scarica le specifiche:
 
 ### Label
 
-La label o centrino è l'etichetta tonda che si trova al centro del vinile. Può essere neutra (bianca o nera) oppure stampata ad un colore o quadricromia e con colori speciali.
+La label o centrino è l'etichetta tonda che si trova al centro del vinile. Può essere neutra (bianca o nera) oppure stampata ad un colore, quadricromia e con colori speciali.
 
 Scarica le specifiche:
 
