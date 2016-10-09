@@ -64,7 +64,8 @@ Finiture:
 * Verniciatura Opaca: Verniciatura opaca
 
 Scarica le specifiche:
-<a href="http://www.randmuzik.de/files/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
+
+* <a href="http://www.randmuzik.de/files/12inch_klappcover_7mm.pdf" target="_blank">copertina 12" gatefold</a>
 
 
 ### Inserto
