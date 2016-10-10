@@ -11,7 +11,7 @@ via Santa Margherita, 14/A<br>
 40123 Bologna<br>
 Italy
 
-__Si riceve solo su appuntamento.__
+__By Appointment Only __
 
 Per informazioni, domande e appuntamenti puoi contattarci alle seguenti coordinate:<br>
 __tel/fax__ + 39 051 0311817<br>
