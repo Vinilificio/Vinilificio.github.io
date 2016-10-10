@@ -30,16 +30,23 @@ Le cassette possono essere nere, bianche, blu, gialle, rosse, rosa, trasparenti,
 
 ### Specifiche
 
-* Risoluzione 300 dpi
-* Formati: PDF o TIFF
-* Font convertiti in tracciati
-* Utlizzare i template per inlay e stampa su cassettta
+* Resolution at least 300 dpi
+* Valid format (PDF or TIFF)
+* Fonts converted into paths
+* Used template for inlay and imprint
 
-Inlay / Inserto
+Artwork for inlay correct
 
-* Ricordati di lasciare sempre 3 mm di abbondanza
-* Metodo colore CMYK 
-* Lasciare una zona di sicurezza di 2mm tra i testi/informazioni importanti e le linee di taglio
+* Created 3 mm bleed
+* CMYK data
+* Safety zone of 2 mm between text/vital information
+and cut
+
+Artwork for imprint correct
+
+* No bleed
+* All printing elements in black
+* Pixel data: grayscale or bitmap
 
 Stampa su cassetta
 
