@@ -48,12 +48,6 @@ Artwork for imprint correct
 * All printing elements in black
 * Pixel data: grayscale or bitmap
 
-Stampa su cassetta
-
-* Nessuna abbondanza
-* Tutti gli elementi stampati in nero
-* Metodo colore: scala di grigio o bitmap
-
 ### Preventivo
 
 Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
