@@ -7,7 +7,7 @@ hero_img: http://payload373.cargocollective.com/1/2/76242/9770448/SaraAndreasson
 ---
 Vinilificio nasce nel 2005 a Bologna da un'idea di Cristian Adamo. Vinilificio è il primo servizio al mondo di personalizzazione completa del disco in vinile in singola copia.
 
-La decennale esperienza fa di Vinilificio il partner ideale per le tue produzioni su vinile in singola copia, piccole tirature e stampa in quantità. Seguiamo la tua produzione su vinile a partire dal mastering al transfer su vinile, dal transfer su lacca alla stampa.  
+La decennale esperienza fa di Vinilificio il partner ideale per le tue produzioni su vinile in singola copia, piccole tirature e stampa in quantità. Seguiamo la tua produzione su vinile a partire dal mastering al transfer su vinile, dal transfer su lacca alla stampa del disco, dalla grafica alla stampa di copertine, centrini, inserti, adesivi...  
 Guidiamo chi si trova alle primissime esperienze di produzione su vinile verso la migliore scelta in termini di costi e qualità. Per ciascuna esigenza, la giusta soluzione.
 
 Dal 2005, grazie ai continui investimenti e alla continua ricerca Vinilificio è leader del mercato italiano, e tra le realtà più significative in Europa.
