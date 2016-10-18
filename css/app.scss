@@ -213,6 +213,7 @@ p + ul {
 .main {
     @include grid-row;
     padding-bottom: 4rem;
+    min-height: 100vh;
     background: $white;
     transition: background 0.8s ease-in-out;
 }
