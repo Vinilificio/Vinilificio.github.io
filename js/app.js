@@ -17,15 +17,18 @@ $(document).ready(function(){
      * We use the jQuery function scroll() to recalculate our variables as the
      * page is scrolled/
      */
+    var nav_top = $('.jsSiteNavAnchor').offset().top; console.log(nav_top);
+    if ($('.jsMainAnchor').length != 0) {
+        var main_top = $('.jsMainAnchor').offset().top;
+    }
     $(window).scroll(function(){
         var window_top = $(window).scrollTop(); // the "12" should equal the margin-top value for nav.stick
-        var div_top = $('.jsMainAnchor').offset().top; console.log(div_top);
-            if (window_top > 96) {
+            if (window_top > nav_top) {
                 $('.jsSiteHeader').addClass('site-header-wrapper--hidden');
             } else {
                 $('.jsSiteHeader').removeClass('site-header-wrapper--hidden');
             }
-            if (window_top > div_top) {
+            if (window_top > main_top) {
                 $('.jsSidebar').addClass('left-sidebar--top');
             } else {
                 $('.jsSidebar').removeClass('left-sidebar--top');
@@ -102,10 +105,9 @@ $(document).ready(function(){
 // =======================
 
 var homeVideos = $('.js-home-video video');
-$('.js-home-video').click(function(){
+$('.js-home-video').mouseover(function(){
     $('.js-home-video').removeClass('selected');
     homeVideos.each(function(){
-        console.log("v");
         this.pause();
     })
     $(this).addClass('selected');

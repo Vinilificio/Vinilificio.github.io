@@ -10,17 +10,6 @@
 
         {{ content }}
 
-        {% comment %}
-        <h3>Ultime news</h3>
-        <ul>
-            {% for post in site.posts %}
-            <li>
-                <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-        {% endcomment %}
-
             <div class="video-home selected js-home-video">
                 <video autoplay loop>
                   <source src="/img/dubplate_round.mp4" type="video/mp4">
