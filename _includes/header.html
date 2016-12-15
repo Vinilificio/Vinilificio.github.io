@@ -1,16 +1,9 @@
 
 <div class="site-header-wrapper jsSiteHeader">
     <header class="site-header">
-        <div class="site-header__logo">
-            <!--<h1>Vinilificio</h1>-->
-            {% if page.lang == 'en' %}
-                {% assign homeLink =  '/home.html' %}
-            {% elsif page.leng == it' %}
-                {% assign homeLink = '/' %}
-            {% endif %}
-            <a href="{{site.baseurl}}{{homeLink}}"><img src="{{site.baseurl}}/img/logo.jpg" alt="" style="max-height:50px"></a>
-        </div>
 
+
+<!--
         <div class="news">
             <ul class="news__list">
                 {% for post in site.posts limit:5 %}
@@ -22,6 +15,7 @@
                 {% endfor %}
             </ul>
         </div>
+-->
 
 <!--
         <div class="news small-3 columns">
@@ -36,6 +30,16 @@
 -->
 <!--        <div class="jsSiteNavAnchor"></div>-->
         <nav class="site-header__menu jsSiteNavAnchor">
+           <div class="site-header__logo">
+            <!--<h1>Vinilificio</h1>-->
+            {% if page.lang == 'en' %}
+                {% assign homeLink =  '/home.html' %}
+            {% elsif page.leng == it' %}
+                {% assign homeLink = '/' %}
+            {% endif %}
+            <a href="{{site.baseurl}}{{homeLink}}"><img src="{{site.baseurl}}/img/logo-round.png" alt="" style="max-height:80px"></a>
+        </div>
+
             <ul class="site-header__langs">
             {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
             {% for post in posts %}

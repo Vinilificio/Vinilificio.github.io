@@ -97,6 +97,33 @@ $(document).ready(function(){
 
 
 
+
+
+    $('#link1').mouseover(function(){
+        $('.qwe1').addClass('qwe--active');
+    });
+
+    $('#link2').mouseover(function(){
+        $('.qwe2').addClass('qwe--active');
+    });
+
+    $('#link1').mouseleave(function(){
+        $('.qwe1').removeClass('qwe--active');
+    });
+
+    $('#link2').mouseleave(function(){
+        $('.qwe2').removeClass('qwe--active');
+    });
+
+$('.site-header__logo').mouseover(function(){
+    $('.site-header__logo a').addClass('is-playing');
+})
+
+$('.site-header__logo').mouseleave(function(){
+    $('.site-header__logo a').removeClass('is-playing');
+})
+
+
 });
 
 
