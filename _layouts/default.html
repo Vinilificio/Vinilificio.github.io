@@ -24,14 +24,6 @@
         <div class="main__content">
             {{ content }}
         </div>
-        <div class="main__right-sidebar">
-            {% assign sidebar_name = page.url | remove: "/" %}
-            {% for sidebar in site.sidebars %}
-                {% if sidebar_name == sidebar.name %}
-                    {{ sidebar.content }}
-                {% endif %}
-            {% endfor %}
-        </div>
     </div>
 
     {% include footer.html %}
