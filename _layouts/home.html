@@ -6,15 +6,46 @@
 <body class="{{ page.lang }} template-home">
     {% include header.html %}
 
-        <div class="asd">
-            <div class="asd-c">{{ content }}</div>
+        <div class="sidebar">
+            <div class="sidebar__content">
+                {{ content }}
+                <h1 class="sidebar__main-title">Since 2005 <br>
+                We make vinyl</h1>
+                <div class="sidebar__actions">
+                    <h3 class="sidebar__action" id="link1">Single copy</h3>
+                    <h3 class="sidebar__action" id="link2">Small runs</h3>
+                    <h3 class="sidebar__action" id="link3">Quantities</h3>
+                </div>
+            </div>
         </div>
 
-        <div class="qwe"></div>
-        <div class="qwe qwe1" id="pic1"></div>
-        <div class="qwe qwe2" id="pic2"></div>
+        <div class="slideshow-container">
+            <div class="slideshow">
+                <div>
+                    <div class="slideshow__item"></div>
+                </div>
+                <div>
+                    <div class="slideshow__item slideshow__item1"></div>
+                </div>
+                <div>
+                    <div class="slideshow__item slideshow__item2"></div>
+                </div>
+                <div>
+                    <div class="slideshow__item slideshow__item3"></div>
+                </div>
+            </div>
+        </div>
 
     {% include footer.html %}
+
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+          $('.slideshow').slick({
+            arrows: false,
+          });
+        });
+    </script>
 </body>
 
 </html>

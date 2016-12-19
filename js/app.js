@@ -17,7 +17,7 @@ $(document).ready(function(){
      * We use the jQuery function scroll() to recalculate our variables as the
      * page is scrolled/
      */
-    var nav_top = $('.jsSiteNavAnchor').offset().top; console.log(nav_top);
+    /*var nav_top = $('.jsSiteNavAnchor').offset().top; console.log(nav_top);
     if ($('.jsMainAnchor').length != 0) {
         var main_top = $('.jsMainAnchor').offset().top;
     }
@@ -33,7 +33,7 @@ $(document).ready(function(){
             } else {
                 $('.jsSidebar').removeClass('left-sidebar--top');
             }
-    });
+    });*/
 
     var offsetScroll = 140;
     /**
@@ -99,17 +99,31 @@ $(document).ready(function(){
 
 
 
-    $('#link1').mouseover(function(){
-        $('.qwe1').addClass('qwe--active');
+//    $('#link1').mouseover(function(){
+//        $('.qwe1').addClass('qwe--active');
+//    });
+
+    $('#link1').click(function(){
+        $('.slideshow').slick('slickGoTo',1, true);
     });
+
+    $('#link2').click(function(){
+        $('.slideshow').slick('slickGoTo',2, true);
+    });
+
+    $('#link3').click(function(){
+        $('.slideshow').slick('slickGoTo',3, true);
+    });
+
+
 
     $('#link2').mouseover(function(){
         $('.qwe2').addClass('qwe--active');
     });
 
-    $('#link1').mouseleave(function(){
-        $('.qwe1').removeClass('qwe--active');
-    });
+//    $('#link1').mouseleave(function(){
+//        $('.qwe1').removeClass('qwe--active');
+//    });
 
     $('#link2').mouseleave(function(){
         $('.qwe2').removeClass('qwe--active');

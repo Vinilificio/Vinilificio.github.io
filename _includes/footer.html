@@ -1,21 +1,19 @@
-<div class="site-footer-wrapper">
-    <footer class="site-footer">
-        <nav class="site-footer__menu">
-            <ul class="site-footer__list">
-                {% assign pages = site.pages | where:"lang", page.lang | where:"position", "footer" | sort: "index"  %}
-                {% assign current = page.url | downcase | split: '/' %}
-                {% for page in pages %}
-                {% assign page_url = page.url | downcase | split: '/' %}
-                {% if page.title %}
-                <li class="site-footer__item">
-                    <a href="{{site.baseurl}}{{page.url}}" class="site-footer__link{% if page_url == current %} site-footer__link--active{% endif %}">{{ page.title }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </nav>
-    </footer>
-</div>
+<footer class="site-footer">
+    <nav class="site-footer__menu">
+        <ul class="site-footer__list">
+            {% assign pages = site.pages | where:"lang", page.lang | where:"position", "footer" | sort: "index"  %}
+            {% assign current = page.url | downcase | split: '/' %}
+            {% for page in pages %}
+            {% assign page_url = page.url | downcase | split: '/' %}
+            {% if page.title %}
+            <li class="site-footer__item">
+                <a href="{{site.baseurl}}{{page.url}}" class="site-footer__link{% if page_url == current %} site-footer__link--active{% endif %}">{{ page.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</footer>
 
 <script type="text/javascript">
     WebFontConfig = {
