@@ -1,4 +1,5 @@
 /**
+ * ScrollTo()
  * Copyright (c) 2007-2015 Ariel Flesler - aflesler ○ gmail • com | http://flesler.blogspot.com
  * Licensed under MIT
  * @author Ariel Flesler
@@ -12,58 +13,19 @@
 
 $(document).ready(function(){
 
+
     /**
-     * This part does the "fixed navigation after scroll" functionality
-     * We use the jQuery function scroll() to recalculate our variables as the
-     * page is scrolled/
-     */
-    /*var nav_top = $('.jsSiteNavAnchor').offset().top; console.log(nav_top);
-    if ($('.jsMainAnchor').length != 0) {
-        var main_top = $('.jsMainAnchor').offset().top;
-    }
-    $(window).scroll(function(){
-        var window_top = $(window).scrollTop(); // the "12" should equal the margin-top value for nav.stick
-            if (window_top > nav_top) {
-                $('.jsSiteHeader').addClass('site-header-wrapper--hidden');
-            } else {
-                $('.jsSiteHeader').removeClass('site-header-wrapper--hidden');
-            }
-            if (window_top > main_top) {
-                $('.jsSidebar').addClass('left-sidebar--top');
-            } else {
-                $('.jsSidebar').removeClass('left-sidebar--top');
-            }
-    });*/
+    * VARIABLES
+    * *************************************************************** */
 
-    var offsetScroll = 140;
+    var offsetScroll = 200;
+
+
     /**
-     * This part causes smooth scrolling using scrollto.js
-     * We target all a tags inside the nav, and apply the scrollto.js to it.
-     */
-    $(".jsSidebarLink").click(function(evn){
-        evn.preventDefault();
-        $('html,body').scrollTo(this.hash, 250, {offset: -offsetScroll/2});
-    });
+    * FUNCTIONS
+    * *************************************************************** */
 
-     /**
-     * This part handles the highlighting functionality.
-     * We use the scroll functionality again, some array creation and
-     * manipulation, class adding and class removing, and conditional testing
-     */
-    var aChildren = $(".jsSidebarLink"); // find the a children of the list items
-    var aArray = []; // create the empty aArray
-    for (var i=0; i < aChildren.length; i++) {
-        var aChild = aChildren[i];
-        var ahref = $(aChild).attr('href');
-        aArray.push(ahref);
-    }
-
-    $(window).scroll(function(){
-        var didScroll = true;
-        if (didScroll === true) {
-            //$('.main').css('background', "#fff");
-            didScroll = false;
-        }
+    function setActiveAnchor() {
 
         var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page
         var windowHeight = $(window).height(); // get the height of the window
@@ -72,7 +34,6 @@ $(document).ready(function(){
         for (var i=0; i < aArray.length; i++) {
             var theID = aArray[i];
             var divPos = $(theID).offset().top - offsetScroll; // get the offset of the div from the top of page
-
             var theIDNext = aArray[i+1];
 
             if (i<aArray.length-1) {
@@ -80,81 +41,84 @@ $(document).ready(function(){
             }
 
             if (windowPos >= divPos && windowPos < divPosNext) {
-                $("a[href='" + theID + "']").addClass("left-sidebar__link--active");
+                $("a[href='" + theID + "']").addClass("sidebar__link--active");
             } else {
-                $("a[href='" + theID + "']").removeClass("left-sidebar__link--active");
+                $("a[href='" + theID + "']").removeClass("sidebar__link--active");
             }
         }
-// PER L'ULTIMO ELEMENTO DELLA LISTA
-//        if(windowPos + windowHeight == docHeight) {
-//            if (!$("nav li:last-child a").hasClass("nav-active")) {
-//                var navActiveCurrent = $(".nav-active").attr("href");
-//                $("a[href='" + navActiveCurrent + "']").removeClass("nav-active");
-//                $("nav li:last-child a").addClass("nav-active");
-//            }
-//        }
+        // Last element in the list
+        if(windowPos + windowHeight >= docHeight) {
+            if (!$(".sidebar__item:last-child a").hasClass("sidebar__link--active")) {
+                var navActiveCurrent = $(".sidebar__link--active").attr("href");
+                $("a[href='" + navActiveCurrent + "']").removeClass("sidebar__link--active");
+                $(".sidebar__item:last-child a").addClass("sidebar__link--active");
+            }
+        }
+    }
+
+
+    /**
+    * ACTIONS
+    * *************************************************************** */
+
+    /**
+     * This part causes smooth scrolling using scrollto.js
+     * We target all a tags inside the nav, and apply the scrollto.js to it.
+     */
+
+    $(".jsSidebarLink").click(function(evn){
+        evn.preventDefault();
+        $('html,body').scrollTo(this.hash, 250, {offset: -offsetScroll/2});
     });
 
+    /**
+    * This part handles the highlighting functionality.
+    * We use the scroll functionality again, some array creation and
+    * manipulation, class adding and class removing, and conditional testing.
+    * Check setActiveAnchor().
+    */
 
+    var aChildren = $(".jsSidebarLink"); // find the a children of the list items
+    var aArray = []; // create the empty aArray
+    for (var i=0; i < aChildren.length; i++) {
+        var aChild = aChildren[i];
+        var ahref = $(aChild).attr('href');
+        aArray.push(ahref);
+    }
+    // Set active anchor and header background color if scrolling inside '.main'
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('.jsSiteHeader').addClass('site-header--scrolled');
+        } else {
+            $('.jsSiteHeader').removeClass('site-header--scrolled');
+        }
+        setActiveAnchor();
+    });
 
-
-
-//    $('#link1').mouseover(function(){
-//        $('.qwe1').addClass('qwe--active');
-//    });
+    /**
+    * Home page slideshow
+    */
 
     $('#link1').click(function(){
         $('.slideshow').slick('slickGoTo',1, true);
     });
-
     $('#link2').click(function(){
         $('.slideshow').slick('slickGoTo',2, true);
     });
-
     $('#link3').click(function(){
         $('.slideshow').slick('slickGoTo',3, true);
     });
 
+    /**
+    * Logo turn-tableism
+    */
 
-
-    $('#link2').mouseover(function(){
-        $('.qwe2').addClass('qwe--active');
+    $('.site-header__logo').mouseover(function(){
+        console.log('sdsdsadasdas');
+        $('.site-header__logo a').addClass('is-playing');
+    });
+    $('.site-header__logo').mouseleave(function(){
+        $('.site-header__logo a').removeClass('is-playing');
     });
 
-//    $('#link1').mouseleave(function(){
-//        $('.qwe1').removeClass('qwe--active');
-//    });
-
-    $('#link2').mouseleave(function(){
-        $('.qwe2').removeClass('qwe--active');
-    });
-
-$('.site-header__logo').mouseover(function(){
-    $('.site-header__logo a').addClass('is-playing');
-})
-
-$('.site-header__logo').mouseleave(function(){
-    $('.site-header__logo a').removeClass('is-playing');
-})
-
-
-});
-
-
-// ====================
-//   Home Video
-// =======================
-
-var homeVideos = $('.js-home-video video');
-$('.js-home-video').mouseover(function(){
-    $('.js-home-video').removeClass('selected');
-    homeVideos.each(function(){
-        this.pause();
-    })
-    $(this).addClass('selected');
-    var videoSelected = $(this).children();
-    videoSelected[0].play();
-});
-
-
-
+}); /* > doc-ready */

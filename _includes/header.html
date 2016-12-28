@@ -1,45 +1,41 @@
 
-<div class="site-header-wrapper jsSiteHeader">
-    <header class="site-header">
-        <nav class="site-header__menu jsSiteNavAnchor">
-            <div class="site-header__logo">
-                <!--<h1>Vinilificio</h1>-->
-                {% if page.lang == 'en' %}
-                    {% assign homeLink =  '/home.html' %}
-                {% elsif page.leng == it' %}
-                    {% assign homeLink = '/' %}
-                {% endif %}
-                <a href="{{site.baseurl}}{{homeLink}}"><img src="{{site.baseurl}}/img/logo-round.png" alt="" style="max-height:80px"></a>
-            </div>
+<header class="site-header jsSiteHeader">
+    <div class="site-header__logo">
+        <!--<h1>Vinilificio</h1>-->
+        {% if page.lang == 'en' %}
+            {% assign homeLink =  '/home.html' %}
+        {% elsif page.leng == it' %}
+            {% assign homeLink = '/' %}
+        {% endif %}
+        <a href="{{site.baseurl}}{{homeLink}}"><img src="{{site.baseurl}}/img/logo-round.png" alt="" style="max-height:80px"></a>
+    </div>
 
-            <ul class="site-header__langs">
-                {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-                {% for post in posts %}
-                  <li class="site-header__lang {{ post.lang }}">
-                    <a class="site-header__lang-link" href="{{ post.url }}">{{ post.lang }}</a>
-                  </li>
-                {% endfor %}
+    <ul class="site-header__langs">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+          <li class="site-header__lang {{ post.lang }}">
+            <a class="site-header__lang-link" href="{{ post.url }}">{{ post.lang }}</a>
+          </li>
+        {% endfor %}
 
-                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-                {% for page in pages %}
-                  <li class="site-header__lang {{ page.lang }}">
-                    <a class="site-header__lang-link" href="{{ page.url }}">{{ page.lang }}</a>
-                  </li>
-                {% endfor %}
-            </ul>
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <li class="site-header__lang {{ page.lang }}">
+            <a class="site-header__lang-link" href="{{ page.url }}">{{ page.lang }}</a>
+          </li>
+        {% endfor %}
+    </ul>
 
-            <ul class="site-header__list">
-                {% assign pages = site.pages | where:"lang", page.lang | where:"position", "header" | sort: "index"  %}
-                {% assign current = page.url | downcase | split: '/' %}
-                {% for page in pages %}
-                {% assign page_url = page.url | downcase | split: '/' %}
-                {% if page.title %}
-                <li class="site-header__item">
-                    <a href="{{site.baseurl}}{{page.url}}" class="site-header__link{% if page_url == current %} site-header__link--active{% endif %}">{{ page.title }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </nav>
-    </header>
-</div>
+    <ul class="site-header__list">
+        {% assign pages = site.pages | where:"lang", page.lang | where:"position", "header" | sort: "index"  %}
+        {% assign current = page.url | downcase | split: '/' %}
+        {% for page in pages %}
+        {% assign page_url = page.url | downcase | split: '/' %}
+        {% if page.title %}
+        <li class="site-header__item">
+            <a href="{{site.baseurl}}{{page.url}}" class="site-header__link{% if page_url == current %} site-header__link--active{% endif %}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</header>

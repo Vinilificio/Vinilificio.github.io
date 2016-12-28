@@ -8,8 +8,6 @@ $ms-ratio: 1.25;
 @import 'settings';
 @import 'foundation';
 
-//@import 'slick';
-
 @include foundation-global-styles;
 @include foundation-grid;
 @include foundation-typography;
@@ -47,6 +45,21 @@ $ms-ratio: 1.25;
 @include foundation-top-bar;
 
 
+$zindexHeader: 10;
+$zindexFooter: 10;
+$zindexSidebar: 5;
+$zindexSlideshow: 5;
+
+
+/* /////////////////////////////////////////////////////////
+ * Tools | Animations
+ * /////////////////////////////////////////////////////////*/
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
 /* /////////////////////////////////////////////////////////
  * Base
  * /////////////////////////////////////////////////////////*/
@@ -81,7 +94,6 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    //padding-top: 24rem;
     background: $xlight-gray;
 }
 
@@ -93,63 +105,54 @@ p + ul {
     margin-top: -1.3em;
 }
 
+//*:focus {
+//    outline: none;
+//    border: 1px dotted $medium-gray;
+//    color: inherit;
+//}
 
-/* /////////////////////////////////////////////////
- * Hero
- * //////////////////////////////////////////////*/
-
-.page-hero {
-    position: absolute;
-    top: 85px;
-    left: 0;
-    right: 0;
-    height: 640px;
-    background-color: $light-gray;
-    background-position: center 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    z-index: -1;
+a:focus {
+    color: inherit;
 }
+
 
 /* /////////////////////////////////////////////////
  * Header
  * //////////////////////////////////////////////*/
 
-.site-header-wrapper {
-
-    //background: $white;
-    //transition: transform 0.2s linear;
+.site-header {
+    padding: 0 1rem;
+    background: $black;
+    transition: background 0.3s ease;
 
     @include breakpoint(large) {
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         right: 0;
+        background: none;
+        z-index: $zindexHeader;
     }
 }
 
-.site-header-wrapper--hidden {
-    position: fixed;
-    transform: translateY(-71px);
-    background: rgba(255,255,255,0.9);
-}
-
-.site-header {
-    @include grid-row;
-    //padding-top: 0.5rem;
-
+.site-header--scrolled {
+    background: #228ec3;
 }
 
 .site-header__logo {
-    //@include grid-column(1);
-    //float: left;
     padding: 0.5rem 1rem 0.5rem 0.5rem;
+    display: inline-block;
+    margin-right: 0.5rem;
+    vertical-align: middle;
 }
 
 .site-header__menu {
     @include grid-column(10);
-    //margin-top: 1rem;
     background: $black;
+
+    @include breakpoint(large) {
+        background: none;
+    }
 }
 
 .site-header__list {
@@ -179,23 +182,20 @@ p + ul {
 .site-header__link--active {
     color: $black;
     background: $accent-color;
-    &:hover, &:focus {
+    &:hover {
         color: $black;
     }
 }
 
 .site-header__langs {
-    display: none;
-
-    @include breakpoint(large) {
-        display: inline-block;
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        font-size: ms(-2);
-        text-transform: uppercase;
-        vertical-align: middle;
-    }
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-right: 1rem;
+    list-style: none;
+    font-size: ms(-2);
+    text-transform: uppercase;
+    vertical-align: middle;
 }
 
 .site-header__lang {
@@ -210,7 +210,7 @@ p + ul {
 
 .site-header__lang-link {
    color: $white;
-    &:hover, &:focus {
+    &:hover {
         color: $white;
     }
 }
@@ -225,88 +225,36 @@ p + ul {
  * /////////////////////////////////////////////////////////*/
 
 .main {
-    @include grid-row;
-    padding-bottom: 4rem;
-    min-height: 100vh;
-    background: $white;
-    transition: background 0.8s ease-in-out;
-}
-
-
-/* /////////////////////////////////////////////////////////
- * Main | Left sidebar
- * /////////////////////////////////////////////////////////*/
-
-.left-sidebar {
-    @include grid-column;
-    //font-size: ms(0);
-    font-family: monospace;
-    //transition: transform 0.3s ease-in-out;
     @include breakpoint(large) {
-        width: 14rem;
-        padding-top: 0;
-        position: absolute;
-        top: 0;
-        transform: translateY(32rem);
+        //position: absolute;
+        //top: 0;
+        margin-left: 40%;
+        //right: 0;
+        //bottom: 0;
+        //padding-top: 300px;
+        //padding-bottom: 4rem;
+        //overflow-x: hidden;
+        //overflow-y: auto;
+        overflow: hidden;
+        //min-height: 100vh;
+        background: #f4b601;
+        //transition: background 0.8s ease-in-out;
     }
 }
-
-.wf-active .left-sidebar {
-    font-family: "Space Mono", monospace;
-    font-size: ms(-1);
-}
-
-.left-sidebar--top {
-    position: fixed;
-    transform: translateY(8rem);
-}
-
-.left-sidebar__title {
-    margin: 0 0 0.5rem;
-    font-family: monospace;
-    font-size: ms(0);
-    font-weight: 400;
-}
-
-.wf-active .left-sidebar__title {
-    font-family: "Space Mono", monospace;
-    //font-size: ms(0);
-}
-
-.left-sidebar__link {
-    position: relative;
-    padding: 0.375rem 0 !important;
-    line-height: 1.2 !important;
-}
-
-.left-sidebar__link--active {
-    &:before {
-        content: '\29BF';
-        position: absolute;
-        margin-left: -16px;
-        font-size: 18px;
-        top: 50%;
-        transform: translateY(-50%);
-    }
-}
-
-
-/* /////////////////////////////////////////////////////////
- * Main | Content
- * /////////////////////////////////////////////////////////*/
 
 .main__content {
     padding-top: 1.5rem;
+    padding-bottom: 4rem;
     @include grid-column;
+    background: $white;
+
     @include breakpoint(large) {
-        @include grid-column(6);
-        @include grid-column-offset(2);
+        margin-top: 6rem;
     }
+
     h1 {
-        margin-top: - ms(0);
         font-size: ms(6);
         line-height: 1;
-        //font-weight: 500;
     }
     a {
         color: $dark-gray;
@@ -342,18 +290,18 @@ p + ul {
  * /////////////////////////////////////////////////////////*/
 
 .site-footer {
-    @include grid-column-row;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding: 1rem;
     background: $xlight-gray;
     font-size: ms(-1);
 
     @include breakpoint(large) {
-        position: absolute;
+        position: fixed;
         left: 0;
+        right: 0;
         bottom: 0;
+        padding: 1rem 2rem;
         background: none;
-        z-index: 2;
+        z-index: $zindexFooter;
     }
 }
 
@@ -369,7 +317,7 @@ p + ul {
 .site-footer__link {
     display: block;
     color: $dark-gray;
-    padding: 0.25em 0;
+    padding: 0.25em 0.5em;
     margin-right: 1em;
 
     &:hover {
@@ -377,82 +325,25 @@ p + ul {
     }
 
     @include breakpoint(large) {
-        color: $xlight-gray;
+        color: $white;
+        opacity: 0.9;
 
         &:hover {
             color: $white;
+            opacity: 1;
         }
     }
 }
 
 .site-footer__link--active {
-    text-decoration: line-through;
-}
+    background: $white;
+    color: $black;
+    opacity: 1;
 
-
-
-/* /////////////////////////////////////////////////
- * Svg icons
- * //////////////////////////////////////////////*/
-
-.svg-icon {
-    display: inline-block;
-    width: 1.5em;
-    margin-right: 2px;
-    vertical-align: middle;
-}
-
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-  fill: $black;
-}
-
-.svg-icon circle {
-  stroke: $black;
-  stroke-width: 1;
-}
-
-
-
-/*
-
-
-.site-header {
-    position: fixed;
-    top: 1rem;
-    left: 0;
-    right: 0;
-    z-index: 2;
-
-    &__menu {
-        background: transparent;
-        padding: 0;
-        font-size: 14px;
-        padding: 0;
+    &:hover {
+        color: $black;
     }
 }
-
-.site-header__logo {
-    //display: none;
-            display: inline-block;
-    vertical-align: middle;
-    float: none;
-    padding: 0;
-        margin-right: 0.5rem;
-
-    a {
-        display: block;
-    }
-
-}
-
-.site-header__langs {
-    float: right;
-    padding-top: 22px;
-}
-*/
-
 
 
 /* /////////////////////////////////////////////////
@@ -461,18 +352,18 @@ p + ul {
 
 .sidebar {
     padding: 1rem;
-    background: #212121;
-    color: #fff;
+    background: $black;
+    color: $white;
 
     @include breakpoint(large) {
-        position: absolute;
-        z-index: 1;
+        position: fixed;
+        z-index: $zindexSidebar;
         top: 0;
         bottom: 0;
         overflow: hidden;
         left: 0;
         right: 60%;
-        padding: 20vh 4vw 0;
+        padding: 20vh 2rem 0;
     }
 }
 
@@ -500,15 +391,13 @@ p + ul {
     padding: 4px;
     font-weight: 300;
     font-size: 1rem;
-//        cursor: pointer;
-//        display: inline-block;
-//        float: left;
-//        clear: both;
+    opacity: 0.9;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
 
-//    &:hover {
-//        background: #fff;
-//        color: #212121;
-//    }
+    &:hover {
+        opacity: 1;
+    }
 
     @include breakpoint(large) {
         display: block;
@@ -522,6 +411,29 @@ p + ul {
     }
 }
 
+.sidebar__link {
+    position: relative;
+    padding: 0.375rem 0 !important;
+    color: $white;
+    line-height: 1.2 !important;
+    opacity: 0.9;
+
+    &:hover {
+        color: $white;
+        opacity: 1;
+    }
+}
+
+.sidebar__link--active {
+    &:before {
+        content: '\29BF';
+        position: absolute;
+        margin-left: -16px;
+        font-size: 18px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
 
 
 /* /////////////////////////////////////////////////
@@ -531,13 +443,12 @@ p + ul {
 .slideshow-container {
     @include breakpoint(large) {
         position: absolute;
-        z-index: 1;
+        z-index: $zindexSlideshow;
         top: 0;
         bottom: 0;
         overflow: hidden;
         left: 40%;
         right: 0;
-        //padding: 20vh 4vw 0;
     }
 }
 
@@ -565,23 +476,16 @@ p + ul {
 }
 
 
-
-
-
-
+/* /////////////////////////////////////////////////////////
+ * Utils
+ * /////////////////////////////////////////////////////////*/
 
 .is-playing {
+    display: block;
     -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
 }
-
-
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
-
-
 
 
 

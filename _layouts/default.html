@@ -5,23 +5,24 @@
 
 <body class="{{ page.lang }}">
 
-    <div class="page-hero" {% if page.hero_img %}style="background-image:url('{{ page.hero_img }}')"{% endif %}></div>
+<!--    <div class="page-hero" {% if page.hero_img %}style="background-image:url('{{ page.hero_img }}')"{% endif %}></div>-->
 
     {% include header.html %}
 
-    <div class="main">
-        <div class="jsMainAnchor"></div>
+    <div class="sidebar jsSidebar">
+        <h3 class="sidebar__main-title">{{ page.title }}</h3>
         {% if page.menu %}
-        <div class="left-sidebar jsSidebar">
-<!--            <h3 class="left-sidebar__title">{{ page.title }}</h3>-->
-            <ul class="menu vertical">
-                {% for menuItem in page.menu %}
-                <li class="left-sidebar__item"><a href="#{{menuItem.id}}" class="left-sidebar__link jsSidebarLink">{{ menuItem.titolo }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
+        <ul class="menu vertical">
+            {% for menuItem in page.menu %}
+            <li class="sidebar__item"><a href="#{{menuItem.id}}" class="sidebar__link jsSidebarLink">{{ menuItem.titolo }}</a></li>
+            {% endfor %}
+        </ul>
         {% endif %}
-        <div class="main__content">
+    </div>
+
+    <div class="main jsMain">
+        <div class="jsMainAnchor"></div>
+        <div class="main__content jsMainContent">
             {{ content }}
         </div>
     </div>
