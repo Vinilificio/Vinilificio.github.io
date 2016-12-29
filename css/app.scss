@@ -228,7 +228,7 @@ a:focus {
     @include breakpoint(large) {
         //position: absolute;
         //top: 0;
-        margin-left: 40%;
+        margin-left: 30%;
         //right: 0;
         //bottom: 0;
         //padding-top: 300px;
@@ -250,10 +250,14 @@ a:focus {
 
     @include breakpoint(large) {
         margin-top: 6rem;
+        padding-top: 4.75rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        font-size: ms(1);
     }
 
     h1 {
-        font-size: ms(6);
+        font-size: ms(4);
         line-height: 1;
     }
     a {
@@ -362,7 +366,7 @@ a:focus {
         bottom: 0;
         overflow: hidden;
         left: 0;
-        right: 60%;
+        right: 70%;
         padding: 20vh 2rem 0;
     }
 }
@@ -447,7 +451,7 @@ a:focus {
         top: 0;
         bottom: 0;
         overflow: hidden;
-        left: 40%;
+        left: 30%;
         right: 0;
     }
 }
