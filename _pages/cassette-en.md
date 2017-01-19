@@ -1,5 +1,5 @@
 ---
-title: Cassette
+title: Cassettes
 position: header
 index: 4
 menu:
