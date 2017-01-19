@@ -1,5 +1,5 @@
 ---
-title: Chi siamo
+title: About us
 index: 1
 lang: en
 ref: about
