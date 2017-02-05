@@ -6,12 +6,12 @@ menu:
   - titolo: Slipmat
     id: slipmat
   - titolo: T Shirt
-    id: tshirt
+    id: t-shirt
  - titolo: Tote Bag
     id: tote-bag
     
 lang: it
-ref: cassette
+ref: merchandising
 hero_img: https://source.unsplash.com/Y7SQO1p6B0A/1200x700
 ---
 # Merchandising
