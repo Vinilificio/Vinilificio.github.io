@@ -1,5 +1,5 @@
 ---
-title: Copia Singola
+title: Single Copy
 position: header
 index: 2
 menu:
