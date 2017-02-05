@@ -1,5 +1,5 @@
 ---
-title: Small Run
+title: Piccole Tirature
 layout: default
 position: header
 index: 3
