@@ -1,5 +1,5 @@
 ---
-title: Vinyl Press
+title: Stampa Vinili
 position: header
 index: 1
 menu:
