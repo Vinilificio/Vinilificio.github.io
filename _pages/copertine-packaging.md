@@ -18,7 +18,6 @@ menu:
   id: label
 lang: it
 ref: packaging
-hero_img: https://mir-s3-cdn-cf.behance.net/project_modules/hd/e085f743172557.57e59d6417a83.jpg
 ---
 
 # Copertine e Packaging
