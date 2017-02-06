@@ -11,11 +11,10 @@ menu:
     id: tote-bag
 lang: it
 ref: merchandising
-hero_img: https://source.unsplash.com/Y7SQO1p6B0A/1200x700
 ---
 # Merchandising
 
-### Slipmant
+### Slipmat
 
 ![slipmat](/img/slipmat-turntable (1).jpg)
 
