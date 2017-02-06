@@ -11,10 +11,8 @@ menu:
     id: ordina
   - titolo: Preventivo
     id: preventivo
-
 lang: it
 ref: cassette
-hero_img: https://source.unsplash.com/Y7SQO1p6B0A/1200x700
 ---
 # Cassette
 
