@@ -30,13 +30,11 @@ small, .font_small {font-size: 0.8em;}
 
 body, h1, h2, h3, h4, h5, h6 {
     font-family: $body-font-family-fb;
-    letter-spacing: 0.3px;
 }
 
 .wf-active {
     body, h1, h2, h3, h4, h5, h6 {
-        font-family: $body-font-family;
-        letter-spacing: 0;
+        //font-family: $body-font-family;
     }
 }
 
@@ -82,8 +80,18 @@ a:focus {
     }
 }
 
-.site-header--scrolled {
+.site-header {
+    will-change: transform;
+    transition: transform 200ms linear;
+}
+
+.site-header--pinned {
     background: rgba(0,0,0,0.8);
+    transform: translateY(0%);
+}
+
+.site-header--unpinned {
+    transform: translateY(-100%);
 }
 
 .site-header__logo {
@@ -129,8 +137,6 @@ a:focus {
 }
 
 .site-header__link--active {
-    //color: $black;
-    //background: $accent-color;
     border-bottom: 2px solid;
 }
 
@@ -184,7 +190,7 @@ a:focus {
         //overflow-y: auto;
         overflow: hidden;
         //min-height: 100vh;
-        background: #f4b601;
+        background: $secondary-color;
         //transition: background 0.8s ease-in-out;
     }
 }
@@ -204,8 +210,9 @@ a:focus {
     }
 
     h1 {
+        margin-bottom: 1em;
         font-size: ms(4);
-        line-height: 1;
+        line-height: 1.2;
     }
     a {
         color: $dark-gray;
@@ -213,6 +220,9 @@ a:focus {
         &:hover {
             color: $black;
         }
+    }
+    p {
+        max-width: 30em;
     }
     em, i {
         color: $dark-gray;
@@ -248,7 +258,7 @@ a:focus {
     @include breakpoint(large) {
         position: fixed;
         left: 0;
-        right: 0;
+        right: 75%;
         bottom: 0;
         padding: 1rem 2rem;
         background: none;
@@ -268,7 +278,6 @@ a:focus {
 .site-footer__link {
     display: block;
     color: $dark-gray;
-    padding: 0.25em 0.5em;
     margin-right: 1em;
 
     &:hover {
@@ -287,13 +296,7 @@ a:focus {
 }
 
 .site-footer__link--active {
-    background: $white;
-    color: $black;
-    opacity: 1;
-
-    &:hover {
-        color: $black;
-    }
+    border-bottom: 2px solid;
 }
 
 
@@ -320,14 +323,16 @@ a:focus {
 
 .sidebar__main-title {
     margin: 0 0 1rem;
-    font-weight: 700;
-    font-size: 2rem;
-    text-transform: uppercase;
-    letter-spacing: 1px !important;
+    //font-weight: 700;
+    font-size: ms(3);
+    //text-transform: uppercase;
+    //letter-spacing: 1px;
+    text-overflow: ellipsis;
+    overflow: hidden;
 
     @include breakpoint(large) {
         margin: 0 0 2rem;
-        font-size: 2.4rem;
+        font-size: ms(4);
     }
 }
 
@@ -354,7 +359,7 @@ a:focus {
 
     @include breakpoint(large) {
         display: block;
-        font-size: 26px;
+        font-size: ms(2);
     }
 }
 
@@ -427,8 +432,11 @@ a:focus {
 }
 
 .slideshow__dida-text {
-    margin-bottom: 0.5rem;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 0.5rem;
     line-height: inherit;
+    vertical-align: middle;
 
     @include breakpoint(large) {
         max-width: 50%;
