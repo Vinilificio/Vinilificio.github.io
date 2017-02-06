@@ -1,0 +1,460 @@
+/* /////////////////////////////////////////////////////////
+ * Tools | Animations
+ * /////////////////////////////////////////////////////////*/
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+/* /////////////////////////////////////////////////////////
+ * Base
+ * /////////////////////////////////////////////////////////*/
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: ms(4);
+}
+
+h2 {font-size: ms(3);}
+
+h3 {font-size: ms(2);}
+
+h4 {font-size: ms(1);}
+
+small, .font_small {font-size: 0.8em;}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: $body-font-family-fb;
+    letter-spacing: 0.3px;
+}
+
+.wf-active {
+    body, h1, h2, h3, h4, h5, h6 {
+        font-family: $body-font-family;
+        letter-spacing: 0;
+    }
+}
+
+body {
+    background: $xlight-gray;
+}
+
+ul {
+    list-style: circle;
+}
+
+p + ul {
+    margin-top: -1.3em;
+}
+
+//*:focus {
+//    outline: none;
+//    border: 1px dotted $medium-gray;
+//    color: inherit;
+//}
+
+a:focus {
+    color: inherit;
+}
+
+
+/* /////////////////////////////////////////////////
+ * Header
+ * //////////////////////////////////////////////*/
+
+.site-header {
+    padding: 0 1rem;
+    background: $black;
+    transition: background 0.3s ease;
+
+    @include breakpoint(large) {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: none;
+        z-index: $zindexHeader;
+    }
+}
+
+.site-header--scrolled {
+    background: rgba(0,0,0,0.8);
+}
+
+.site-header__logo {
+    padding: 0.5rem 1rem 0.5rem 0.5rem;
+    display: inline-block;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+}
+
+.site-header__menu {
+    @include grid-column(10);
+    background: $black;
+
+    @include breakpoint(large) {
+        background: none;
+    }
+}
+
+.site-header__list {
+    display: none;
+    margin: 0;
+    padding: 0;
+
+    @include breakpoint(large) {
+        display: inline-block;
+    }
+}
+
+.site-header__item {
+    display: inline-block;
+}
+
+.site-header__link {
+    display: block;
+    color: $white;
+    margin-right: 1em;
+    opacity: 0.9;
+    &:hover {
+        //background: $white;
+        color: $white;
+        opacity: 1;
+    }
+}
+
+.site-header__link--active {
+    //color: $black;
+    //background: $accent-color;
+    border-bottom: 2px solid;
+}
+
+.site-header__langs {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-right: 1rem;
+    list-style: none;
+    font-size: ms(-2);
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.site-header__lang {
+    display: inline-block;
+    margin-right: 0.5em;
+    border: 1px solid transparent;
+    border-radius: 100%;
+    width: 1.8em;
+    height: 1.8em;
+    text-align: center;
+}
+
+.site-header__lang-link {
+   color: $white;
+    &:hover {
+        color: $white;
+    }
+}
+
+.it .it, .en .en {
+    border-color: $white;
+}
+
+
+/* /////////////////////////////////////////////////////////
+ * Main
+ * /////////////////////////////////////////////////////////*/
+
+.main {
+    @include breakpoint(large) {
+        //position: absolute;
+        //top: 0;
+        margin-left: 25%;
+        //right: 0;
+        //bottom: 0;
+        //padding-top: 300px;
+        //padding-bottom: 4rem;
+        //overflow-x: hidden;
+        //overflow-y: auto;
+        overflow: hidden;
+        //min-height: 100vh;
+        background: #f4b601;
+        //transition: background 0.8s ease-in-out;
+    }
+}
+
+.main__content {
+    padding-top: 1.5rem;
+    padding-bottom: 4rem;
+    @include grid-column;
+    background: $white;
+
+    @include breakpoint(large) {
+        margin-top: 6rem;
+        padding-top: 4.75rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        font-size: ms(1);
+    }
+
+    h1 {
+        font-size: ms(4);
+        line-height: 1;
+    }
+    a {
+        color: $dark-gray;
+        text-decoration: underline;
+        &:hover {
+            color: $black;
+        }
+    }
+    em, i {
+        color: $dark-gray;
+    }
+    img {
+        margin-bottom: 0.5rem;
+        padding-top: 0.25rem;
+    }
+    iframe {
+        width: 100%;
+        border: 1px solid lightgrey;
+        height: 20rem;
+    }
+    table {
+        width: 100%;
+        font-size: ms(-1);
+    }
+    th, td {
+        text-align: left !important;
+    }
+}
+
+
+/* /////////////////////////////////////////////////////////
+ * Footer
+ * /////////////////////////////////////////////////////////*/
+
+.site-footer {
+    padding: 1rem;
+    background: $xlight-gray;
+    font-size: ms(-1);
+
+    @include breakpoint(large) {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 1rem 2rem;
+        background: none;
+        z-index: $zindexFooter;
+    }
+}
+
+.site-footer__list{
+    margin: 0;
+    padding: 0;
+}
+
+.site-footer__item {
+    display: inline-block;
+}
+
+.site-footer__link {
+    display: block;
+    color: $dark-gray;
+    padding: 0.25em 0.5em;
+    margin-right: 1em;
+
+    &:hover {
+        color: $black;
+    }
+
+    @include breakpoint(large) {
+        color: $white;
+        opacity: 0.9;
+
+        &:hover {
+            color: $white;
+            opacity: 1;
+        }
+    }
+}
+
+.site-footer__link--active {
+    background: $white;
+    color: $black;
+    opacity: 1;
+
+    &:hover {
+        color: $black;
+    }
+}
+
+
+/* /////////////////////////////////////////////////
+ * Sidebar
+ * //////////////////////////////////////////////*/
+
+.sidebar {
+    padding: 1rem;
+    background: $black;
+    color: $white;
+
+    @include breakpoint(large) {
+        position: fixed;
+        z-index: $zindexSidebar;
+        top: 0;
+        bottom: 0;
+        overflow: hidden;
+        left: 0;
+        right: 75%;
+        padding: 20vh 2rem 0;
+    }
+}
+
+.sidebar__main-title {
+    margin: 0 0 1rem;
+    font-weight: 700;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px !important;
+
+    @include breakpoint(large) {
+        margin: 0 0 2rem;
+        font-size: 2.4rem;
+    }
+}
+
+.sidebar__actions {
+    display: flex;
+
+    @include breakpoint(large) {
+         display: block;
+    }
+}
+
+.sidebar__action {
+    margin: 0;
+    padding: 4px;
+    font-weight: 300;
+    font-size: 1rem;
+    opacity: 0.9;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+        opacity: 1;
+    }
+
+    @include breakpoint(large) {
+        display: block;
+        font-size: 26px;
+    }
+}
+
+.sidebar__content {
+    @include breakpoint(large) {
+        height: 100%;
+    }
+}
+
+.sidebar__link {
+    position: relative;
+    padding: 0.375rem 0 !important;
+    color: $white;
+    line-height: 1.2 !important;
+    opacity: 0.9;
+
+    &:hover {
+        color: $white;
+        opacity: 1;
+    }
+}
+
+.sidebar__link--active {
+    &:before {
+        content: '\29BF';
+        position: absolute;
+        margin-left: -16px;
+        font-size: 18px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}
+
+
+/* /////////////////////////////////////////////////
+ * Slideshow
+ * //////////////////////////////////////////////*/
+
+.slideshow-container {
+    @include breakpoint(large) {
+        position: absolute;
+        z-index: $zindexSlideshow;
+        top: 0;
+        bottom: 0;
+        overflow: hidden;
+        left: 25%;
+        right: 0;
+    }
+}
+
+.slideshow__item {
+    position: relative;
+    background-image: url("../img/stilllife02.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 60vh;
+
+    @include breakpoint(large) {
+        height: 100vh;
+    }
+}
+
+.slideshow__dida {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem 1.5rem 1rem;
+    background: #fff;
+}
+
+.slideshow__dida-text {
+    margin-bottom: 0.5rem;
+    line-height: inherit;
+
+    @include breakpoint(large) {
+        max-width: 50%;
+    }
+}
+
+.slideshow__item1 {
+    background-image: url("../img/image19.jpg");
+}
+
+.slideshow__item2 {
+    background-image: url("../img/Gatefold.jpg");
+}
+
+.slideshow__item3 {
+    background-image: url("https://source.unsplash.com/random");
+}
+
+
+/* /////////////////////////////////////////////////////////
+ * Utils
+ * /////////////////////////////////////////////////////////*/
+
+.is-playing {
+    display: block;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
