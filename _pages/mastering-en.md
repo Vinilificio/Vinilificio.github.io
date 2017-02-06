@@ -1,11 +1,9 @@
 ---
 title: Mastering
-layout: default
 position: header
 index: 5
 lang: en
 ref: master
-hero_img: https://source.unsplash.com/SA1gpcN-Pz4/1200x700
 ---
 
 # Mastering audio, ottimizzazione per vinile, restauro
