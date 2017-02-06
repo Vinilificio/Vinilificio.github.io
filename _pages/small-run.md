@@ -1,11 +1,9 @@
 ---
 title: Small Run
-layout: default
 position: header
 index: 3
 lang: en
 ref: small-run
-hero_img: http://www.barcelonaconnect.com/wp-content/uploads/2016/07/records.jpg
 ---
 # Piccole tirature (10/20/30 vinili)
 
