@@ -3,15 +3,14 @@ title: Merchandising
 index: 6
 position: header
 menu:
-    - titolo: Slipmat
+  - titolo: Slipmat
     id: slipmat
-    - titolo: T Shirt
+  - titolo: T Shirt
     id: t-shirt
-    - titolo: Tote Bag
+  - titolo: Tote Bag
     id: tote-bag
 lang: en
 ref: merchandising
-hero_img: https://source.unsplash.com/Y7SQO1p6B0A/1200x700
 ---
 # Merchandising
 
