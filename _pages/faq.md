@@ -25,7 +25,6 @@ menu:
   id: glossario
 lang: en
 ref: faq
-hero_img: http://payload243.cargocollective.com/1/5/186515/7170536/1_1000.png
 ---
 
 # FAQ
