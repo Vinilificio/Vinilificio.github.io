@@ -15,7 +15,6 @@ menu:
   id: ordina
 lang: it
 ref: single-copy
-hero_img: https://source.unsplash.com/1w1OMV8CEeM/1200x700
 ---
 
 # Vinile in singola copia e dubplate
