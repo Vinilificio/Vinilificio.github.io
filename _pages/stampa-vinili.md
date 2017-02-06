@@ -15,10 +15,8 @@ menu:
   id: preventivo
 - titolo: Ordina
   id: ordina
-published: true
 lang: it
 ref: vinyl-press
-hero_img: https://mir-s3-cdn-cf.behance.net/project_modules/hd/f4ec2343172557.57e59d6416291.jpg
 ---
 
 # La stampa dei tuoi vinili a partire da 100 copie
