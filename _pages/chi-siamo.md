@@ -3,7 +3,6 @@ title: Chi siamo
 index: 1
 lang: it
 ref: about
-hero_img: http://payload373.cargocollective.com/1/2/76242/9770448/SaraAndreasson_FashionIsMyPassion1_web_1000.jpg
 ---
 Vinilificio nasce nel 2005 a Bologna da un'idea di Cristian Adamo. Vinilificio è il primo servizio al mondo di personalizzazione completa del disco in vinile in singola copia.
 
