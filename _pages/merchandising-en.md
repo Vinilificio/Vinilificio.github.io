@@ -14,7 +14,7 @@ ref: merchandising
 ---
 # Merchandising
 
-### Slipmant
+### Slipmat
 
 ![slipmat](/img/slipmat-turntable (1).jpg)
 
