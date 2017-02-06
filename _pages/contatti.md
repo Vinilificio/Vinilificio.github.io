@@ -3,7 +3,6 @@ title: Contatti
 index: 2
 lang: it
 ref: contact
-hero_img: https://mir-s3-cdn-cf.behance.net/project_modules/hd/c8ec3629713465.561b728ce84d1.jpg
 ---
 
 Vinilificio<br>
