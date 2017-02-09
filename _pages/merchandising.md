@@ -1,7 +1,6 @@
 ---
 title: Merchandising
-index: 6
-position: header
+index: 4
 menu:
   - titolo: Slipmat
     id: slipmat
