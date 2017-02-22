@@ -412,9 +412,11 @@ a:focus {
 
 .slideshow__item {
     position: relative;
+    background-color: $black;
     background-image: url("../img/stilllife02.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
+    background-repeat: no-repeat;
     height: 60vh;
 
     @include breakpoint(large) {
@@ -424,23 +426,23 @@ a:focus {
 
 .slideshow__dida {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 1rem 1.5rem 1rem;
+    bottom: 2%;
+    left: 2%;
+    right: 50%;
+    padding: 1rem;
     background: #fff;
 }
 
 .slideshow__dida-text {
-    display: inline-block;
-    margin-bottom: 0;
+    //display: inline-block;
+    margin-bottom: 1rem;
     margin-right: 0.5rem;
     line-height: inherit;
     vertical-align: middle;
 
-    @include breakpoint(large) {
-        max-width: 50%;
-    }
+//    @include breakpoint(large) {
+//        max-width: 50%;
+//    }
 }
 
 .slideshow__item1 {
