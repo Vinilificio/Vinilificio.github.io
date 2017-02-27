@@ -316,7 +316,7 @@ a:focus {
         bottom: 0;
         overflow: hidden;
         left: 0;
-        right: 75%;
+        width: 25rem;
         padding: 20vh 2rem 0;
     }
 }
@@ -405,7 +405,7 @@ a:focus {
         top: 0;
         bottom: 0;
         overflow: hidden;
-        left: 25%;
+        left: 25rem;
         right: 0;
     }
 }
@@ -414,7 +414,7 @@ a:focus {
     position: relative;
     background-color: $black;
     background-image: url("../img/stilllife02.jpg");
-    background-size: contain;
+    background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     height: 60vh;
