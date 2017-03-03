@@ -31,7 +31,7 @@ h4, h5, h6 {line-height: inherit;}
 small, .font_small {font-size: 0.8em;}
 
 body {
-    background: $xlight-gray;
+    background: $black;
 }
 
 ul {
@@ -52,6 +52,44 @@ a:focus {
     color: inherit;
 }
 
+
+
+/* /////////////////////////////////////////////////
+ * Mobile-menu
+ * //////////////////////////////////////////////*/
+
+.mobile-menu {
+    position: fixed;
+    background: $white;
+    z-index: 1000;
+    left: 0;
+    width: 100%;
+}
+
+.mobile-menu-spacer{
+    height: 3rem
+}
+
+.mobile-menu__btn {
+    padding: 1rem;
+    color: $black;
+
+    &:focus {
+        outline: 0;
+    }
+}
+
+.mobile-menu__list {
+    display: none;
+    margin: 0;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    list-style: none;
+}
+
+.mobile-menu__link {
+
+}
 
 /* /////////////////////////////////////////////////
  * Header
@@ -108,7 +146,13 @@ a:focus {
     padding: 0;
 
     @include breakpoint(large) {
+        display: block;
+        margin-bottom: 1rem;
+    }
+
+    @include breakpoint(large) {
         display: inline-block;
+        margin-bottom: 0;
     }
 }
 
@@ -171,34 +215,25 @@ a:focus {
 
 .main {
     @include breakpoint(large) {
-        //position: absolute;
-        //top: 0;
         margin-left: 25rem;
-        //right: 0;
-        //bottom: 0;
-        //padding-top: 300px;
-        //padding-bottom: 4rem;
-        //overflow-x: hidden;
-        //overflow-y: auto;
         overflow: hidden;
-        //min-height: 100vh;
         background: $secondary-color;
-        //transition: background 0.8s ease-in-out;
     }
 }
 
 .main__content {
     padding-top: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     padding-bottom: 4rem;
-    @include grid-column;
     background: $white;
 
     @include breakpoint(large) {
+        @include grid-column;
         margin-top: 6rem;
         padding-top: 4.75rem;
         padding-left: 2rem;
         padding-right: 2rem;
-        //font-size: ms(1);
     }
 
     h1 {
@@ -244,7 +279,7 @@ a:focus {
 
 .site-footer {
     padding: 1rem;
-    background: $xlight-gray;
+    background: $black;
     font-size: ms(-1);
 
     @include breakpoint(large) {
@@ -269,21 +304,13 @@ a:focus {
 
 .site-footer__link {
     display: block;
-    color: $dark-gray;
     margin-right: 1em;
+    color: $white;
+    opacity: 0.9;
 
     &:hover {
-        color: $black;
-    }
-
-    @include breakpoint(large) {
         color: $white;
-        opacity: 0.9;
-
-        &:hover {
-            color: $white;
             opacity: 1;
-        }
     }
 }
 
@@ -315,10 +342,8 @@ a:focus {
 
 .sidebar__main-title {
     margin: 0 0 1rem;
-    //font-weight: 700;
     font-size: ms(3);
-    //text-transform: uppercase;
-    //letter-spacing: 1px;
+    letter-spacing: 0.02em;
     text-overflow: ellipsis;
     overflow: hidden;
 
@@ -338,8 +363,9 @@ a:focus {
 
 .sidebar__action {
     margin: 0;
+    margin-right: 0.5em;
     padding: 4px;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
     opacity: 0.9;
     cursor: pointer;
@@ -351,7 +377,8 @@ a:focus {
 
     @include breakpoint(large) {
         display: block;
-        font-size: ms(2);
+        font-size: ms(1);
+        letter-spacing: 0.04em
     }
 }
 

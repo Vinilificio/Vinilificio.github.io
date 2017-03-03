@@ -1,3 +1,22 @@
+<div class="mobile-menu">
+    <button class="mobile-menu__btn jsMobileMenuToggle">Menu</button>
+    <ul class="mobile-menu__list jsMobileMenu">
+        {% assign pages_mobile = site.pages | where:"lang", page.lang | where:"position", "header" | sort: "index"  %}
+
+        {% assign current_mobile = page.url | downcase | split: '/' %}
+
+        {% for page in pages_mobile %}
+            {% assign page_url_mobile = page.url | downcase | split: '/' %}
+            {% if page.title %}
+                <li class="mobile-menu__item">
+                    <a href="{{site.baseurl}}{{page.url}}" class="mobile-menu__link{% if page_url_mobile == current_mobile %} mobile-menu__link--active{% endif %}">{{ page.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="mobile-menu-spacer"></div>
 
 <header class="site-header jsSiteHeader">
     <div class="site-header__logo">

@@ -91,6 +91,16 @@ $(document).ready(function(){
         $('.site-header__logo a').removeClass('is-playing');
     });
 
+
+    /**
+    * Mobile menu
+    */
+
+    $('.jsMobileMenuToggle').click( function() {
+        $('.jsMobileMenu').toggle();
+    });
+
+
     /**
     * Site header Headroom
     */
