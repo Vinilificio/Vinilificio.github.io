@@ -26,17 +26,9 @@ h3 {font-size: ms(2);}
 
 h4 {font-size: ms(1);}
 
+h4, h5, h6 {line-height: inherit;}
+
 small, .font_small {font-size: 0.8em;}
-
-body, h1, h2, h3, h4, h5, h6 {
-    font-family: $body-font-family-fb;
-}
-
-.wf-active {
-    body, h1, h2, h3, h4, h5, h6 {
-        //font-family: $body-font-family;
-    }
-}
 
 body {
     background: $xlight-gray;
@@ -206,7 +198,7 @@ a:focus {
         padding-top: 4.75rem;
         padding-left: 2rem;
         padding-right: 2rem;
-        font-size: ms(1);
+        //font-size: ms(1);
     }
 
     h1 {
@@ -221,7 +213,7 @@ a:focus {
             color: $black;
         }
     }
-    p {
+    p, h4, h5, h6 {
         max-width: 30em;
     }
     em, i {
@@ -258,7 +250,7 @@ a:focus {
     @include breakpoint(large) {
         position: fixed;
         left: 0;
-        right: 75%;
+        width: 25rem;
         bottom: 0;
         padding: 1rem 2rem;
         background: none;
@@ -428,14 +420,14 @@ a:focus {
     position: absolute;
     bottom: 2%;
     left: 2%;
-    right: 50%;
+    right: 2%;
     padding: 1rem;
     background: #fff;
 }
 
 .slideshow__dida-text {
     //display: inline-block;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     margin-right: 0.5rem;
     line-height: inherit;
     vertical-align: middle;
