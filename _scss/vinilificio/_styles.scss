@@ -473,6 +473,14 @@ a:focus {
     vertical-align: middle;
 }
 
+.slideshow__info-primary {
+    display: none;
+
+    @include breakpoint(medium) {
+        display: inline-block;
+    }
+}
+
 .slideshow__item1 {
     background-image: url("../img/image19.jpg");
 }
