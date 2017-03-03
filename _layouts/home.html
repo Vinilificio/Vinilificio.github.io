@@ -29,10 +29,12 @@
                         <div class="slideshow__item" style="background-image: url('{{ slideImg.img }}')">
                             <div class="slideshow__dida">
                                 <p class="slideshow__dida-text">{{ slideImg.dida }}</p>
-                                <a class="hollow button" href="{{ slideImg.page }}">Scopri</a>
-                                {% if slideImg.app_button %}
-                                    <a class="button" href="#">Incidi con l’App</a>
-                                {% endif %}
+                                <div class="slideshow__info">
+                                    {% if slideImg.app_button %}
+                                        <a class="button" href="#">Incidi con l’App</a>
+                                    {% endif %}
+                                    <a class="hollow button alert" href="{{ slideImg.page }}">Informazioni</a>
+                                </div>
                             </div>
                         </div>
                     </div>

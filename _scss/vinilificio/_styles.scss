@@ -452,24 +452,25 @@ a:focus {
 }
 
 .slideshow__dida {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
     position: absolute;
-    bottom: 2%;
-    left: 2%;
-    right: 2%;
-    padding: 1rem;
-    background: #fff;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem 1rem 0.75rem;
+    //background: #fff;
 }
 
 .slideshow__dida-text {
     //display: inline-block;
-    margin-bottom: 0.5rem;
-    margin-right: 0.5rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: $white;
+    font-size: ms(-1);
     line-height: inherit;
     vertical-align: middle;
-
-//    @include breakpoint(large) {
-//        max-width: 50%;
-//    }
 }
 
 .slideshow__item1 {
