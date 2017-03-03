@@ -64,10 +64,18 @@ a:focus {
     z-index: 1000;
     left: 0;
     width: 100%;
+
+    @include breakpoint(medium) {
+        display: none;
+    }
 }
 
 .mobile-menu-spacer{
-    height: 3rem
+    height: 3rem;
+
+    @include breakpoint(medium) {
+        display: none;
+    }
 }
 
 .mobile-menu__btn {
