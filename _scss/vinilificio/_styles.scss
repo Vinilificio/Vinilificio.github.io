@@ -42,14 +42,8 @@ p + ul {
     margin-top: -1.3em;
 }
 
-//*:focus {
-//    outline: none;
-//    border: 1px dotted $medium-gray;
-//    color: inherit;
-//}
-
-a:focus {
-    color: inherit;
+*:focus {
+    outline: none;
 }
 
 
@@ -173,8 +167,7 @@ a:focus {
     color: $white;
     margin-right: 1em;
     opacity: 0.9;
-    &:hover {
-        //background: $white;
+    &:hover, &:focus {
         color: $white;
         opacity: 1;
     }
@@ -207,7 +200,7 @@ a:focus {
 
 .site-header__lang-link {
    color: $white;
-    &:hover {
+    &:hover, &:focus {
         color: $white;
     }
 }
@@ -215,7 +208,6 @@ a:focus {
 .it .it, .en .en {
     border-color: $white;
 }
-
 
 /* /////////////////////////////////////////////////////////
  * Main
@@ -316,14 +308,22 @@ a:focus {
     color: $white;
     opacity: 0.9;
 
-    &:hover {
+    &:hover, &:focus {
         color: $white;
-            opacity: 1;
+        opacity: 1;
     }
 }
 
 .site-footer__link--active {
     border-bottom: 2px solid;
+}
+
+.site-footer__social {
+    padding-top: 0.25rem;
+}
+
+.site-footer__icon {
+    margin-right: 0.25rem;
 }
 
 
@@ -403,7 +403,7 @@ a:focus {
     line-height: 1.2 !important;
     opacity: 0.9;
 
-    &:hover {
+    &:hover, &:focus {
         color: $white;
         opacity: 1;
     }
@@ -493,6 +493,22 @@ a:focus {
     background-image: url("https://source.unsplash.com/random");
 }
 
+.slick-arrow {
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    background: $white;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0;
+}
+
+.slick-prev {
+    left: 0;
+}
+
+.slick-next {
+    right: 0;
+}
 
 /* /////////////////////////////////////////////////////////
  * Utils
@@ -503,4 +519,24 @@ a:focus {
     -webkit-animation:spin 4s linear infinite;
     -moz-animation:spin 4s linear infinite;
     animation:spin 4s linear infinite;
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: $white;
+}
+
+.svg-icon circle {
+  stroke: $white;
+  stroke-width: 1;
 }
