@@ -44,7 +44,7 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
         <img src="{{ site.baseurl }}/img//Cmon_Tigre.jpg" alt="Red Vinyl Gatefold">
     </div>
     <div>
-        <img src="{{ site.baseurl }}/img/Confrontational.jpg" alt="Black Job vinyl cover">
+        <img src="{{ site.baseurl }}/img/Confrontational.jpg" alt="Confrontational blue vinyl">
     </div>
     <div>
         <img src="{{ site.baseurl }}/img/blackjob01.jpg" alt="Black Job vinyl cover">
