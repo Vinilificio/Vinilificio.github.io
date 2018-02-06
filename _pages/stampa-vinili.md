@@ -48,7 +48,7 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
 
 <div class="slideshow">
     <div>
-        <img src="{{ site.baseurl }}/img/13814044_761073040662410_2408294282722944411_n.jpg" alt="Confrontational vinyl cover">
+        <img src="{{ site.baseurl }}/img//Cmon_Tigre.jpg" alt="Red Vinyl Gatefold">
     </div>
     <div>
         <img src="{{ site.baseurl }}/img/BJ_vinyl_pic01.jpg" alt="Black Job vinyl cover">
