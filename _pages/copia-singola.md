@@ -84,5 +84,5 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 
 **Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
-### Crea e Ordina il tuo vinile
-* Crea il tuo vinile in maniera semplice ed intuitiva con l'[App di Vinilificio](https://demo.vinilificio.chialab.io/#!/overview) 
+### Crea e ordina il tuo vinile
+Crea il tuo vinile in maniera semplice ed intuitiva con l'[App di Vinilificio](https://demo.vinilificio.chialab.io/#!/overview) 
