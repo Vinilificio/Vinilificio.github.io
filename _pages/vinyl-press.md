@@ -39,12 +39,21 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 
 
 ### Gallery
+<div class="slideshow">
+    <div>
+        <img src="{{ site.baseurl }}/img//Cmon_Tigre.jpg" alt="Red Vinyl Gatefold">
+    </div>
+    <div>
+        <img src="{{ site.baseurl }}/img/Confrontational.jpg" alt="Confrontational blue vinyl">
+    </div>
+    <div>
+        <img src="{{ site.baseurl }}/img/blackjob01.jpg" alt="Black Job vinyl cover">
+    </div>
+    <div>
+        <img src="{{ site.baseurl }}/img/Pinky_Violence.jpg" alt="Cover Pinky Violence">
+    </div>
+</div>
 
-![Vinyl12inchcolor]({{ site.baseurl }}/img/13814044_761073040662410_2408294282722944411_n.jpg)
-_12" 140 gr. verde trasparente con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
-
-![Vinyl12inchblack]({{ site.baseurl }}/img/BJ_vinyl_pic01.jpg)
-_12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12" con costina da 3mm, stampata 4c_
 
 ### Specifiche
 _Audio per Mastering e transfer su Lacquer disc_
