@@ -53,6 +53,9 @@ _12" 140 gr. nero con centrino stampato 4c, busta interna bianca e copertina 12"
     <div>
         <img src="{{ site.baseurl }}/img/BJ_vinyl_pic01.jpg" alt="Black Job vinyl cover">
     </div>
+    <div>
+        <img src="{{ site.baseurl }}/img/Pinky_Violence.jpg" alt="Cover Pinky Violence">
+    </div>
 </div>
 
 ### Specifiche
