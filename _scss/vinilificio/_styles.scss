@@ -496,10 +496,11 @@ p + ul {
 .slick-arrow {
     position: absolute;
     z-index: 1000;
-    top: 0;
-    background: $white;
+    top: 50%;
+    background: $secondary-color;
     padding: 0.5rem 0.8rem;
     border-radius: 0;
+    transform: translateY(-50%);
 }
 
 .slick-prev {
@@ -508,6 +509,11 @@ p + ul {
 
 .slick-next {
     right: 0;
+}
+
+.main .slick-slide img {
+    max-height: 80vh;
+    margin: auto;
 }
 
 /* /////////////////////////////////////////////////////////
