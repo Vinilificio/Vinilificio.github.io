@@ -7,10 +7,10 @@ menu:
     id: info
   - titolo: Specifiche
     id: specifiche
-  - titolo: Ordina
-    id: ordina
   - titolo: Preventivo
     id: preventivo
+  - titolo: Ordina
+    id: ordina
 lang: it
 ref: cassette
 ---
