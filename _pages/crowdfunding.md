@@ -9,10 +9,10 @@ lang: it
 ref: crowdfunding
 ---
 
-![vinilificio e musicraiser](/img/Vinilificio_Musicraiser.jpg)
-
 
 # Vinilificio e Musicraiser per finanziare il tuo progetto musicale su vinile
+
+![vinilificio e musicraiser](/img/Vinilificio_Musicraiser.jpg)
 
 ### Info
 
