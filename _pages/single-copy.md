@@ -1,7 +1,7 @@
 ---
 title: Single Copy
 position: header
-index: 2
+index: 1
 menu:
 - titolo: Info
   id: info
