@@ -23,7 +23,7 @@ Musicraiser è la piattaforma leader nel **crowdfunding** in Italia, oltre 1200 
 
 Potresti fare una campagna per realizzare un disco, un tour, oppure mettere in prevendita i tuoi vinili, e se arrivi alla quantità minima per coprire il costo di stampa puoi fare il tuo vinile senza rischio!
 Guarda gli esempi di campagne che hanno realizzato tirature di vinili:
- 
+<br> 
 
 * [Federico Fiumani](https://www.musicraiser.com/it/projects/2723-un-ricordo-che-vale-dieci-lire)
 * [Miro Sassolini](https://www.musicraiser.com/it/projects/5854-del-mare-la-distanza-nuovo-disco-per-la-voce-della-new-wave-italiana)
