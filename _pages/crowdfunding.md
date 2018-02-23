@@ -27,7 +27,7 @@ Guarda gli esempi di campagne che hanno realizzato tirature di vinili:
 
 * [Federico Fiumani](https://www.musicraiser.com/it/projects/2723-un-ricordo-che-vale-dieci-lire)
 * [Miro Sassolini](https://www.musicraiser.com/it/projects/5854-del-mare-la-distanza-nuovo-disco-per-la-voce-della-new-wave-italiana)
-* [C|o|d – crack opening displacement](https://www.musicraiser.com/it/projects/6667-ristampa-cod-preparativi-per-la-fine)
+* [Cod – crack opening displacement](https://www.musicraiser.com/it/projects/6667-ristampa-cod-preparativi-per-la-fine)
  
 
 Proponi il tuo progetto su Musicraiser e stampa i tuoi vinili! => [PARTI DA QUI](https://www.musicraiser.com/projects/add?talent_code=cbjs)
