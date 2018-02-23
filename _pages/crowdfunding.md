@@ -16,9 +16,9 @@ ref: crowdfunding
 
 ### Info
 
-Vuoi stampare il tuo vinile ma ti servono i fondi necessari per produrlo?
-Vinilificio e Musicraiser hanno unito le forze per darti la possibilità di farlo!
-Musicraiser è la piattaforma leader nel crowdfunding in Italia, oltre 1200 progetti finanziati e 4 milioni e mezzo di euro transati e corrisposti ad artisti e creatori. Vinilificio, rivenditore ufficiale di Rand Muzik, è il servizio leader nella produzione di vinili in singola copia, piccole tirature e stampa in quantità. Grazie alla partnership tra Vinilificio e Musicraiser puoi iniziare una campagna per finanziare il tuo progetto musicale e ricevere uno sconto del 5% sulla stampa del tuo vinile!
+Vuoi stampare il tuo **vinile** ma ti servono i fondi necessari per produrlo?
+Vinilificio e [Musicraiser](https://musicraiser.com) hanno unito le forze per darti la possibilità di farlo!
+Musicraiser è la piattaforma leader nel **crowdfunding** in Italia, oltre 1200 progetti finanziati e 4 milioni e mezzo di euro transati e corrisposti ad artisti e creatori. Vinilificio, rivenditore ufficiale di Rand Muzik, è il servizio leader nella produzione di vinili in singola copia, piccole tirature e stampa in quantità. Grazie alla partnership tra Vinilificio e Musicraiser puoi iniziare una campagna per **finanziare il tuo progetto musicale** e ricevere uno **sconto del 5%** sulla stampa del tuo vinile!
  
 
 Potresti fare una campagna per realizzare un disco, un tour, oppure mettere in prevendita i tuoi vinili, e se arrivi alla quantità minima per coprire il costo di stampa puoi fare il tuo vinile senza rischio!
