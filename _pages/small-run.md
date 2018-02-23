@@ -1,7 +1,7 @@
 ---
 title: Small Run
 position: header
-index: 3
+index: 2
 lang: en
 ref: small-run
 ---
