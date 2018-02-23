@@ -1,7 +1,7 @@
 ---
 title: Piccole Tirature
 position: header
-index: 3
+index: 2
 lang: it
 ref: small-run
 ---
