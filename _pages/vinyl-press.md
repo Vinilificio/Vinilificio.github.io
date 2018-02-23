@@ -1,7 +1,7 @@
 ---
 title: Vinyl Press
 position: header
-index: 1
+index: 3
 menu:
 - titolo: Info
   id: info
