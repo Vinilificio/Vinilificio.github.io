@@ -517,6 +517,146 @@ p + ul {
 }
 
 /* /////////////////////////////////////////////////////////
+ * Cookie banner
+ * /////////////////////////////////////////////////////////*/
+
+ .cc-cookie {
+    display: none;
+    margin-top: 0.25rem;
+    color: $white;
+} 
+.cc-link {
+    color: $white;
+    text-decoration: underline;
+    &:hover , &:focus {
+        color: $white;
+    }
+}
+ 
+/*.cc-cookie {
+    display: none;
+    font-size: ms(-1);
+}
+
+.cc-window {
+    display: block;
+}
+.cc-window.cc-invisible {
+    display: none;
+}
+
+.cc-window {
+    position: fixed;
+    overflow: hidden;
+    box-sizing: border-box;
+    line-height: 1.5em;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    z-index: 9999;
+    background: $light-gray;
+    color: $black;
+
+}
+.cc-window.cc-banner {
+    padding: ms(0) ms(1);
+    width: 100%;
+    -ms-flex-direction: row;
+    flex-direction: row
+}
+.cc-btn,
+.cc-close,
+.cc-link,
+.cc-revoke {
+    cursor: pointer
+}
+.cc-link {
+    padding: 0.125em 0;
+}
+.cc-btn {
+    text-align: center;
+    white-space: nowrap;
+}
+.cc-bottom {
+    bottom: 1em
+}
+.cc-window.cc-banner {
+    -ms-flex-align: center;
+    align-items: center
+}
+.cc-banner.cc-bottom {
+    left: 0;
+    right: 0;
+    bottom: 0
+}
+.cc-banner .cc-message {
+    padding-right: 10px;
+    -ms-flex: 1;
+    flex: 1
+}
+.cc-compliance {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-line-pack: justify;
+    align-content: space-between
+}
+.cc-compliance>.cc-btn {
+    -ms-flex: 1;
+    flex: 1
+}
+.cc-btn+.cc-btn {
+    margin-left: .5em
+}
+@media print {
+    .cc-revoke,
+    .cc-window {
+        display: none
+    }
+}
+@media screen and (max-width: 900px) {
+    .cc-btn {
+        white-space: normal
+    }
+}
+@media screen and (max-width: 414px) and (orientation: portrait),
+screen and (max-width: 736px) and (orientation: landscape) {
+    .cc-window.cc-top {
+        top: 0
+    }
+    .cc-window.cc-bottom {
+        bottom: 0
+    }
+    .cc-window.cc-banner,
+    .cc-window.cc-left,
+    .cc-window.cc-right {
+        left: 0;
+        right: 0
+    }
+    .cc-window.cc-banner {
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+    .cc-window.cc-banner .cc-compliance {
+        -ms-flex: 1;
+        flex: 1
+    }
+    .cc-window.cc-floating {
+        max-width: none
+    }
+    .cc-window .cc-message {
+        margin-bottom: 1em
+    }
+    .cc-window.cc-banner {
+        -ms-flex-align: unset;
+        align-items: unset
+    }
+}*/
+
+
+/* /////////////////////////////////////////////////////////
  * Utils
  * /////////////////////////////////////////////////////////*/
 
