@@ -9,10 +9,10 @@ lang: it
 ref: crowdfunding
 ---
 
-[vinilificio e musicraiser](/img/Vinilificio_Musicraiser (1).jpg)
+![vinilificio e musicraiser](/img/Vinilificio_Musicraiser.jpg)
 
 
-# La stampa dei tuoi vinili a partire da 100 copie
+# Vinilificio e Musicraiser per finanziare il tuo progetto musicale su vinile
 
 ### Info
 
@@ -25,9 +25,9 @@ Potresti fare una campagna per realizzare un disco, un tour, oppure mettere in p
 Guarda gli esempi di campagne che hanno realizzato tirature di vinili:
  
 
-[Federico Fiumani](https://www.musicraiser.com/it/projects/2723-un-ricordo-che-vale-dieci-lire)
-[Miro Sassolini](https://www.musicraiser.com/it/projects/5854-del-mare-la-distanza-nuovo-disco-per-la-voce-della-new-wave-italiana)
-[C|o|d – crack opening displacement](https://www.musicraiser.com/it/projects/6667-ristampa-cod-preparativi-per-la-fine)
+* [Federico Fiumani](https://www.musicraiser.com/it/projects/2723-un-ricordo-che-vale-dieci-lire)
+* [Miro Sassolini](https://www.musicraiser.com/it/projects/5854-del-mare-la-distanza-nuovo-disco-per-la-voce-della-new-wave-italiana)
+* [C|o|d – crack opening displacement](https://www.musicraiser.com/it/projects/6667-ristampa-cod-preparativi-per-la-fine)
  
 
 Proponi il tuo progetto su Musicraiser e stampa i tuoi vinili! => [PARTI DA QUI](https://www.musicraiser.com/projects/add?talent_code=cbjs)
