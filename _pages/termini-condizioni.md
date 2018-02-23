@@ -11,7 +11,7 @@ ref: terms-conditions
 # Termini e condizioni
 
 ### Cookie policy
-La presente informativa è resa da Chia Lab s.r.l. e fornisce agli utenti del sito alcune informazioni relative ai cookie utilizzati, ai sensi degli artt. 13 e 122 del Codice in materia di protezione dei dati personali (Decreto Legislativo 30.06.2003, n. 196, “Codice privacy”), nonché in base a quanto previsto dal Provvedimento generale del Garante privacy dell’8 maggio 2014.
+La presente informativa è resa dalla ditta individuale Cristian Adamo per conto del marchio Vinilificio e fornisce agli utenti del sito alcune informazioni relative ai cookie utilizzati, ai sensi degli artt. 13 e 122 del Codice in materia di protezione dei dati personali (Decreto Legislativo 30.06.2003, n. 196, “Codice privacy”), nonché in base a quanto previsto dal Provvedimento generale del Garante privacy dell’8 maggio 2014.
 
 #### 1. Cosa sono i cookie
 I cookie sono stringhe di testo di piccole dimensioni che i siti visitati dall'utente inviano al suo terminale (solitamente al browser), dove vengono memorizzati per essere poi ritrasmessi agli stessi siti alla successiva visita del medesimo utente.
