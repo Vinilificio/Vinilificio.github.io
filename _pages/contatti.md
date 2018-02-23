@@ -12,7 +12,7 @@ Italy
 
 __Si riceve solo su appuntamento__
 
-Per informazioni, domande e appuntamenti puoi contattarci alle seguenti coordinate:<br>
+Per informazioni, domande e appuntamenti puoi contattarci dal lunedì al venerdì dalle 9:30 alle 13:00 e dalle 14:30 alle 18:00 alle seguenti coordinate:<br>
 __tel/fax__ + 39 051 0311817<br>
 __whatsapp__ +39 335 8161224<br>
 __web__ www.vinilificio.com<br>
