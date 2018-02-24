@@ -96,5 +96,5 @@ We can transfer on vinyl any audio file i.e. wav, aiff, flac, mp3...
 
 * Create your vinyl in 3 easy step with [Vinilificio App](https://demo.vinilificio.chialab.io/)
 or
-* Write to ![info at vinilifcio](info@vinilificio.com)
+* Write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a><br>
 
