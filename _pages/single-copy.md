@@ -5,10 +5,10 @@ index: 1
 menu:
 - titolo: Info
   id: info
-- titolo: Singola copia e piccole tirature
-  id: singola-copia-e-piccole-tirature
-- titolo: Grafica
-  id: grafica
+- titolo: Single copy and small run
+  id: single-copy-and-small-run
+- titolo: Copertina e centrini personalizzati
+  id: copertina-e-centrini-personalizzati
 - titolo: Audio
   id: audio
 - titolo: Ordina il tuo vinile
@@ -17,47 +17,55 @@ lang: en
 ref: single-copy
 ---
 
-# Vinile in singola copia e dubplate
+# Vinyl record in single copy and dublate
 
 ### Info
 
-Dal 2005 il Vinilificio riversa la tua musica in singola copia su vero disco di vinile a 33 rpm, 45 rpm, 78 rpm, in diversi formati, su vinilie nero, trasparente o picture disc. Qualità, alto volume, solco stabile e profondo stereo e mono.
-I vinili del Vinilificio sono particolarmente adatti per utilizzi gravosi come lo scratch o il backspin, ma anche per l’ascolto hi-fi e su jukebox. La qualità del suono e l’usura sono identici ai classici dischi di vinile che noi tutti conosciamo. I vinili sono disponibili nei formati 5”, 7”, 10”, 12”, 5" x 7" (vinyl postcard) diversi spessori (1 mm, 1,5 mm, 2 mm), nei colori nero, trasparente e picture disc.
+Since 2005, Vinilificio has been transferring your music onto single copies of real vinyl records at 33, 45, and 78 rpm, in different formats, and on black, transparent or picture discs. Quality, high volume, stable and deep grooves, stereo and mono. Vinilificio’s vinyls, particularly suitable for heavy uses such as scratching and backspin, are also excellent for hi-fi stereo, portable record player and jukebox listening. The sound quality and wear are identical to standard records. Vinyls are available in 5”, 7”,10” and12” formats on black, transparent and picture disc.
 
-### Singola copia e piccole tirature
+### Single copy and small run
 
-Realizziamo il tuo vinile in singola copia, qualche unità o [piccole tirature](https://vinilificio.github.io/small-run/).
-Con la Vinilificio App puoi simulare il costo del tuo ordine, uploadare l'audio, realizzare le grafiche ed effettuare il tuo ordine.
+We make your vinyl in single copy, some units or [small runs] (https://vinilificio.github.io/small-run/).
+With the Vinilificio App you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
-### Grafica
+### Copertina e centrini personalizzati
 
-Stampiamo in singola copia (o in piccole tirature) centrini e copertine in tutti i formati, per vinile singolo, doppio o triplo, a tasca singola o gatefold. Divertiti con la Vinilificio App, crea con facilità le tue grafiche e ordinare il tuo vinile. Se invece te la cavi con la grafica richiedi specifiche e template per realizzare la grafica della tua copertina.
+We print in single copy (or in small runs) labels and covers in all formats, for single, double or triple vinyl record, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://demo.vinilificio.chialab.io/), create easily your own graphics and order your vinyl. If you are famliar with graphic design, ask for specifications and templates to create the graphics of your cover and label.
 
 ### Audio
 
-#### Quanta musica si può incidere su vinile?
+#### How much music can you record on vinyl?
 
-Su vinile la quantità di musica incisa per lato determina il volume del segnale inciso.
+On vinyl the amount of music engraved on each side determines the volume of the recorded signal.
 
-Il solco del vinile occupa più spazio se inciso ad alto volume, mentre occupa meno spazio se inciso a basso volume.
+The groove of the vinyl record takes up more space when engraved at high volume, while it takes up less space when etched at low volume.
 
-(-) musica per lato = (+) volume
+(-) each side = (+) volume
 
-(+) musica per lato = (-) volume
+(+) each side = (-) volume
 
-Migliore rapporto durata/volume:
 
-* 12″ a 33 rpm ad alto volume max. 12 min.
-* 12″ a 45 rpm ad alto volume max. 9 min.
-* 10″ a 33 rpm ad alto volume max. 8 min.
-* 10″ a 45 rpm ad alto volume max. 6 min.
-* 7″ a 45 rpm ad alto volume max. 4 min.
+The best quality-quantity proportion is:
 
-*Formati standard*
+* 12″ to 33 rpm ​​at high volume max. 12 min.
+* 12″ to 45 rpm at high volume max. 9 min.
+* 10″ to 33 rpm ​​at high volume max. 8 min.
+* 10″ to 45 rpm at high volume max. 6 min.
+* 7″ to 45 rpm at high volume max. 4 min.
 
-![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png)
 
-*Formati speciali*
+Quality-quantity proportion for 12″ 33 rpm:
+
+* over 12 min. each side   ->     high volume
+* 12 / 15 min. each side   ->     middle  high volume
+* 15 / 20 min. each side   ->     middle  low volume
+* less then 20 min. each side  (max. 25 minutes)      ->     low volume
+
+*Standard format*
+
+![infographic vinili formati standard](/img/infographic-vinyl-standard-format_en)
+
+*Special formats*
 
 ![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png)
 
