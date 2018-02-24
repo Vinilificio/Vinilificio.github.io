@@ -93,6 +93,6 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 ### Ordina il tuo vinile
 * Crea il tuo vinile in maniera semplice ed intuitiva con l’[App di Vinilificio](https://demo.vinilificio.chialab.io/#!/overview) 
 
-o 
+oppure
 
 * scrivi un'email a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
