@@ -26,9 +26,10 @@ We pass the audio on vinyl for your promos in small quantities without having to
 
 The vinyl records are supplied with white label + white polylined inner envelope + white double hole cover
 
-* Over 8 minutes per side + € 1.00 per minute *
 
-The print of the doilies is € 2.00 per vinyl.
+* Over 8 minutes per side + € 1.00 per minute
+
+The print of the label is € 2.00 per vinyl.
 
 Processing time: 15/20 working days
 
