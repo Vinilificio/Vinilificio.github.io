@@ -61,13 +61,13 @@ Quality-quantity proportion for 12″ 33 rpm:
 * 15 / 20 min. each side   ->     middle  low volume
 * less then 20 min. each side  (max. 25 minutes)      ->     low volume
 
-*Standard format*
+*Standard formats*
 
-![infographic vinili formati standard](/img/infographic-vinyl-standard-format_en)
+![infographic vinili formati standard](/img/inphographic-vinyl-standard-format_en.png)
 
 *Special formats*
 
-![infographic vinili formati standard](/img/infografic-vinili-formati-speciali.png)
+![infographic vinili formati standard](/img/inphografic-vinyl-special-format-en.png)
 
 #### Files audio e alcune indicazioni importanti
 Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
