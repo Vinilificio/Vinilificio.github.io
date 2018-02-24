@@ -4,12 +4,13 @@ position: footer
 index: 6
 lang: it
 menu:
+- titolo: Acquisto dei servizi
+  id: acquisto-dei-servizi
 - titolo: Cookie policy
   id: cookie-policy
-- titolo: Acquisto dei servizi
-  id: acquisto-servizi
 ref: terms-conditions
 ---
+
 # Termini e condizioni
 
 ### Acquisto dei servizi offerti da Vinilificio
