@@ -6,9 +6,44 @@ lang: it
 menu:
 - titolo: Cookie policy
   id: cookie-policy
+- titolo: Acquisto dei servizi
+  id: acquisto-servizi
 ref: terms-conditions
 ---
 # Termini e condizioni
+
+### Acquisto dei servizi offerti da Vinilificio
+
+**VALIDITA’ DELL’ORDINE:**
+Gli ordini sono da ritenersi validi solo ed esclusivamente a pagamento avvenuto.
+
+**PRIVACY E TRATTAMENTO DEI DATI PERSONALI:**
+Generalità e contatti che ci fornirete serviranno solo ed esclusivamente al fine di evadere i vostri ordini e comunicare informazioni inerenti all’ordine, ai servizi e ai prodotti trattati dal Vinilificio. Non saranno ceduti a terzi e/o utilizzati per altri fini.
+
+**ASSUNZIONE DI RESPONSABILITA’ DEL CLIENTE IN MERITO ALLA PROPRIETA’ E/O LICENZA DEL CONTENUTO DEL MASTER AUDIO:**
+L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su singolo pezzo è a solo ed esclusivo utilizzo professionale e/o personale (a scopo di back up o altro utilizzo) e per nessuno scopo di pubblica distribuzione (gratuita o vendita). Il Vinilificio si solleva da qualsiasi tipo di responsabilità legata al contenuto del master audio che gli sarà consegnato dal cliente e che in seguito sarà riversato su vinile. Qualora verrà fornito un master audio coperto (interamente o parzialmente) da copyright, il Vinilificio nella persona di Cristian Adamo, si ritiene sollevato da qualsiasi tipo di responsabilità derivante da conseguenze di eventuali abusi di utilizzo successivi alla lavorazione del materiale audiovisivo trattato. Il cliente che sottoscriverà l'ordine si assume pertanto la totale responsabilità e di aver assolto gli obblighi previsti dal diritto di autore vigenti sia sul territorio nazionale italiano che dai trattati internazionali.
+
+**SERVIZIO DI INTERMEDIAZIONE PER LA PRODUZIONE DI DISCHI IN VINILE:**
+Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
+Durante la stampa dei dischi in vinile è inevitabile una produzione di -/+ 10% rispetto alla quantità ordinata. La differenza di quantità dev'essere incondizionatamente accettata dal cilente, e verrà conseguentemente fatturata una volta stabilito l'esatto ammontare della produzione finale.
+Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
+Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: TERMINI E CONDIZIONI STAMPA VINILI
+
+**ARCHIVIAZIONE DEI MATERIALI AUDIO E GRAFICI:**
+Qual'ora non venga espressamente richiesto dal cliente tramite email con oggetto "CANCELLAZIONE FILES", il Vinilificio terrà in archivio i files audio e i files grafici forniti dal cliente per un periodo massimo di 12 mesi dalla data dell'ordine. Entro e non oltre i 12 mesi, il Vinilificio cancellerà i dati archiviati. Resta inteso che i files archiviati saranno utilizzati solo ed esclusivamente su richiesta del cliente titolare degli stessi files e non saranno ceduti ne utilizzati per altri fini se non al solo fine di effettuare i servizi richiesti dal clienti ed accordati dal Vinilficio. La sola responsabilità del contenuto dei files audio e grafici archiviati è solo ed esclusivamente del cliente cedente degli stessi.
+
+**SPEDIZIONI:**
+Le spedizioni avvengono a rischio e a spese del cliente. Vinilificio informerà il cliente in merito alla modalità di spedizione, spedizioniere incaricato, costi, codice di spedizione. Per nessuna cirsconstanza il Vinilificio è responsabile per lo smarrimento e danneggiamento della merce spedita.
+
+Al momento dell'ordine il cliente accetta incondizionatamente le condizioni qui illustrate.
+
+Per Vinilificio s'intende il titolare "Cristian Adamo".
+
+Per Cliente s'intende il richiedente dei servizi offerti da Vinlificio.
+
+
+
+
 
 ### Cookie policy
 La presente informativa è resa dalla ditta individuale Cristian Adamo per conto del marchio Vinilificio e fornisce agli utenti del sito alcune informazioni relative ai cookie utilizzati, ai sensi degli artt. 13 e 122 del Codice in materia di protezione dei dati personali (Decreto Legislativo 30.06.2003, n. 196, “Codice privacy”), nonché in base a quanto previsto dal Provvedimento generale del Garante privacy dell’8 maggio 2014.
