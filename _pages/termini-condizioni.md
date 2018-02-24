@@ -13,7 +13,7 @@ ref: terms-conditions
 
 # Termini e condizioni
 
-### Acquisto dei servizi offerti da Vinilificio
+### Acquisto dei servizi
 
 **VALIDITA’ DELL’ORDINE:**
 
