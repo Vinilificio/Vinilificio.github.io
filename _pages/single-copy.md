@@ -88,9 +88,13 @@ We can transfer on vinyl any audio file i.e. wav, aiff, flac, mp3...
 * It is not possible to record frequencies above 14/15 Khz at very high volumes
 * For a better risultato we recommend placing the tracks with higher frequencies at the beginning of the vinyl.
 
-**Do you want to know more?** [Take a look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
+**Do you want to know more?** 
 
-**You do not understand anything about audio mastering and do not know how to do it?** We take care of your mastering. Contact us for costs and information.
+[Take a look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
+
+**You do not understand anything about audio mastering and do not know how to do it?** 
+
+We take care of your mastering. Contact us for costs and information.
 
 ### Order your vinyl
 
