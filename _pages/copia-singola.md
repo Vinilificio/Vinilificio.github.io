@@ -53,6 +53,12 @@ Migliore rapporto durata/volume:
 * 10″ a 45 rpm ad alto volume max. 6 min.
 * 7″ a 45 rpm ad alto volume max. 4 min.
 
+Proporzione quantità/qualità audio su vinile 12″ a 33 rpm:
+* meno di 12 min. per lato      ->     volume alto
+* 12 / 15 min. per lato         ->     volume medio / alto
+* 15 / 20 min. per lato         ->     volume medio / basso
+* più di 20 min. per lato (max. 25 minuti)        ->     volume basso
+
 *Formati standard*
 
 ![infographic vinili formati standard](/img/infografic-vinili-formati-standard.png)
@@ -80,7 +86,7 @@ Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
 * Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
 * Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
 
-**Vuoi saperne di più?** Dai un'occhiata qua
+**Vuoi saperne di più?** [Dai un'occhiata qua](https://www.dropbox.com/s/obs7xpk86frxnor/Specifiche%20Audio%20per%20vinili.pdf?dl=0)
 
 **Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
 
