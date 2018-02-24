@@ -11,8 +11,8 @@ menu:
   id: custom-print-cover-and-label
 - titolo: Audio
   id: audio
-- titolo: Ordina il tuo vinile
-  id: ordina
+- titolo: Order your vinyl
+  id: order-your-vinyl
 lang: en
 ref: single-copy
 ---
