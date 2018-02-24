@@ -7,8 +7,8 @@ menu:
   id: info
 - titolo: Single copy and small run
   id: single-copy-and-small-run
-- titolo: Copertina e centrini personalizzati
-  id: copertina-e-centrini-personalizzati
+- titolo: Custom print cover and label
+  id: custom-print-cover-and-label
 - titolo: Audio
   id: audio
 - titolo: Ordina il tuo vinile
@@ -28,7 +28,7 @@ Since 2005, Vinilificio has been transferring your music onto single copies of r
 We make your vinyl in single copy, some units or [small runs] (https://vinilificio.github.io/small-run/).
 With the Vinilificio App you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
-### Copertina e centrini personalizzati
+### Custom print cover and label
 
 We print in single copy (or in small runs) labels and covers in all formats, for single, double or triple vinyl record, single pocket or gatefold vinyl. Have fun with the [Vinilificio App](https://demo.vinilificio.chialab.io/), create easily your own graphics and order your vinyl. If you are famliar with graphic design, ask for specifications and templates to create the graphics of your cover and label.
 
@@ -69,27 +69,32 @@ Quality-quantity proportion for 12″ 33 rpm:
 
 ![infographic vinili formati standard](/img/inphografic-vinyl-special-format-en.png)
 
-#### Files audio e alcune indicazioni importanti
-Su vinile si può incidere più o meno qualsiasi tipo di segnale audio. Per avere però una buona qualità è consigliabile attenersi ad alcune importanti indicazioni.
+#### Audio files and some important advice
+You can record on vinyl more or less any type of audio signal. To have a good quality, however, it is suggested to follow some important indications.
 
-Ricordiamo che migliore sarà la qualità del master audio, migliore sarà la qualità dell'incisione su vinile.
+Remember that the quality of the audio master will be better, the better the quality of the vinyl engraving will be.
 
-Accettiamo qualsiasi tipo di formato audio digitale. wav, aiff, mp3...
+We can transfer on vinyl any audio file i.e. wav, aiff, flac, mp3...
 
-**Frequenze basse:**
+**Low freqeunces:**
 
-* Taglio sotto i 20hz. Le frequenze sotto i 20 Hz possono creare problemi di risonanza.
-* Per evitare controfasi con conseguenti interuzzioni del solco e quindi salto della puntina, è consigliabile tenere in MONO le frequenze sotto i 300 hz.
-* Evitare controfasi se non si ha un'approfondita conoscenza di mastering. Per vericare se ci sono controfasi utilizza un "correlation meter" presente praticamente in tutti i programmi di audio.
+* Frequencies below 20 Hz can create resonance problems.
+* In order to avoid out of phase with consequent interruptions of the groove and therefore the jump of the needle, it is advisable to keep MONO frequencies below 300 hz.
+* Avoid out of phase if you do not have a thorough mastering knowledge. To check if there are any out of phase use a "correlation meter" present almost all audio programs.
 
-**Frequenze alte:**
+**High frequences:**
 
-* De-esser: È consigliato utilzzare un de-esser sulle voci e in generale sulle sibilanti
-* Non è possibile incidere frequenze sopra i 14/15 Khz a volumi molto alti
-* Per una migliore resa consigliamo di posizionare le tracce con più frequenze ad inizio vinile.
+* De-esser: It is recommended to use a de-esser on the voices and in general on the sibilants
+* It is not possible to record frequencies above 14/15 Khz at very high volumes
+* For a better risultato we recommend placing the tracks with higher frequencies at the beginning of the vinyl.
 
-**Vuoi saperne di più?** Dai un'occhiata qua
+**Do you want to know more?** [Take a look here](http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf)
 
-**Non ci capisci niente e non sai come fare?** Ci occupiamo noi del tuo mastering. Contattaci per avere costi e informazioni.
+**You do not understand anything about audio mastering and do not know how to do it?** We take care of your mastering. Contact us for costs and information.
 
-### Ordina
+### Order your vinyl
+
+* Create your vinyl in 3 easy step with [Vinilificio App](https://demo.vinilificio.chialab.io/)
+or
+* Write to ![info at vinilifcio](info@vinilificio.com)
+
