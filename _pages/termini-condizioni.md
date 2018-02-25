@@ -33,7 +33,7 @@ L’audio trasferito da Vinilificio da master ad altro supporto (vinile) su sing
 Il Vinilificio offre servizio di intermediazione commerciale e tecnica tra cliente e industrie per la produzione e duplicazione di audio su dischi in vinile. Il Vinilificio pertanto non effettua in nessun caso duplicazioni in serie tramite matrice. Il cliente che farà uso di questo servizio è obbligato ad espletare tutte le pratiche richieste per la licenza di riproduzione meccanica presso la società concessionaria nel proprio paese e a prendere visioni dei Termini e Condizioni del servizio di stampa vinile. Qualsiasi disputa in merito alla stampa di vinile e ai prodotti/servizi ad essa connessi, fanno solo ed esclusivo riferimento ai Termini e Condizioni della stamperia, e quindi eventuali reclami dovranno essere indirizzati esclusivamente all'azienda produttrice.
 Durante la stampa dei dischi in vinile è inevitabile una produzione di -/+ 10% rispetto alla quantità ordinata. La differenza di quantità dev'essere incondizionatamente accettata dal cilente, e verrà conseguentemente fatturata una volta stabilito l'esatto ammontare della produzione finale.
 Ogni modifica d'ordine ha un costo amministrativo aggiuntivo di € 30,00
-Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: TERMINI E CONDIZIONI STAMPA VINILI
+Termini e Condizioni per il servizio di stampa vinile presso RAND MUZIK: [TERMINI E CONDIZIONI STAMPA VINILI](http://randmuzik.de/files/agb_en.pdf)
 
 **ARCHIVIAZIONE DEI MATERIALI AUDIO E GRAFICI:**
 
