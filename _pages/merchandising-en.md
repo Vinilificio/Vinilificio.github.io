@@ -8,6 +8,8 @@ menu:
     id: t-shirt
   - titolo: Tote Bag
     id: tote-bag
+  - titolo: Order
+    id: order
 lang: en
 ref: merchandising
 ---
@@ -17,33 +19,32 @@ ref: merchandising
 
 ![slipmat](/img/slipmat-turntable (1).jpg)
 
+To celebrate the eleventh birthday Vinilificio has created the exclusive slipmat designed for us by Paper Resistance.
 
-Per festeggiare l'undicesimo compleanno Vinilificio ha realizzato l’esclusivo slipmat (il panno sottovinile) disegnato per noi da Paper Resistance.
+You can take your Vinilificio Slipmat by making an order of custom vinyls of at least € 150.00 (*) or you can buy it at € 12.00 one or two x € 20.00, directly by writing to info@vinilificio.com
 
-Puoi prendere il tuo Vinilificio Slipmat effettuando un ordine di vinili personalizzati di almeno € 150,00 (*) oppure puoi acquistarlo ad € 12,00 l’uno o 2 x € 20,00 , direttamente scrivendo a info@vinilificio.com
-
-(*) Offerta valida fino ad esaurimento.
+(*) Offer valid until sold out.
 
 
 ### T Shirt
 ![T Shirt](/img/vinilificio-tshirt_web (1).jpg)
 
-Per celeberare i primi 10 anni di Vinilificio, Paperesistance ha realizzato un artwork esclusivo dal titolo “Vinilificio: The Science of Vinyl Sicne 2005”.
-Con quest’artwork abbiamo realizzato le t-shirt e le tote bag.
+To celebrate Vinilificio's first 10 years, Paperesistance has created an exclusive artwork entitled "Vinilificio: The Science of Vinyl Since 2005".
+With this art we made t-shirts and tote bags.
 
-T-Shirt € 17,00
+T-shirt € 17.00
 
-Puoi richiedere la tua t-shirt (S,M,L,XL) e la tua tote bag scrivendo a info@vinilificio.com
+You can request your t-shirt (S, M, L, XL) and your tote bag by writing to info@vinilificio.com
 
 
 ### Tote Bag
 ![Tote Bag](/img/vinilificio-bag_web (1).jpg)
 
-Per celeberare i primi 10 anni di Vinilificio, Paperesistance ha realizzato un artwork esclusivo dal titolo “Vinilificio: The Science of Vinyl Sicne 2005”.
-Con quest’artwork abbiamo realizzato le t-shirt e le tote bag.
+To celebrate Vinilificio's first 10 years, Paperesistance has created an exclusive artwork titled "Vinilificio: The Science of Vinyl Sicne 2005".
+With this art we made t-shirts and tote bags.
 
-Tote Bag € 7,00
+Tote Bag € 7.00
 
-### Ordina
+### Order
 
-Per ordinare il merchandising di Vinilificio scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+To order the Vinilificio merchandising write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
