@@ -4,7 +4,6 @@ position: footer
 index: 6
 lang: en
 menu:
----
 - titolo: Vinificio Services
   id: vinificio-services
 - titolo: Cookie policy
