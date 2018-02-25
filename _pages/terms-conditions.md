@@ -3,10 +3,8 @@ title: T&C
 position: footer
 index: 6
 lang: en
-ref: terms-conditions
+menu:
 ---
-# Terms and Conditions
-
 - titolo: Vinificio Services
   id: vinificio-services
 - titolo: Cookie policy
