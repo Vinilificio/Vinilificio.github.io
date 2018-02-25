@@ -25,7 +25,7 @@ Since 2005, Vinilificio has been transferring your music onto single copies of r
 
 ### Single copy and small run
 
-We make your vinyl in single copy, some units or [small runs] (https://vinilificio.github.io/small-run/).
+We make your vinyl in single copy, some units or [small runs](https://vinilificio.github.io/small-run/).
 With the Vinilificio App you can calculate the cost of your order, simulate your vinyl, upload the audio, create your own artwork and place your order.
 
 ### Custom print cover and label
