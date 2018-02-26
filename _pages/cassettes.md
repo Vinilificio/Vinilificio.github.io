@@ -23,7 +23,7 @@ ref: cassette
 
 Do you remember the old audio cassette tape? Yes, the one you can listen in your walkman, in your ghetto blaster or in the car?
 
-Vinilificio produces your audio cassette series (over 50 copies). We provide full customized cassette including: printed cassette 1c, inlay 4c (0 flap, 1 flap, 2 flap), slipcase 4c, sticky blank labels for cassette on A4 sheet. Our options include ferro and chromo tape (only for blank tape). You can check here [the color available]().
+Vinilificio produces your audio cassette series (over 50 copies). We provide full customized cassette including: printed cassette 1c, inlay 4c (0 flap, 1 flap, 2 flap), slipcase 4c, sticky blank labels for cassette on A4 sheet. Our options include ferro and chromo tape (only for blank tape). You can check here to check [the cassette color]() and [the snapbox color]().
 
 ### Specifications
 
