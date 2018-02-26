@@ -12,7 +12,7 @@ ref: small-run
 
 Vinilificio offers a audio transfer service on vinyl designed for DJs and labels.
 
-We pass the audio on vinyl for your promos in small quantities without having to wait months and engage in large quantities.
+We transfer the audio on vinyl for your promos in small quantities without having to wait months and engage in large quantities.
 
 * 10 x 12 "black 1.5 mm (within 8 minutes each side) € 250.00 (*)
 * 20 x 12 "black 1.5 mm (within 8 minutes each side) € 400.00 (*)
