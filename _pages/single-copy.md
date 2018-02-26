@@ -98,7 +98,7 @@ We take care of your mastering. Contact us for costs and information.
 
 ### Order your vinyl
 
-* Create your vinyl in 3 easy step with [Vinilificio App](https://demo.vinilificio.chialab.io/)
+* Create your vinyl in 3 easy steps with [Vinilificio App](https://demo.vinilificio.chialab.io/)
 
 or
 
