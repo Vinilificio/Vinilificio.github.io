@@ -31,9 +31,9 @@
                                 <p class="slideshow__dida-text">{{ slideImg.dida }}</p>
                                 <div class="slideshow__info">
                                     {% if slideImg.app_button %}
-                                        <a class="button slideshow__info-primary" href="#">Incidi con l’App</a>
+                                        <a class="button slideshow__info-primary" href="#">{{ site.locales[page.lang].make_vinyl }}</a>
                                     {% endif %}
-                                    <a class="hollow button alert" href="{{ slideImg.page }}">Informazioni</a>
+                                    <a class="hollow button alert" href="{{ slideImg.page }}">{{ site.locales[page.lang].info }}</a>
                                 </div>
                             </div>
                         </div>

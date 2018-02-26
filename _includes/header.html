@@ -20,7 +20,6 @@
 
 <header class="site-header jsSiteHeader">
     <div class="site-header__logo">
-        <!--<h1>Vinilificio</h1>-->
         {% if page.lang == 'en' %}
             {% assign homeLink =  '/home.html' %}
         {% elsif page.leng == it' %}
@@ -58,5 +57,6 @@
         {% endfor %}
     </ul>
 
-    <a class="button" href="#">Incidi con l’App</a>
+    <a class="button" href="#">{{ site.locales[page.lang].make_vinyl }}</a> 
 </header>
+ 

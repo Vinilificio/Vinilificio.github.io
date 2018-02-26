@@ -66,3 +66,13 @@ collections:
 
 # Permalinks
 #permalink: pretty
+
+# Locales
+locales:
+  it:
+    make_vinyl: "Crea il tuo vinile"
+    info: "Informazioni"
+
+  en:
+    make_vinyl: "Make your vinyl"
+    info: "Information"
