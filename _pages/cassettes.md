@@ -5,12 +5,13 @@ index: 4
 menu:
   - titolo: Info
     id: info
-  - titolo: Specifiche
-    id: specifiche
-  - titolo: Ordina
-    id: ordina
-  - titolo: Preventivo
-    id: preventivo
+  - titolo: Specifications
+    id: specifications
+  - titolo: Quotation
+    id: quotation
+  - titolo: Order
+    id: order
+
 lang: en
 ref: cassette
 ---
@@ -20,13 +21,11 @@ ref: cassette
 
 ### Info
 
-Le vecchie cassette, le ricordi ? Quelle che si ascoltavano nel mangianastri, nel ghetto blaster  o nello stereo dell’automobile?
+Do you remember the old audio cassette tape? Yes, the one you can listen in your walkman, in your ghetto blaster or in the car?
 
-Il Vinilificio può realizzare a partire da 50 copie le tua audiocassette. Possiamo stampare direttamente sulla cassetta, stampare sull’inserto di carta (0 ante, 1 anta, 2 ante), custodia di cartone stampata o neutra, fogli A4 fustellati per l'etichetta da apporre sulla cassetta. Incidiamo su nastro al ferro. Il nastro al cromo è disponibile solo per le cassette vergini.
+Vinilificio produces your audio cassette series (over 50 copies). We provide full customized cassette including: printed cassette 1c, inlay 4c (0 flap, 1 flap, 2 flap), slipcase 4c, sticky blank labels for cassette on A4 sheet. Our options include ferro and chromo tape (only for blank tape). You can check here [the color available]().
 
-Le cassette possono essere nere, bianche, blu, gialle, rosse, rosa, trasparenti, fumè.
-
-### Specifiche
+### Specifications
 
 * Resolution at least 300 dpi
 * Valid format (PDF or TIFF)
@@ -46,14 +45,13 @@ Artwork for imprint correct
 * All printing elements in black
 * Pixel data: grayscale or bitmap
 
-### Preventivo
+### Quotation
 
-Per poter elaborare un preventivo sono necessarie le seguenti informazioni:
+In order to process a quote, the following information is required:
 
-* Durata Master
-* Con o senza stampa tampone sulla cassetta
-* Con o senza inlay (inserto di carta stampato)
+* duration of the master
+* With or wihtout the print on the cassette
+* With or without the inlay
 
-### Ordina
-
-Per ordinare le tue cassette scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+### Order
+To order your cassettes write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
