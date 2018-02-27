@@ -19,7 +19,7 @@ lang: en
 ref: vinyl-press
 ---
 
-# Your vinyl starting from 100 copies
+# Your vinyl press starting from 100 copies
 
 ### Info
 
