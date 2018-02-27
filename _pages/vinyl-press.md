@@ -7,36 +7,36 @@ menu:
   id: info
 - titolo: Gallery
   id: gallery
-- titolo: Specifiche
-  id: specifiche
-- titolo: Cover e Packaging
+- titolo: Specifications
+  id: specifications
+- titolo: Cover and Packaging
   id: cover-e-packaging
-- titolo: Preventivo
-  id: preventivo
-- titolo: Ordina
-  id: ordina
+- titolo: Quotation
+  id: quotation
+- titolo: Order
+  id: order
 lang: en
 ref: vinyl-press
 ---
 
-# La stampa dei tuoi vinili a partire da 100 copie EN EN EN
+# La stampa dei tuoi vinili a partire da 100 copie 
 
 ### Info
 
-Vinilificio è concessionario esclusivo per l'Italia di RAND MUZIK, azienda leader nella stampa di vinili. Grazie alla partnership decennale con RAND MUZIK, Vinilificio offre servizi e prodototti di qualità nella produzione di dischi in vinile.
-Stampiamo i tuoi vinili a partire da
+Vinilificio is the authorized dealer of Rand Muzik, leading company in vinyl pressing. Thanks to the ten-year partnership with RAND MUZIK, Vinilificio offers quality services and products in the production of vinyl records.
+We press your vinyls starting from
 
-* da 100 copie nei formati 7" e 12" 140 gr.
-* da 300 copie nei formati 10" e 12" 180 gr.
+* from 100 copies formats 7" and 12" 140 gr.
+* from 300 copies formats 10" and 12" 180 gr.
 
-Stampiamo vinili neri, colorati e marmorizzati nei formati 7" (foro standard e grande) 10" e 12" 140 gr. e 180 g., oltre alla stampa di copertine, centrini, adesivi, inserti e downlad card.
+We provide black, colored and marbled vinyl records in 7" (standard and big hole), 10" and 12" 140 gr. and 180 g., in addition to printing covers, labels, stickers, inserts and downlad cards.
 
-Stampiamo copertine buste, inserti, centrini, sticker adesivi, in tutti i formati, in bianco e nero, a colori o con colori speciali (Pantone, UV, metallici...).
+We print cover, sleeves, inlay, labels, stickers all sizes, b/w, full color or special color and varnishing (Pantone, UV, metallici...).
 
 Abbiamo a cuore la qualità dei tuoi vinili. Per questo grazie al Quality Department controlliamo la qualità della lavorazione ad ogni passaggio produttivo.
+We care about the quality of your vinyl. This is why, thanks to the Quality Department, we control the quality of processing at each production step.
 
-Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapporto qualità/volume/durata, stampe... . La decennale esperienza nella produzione di vinili fa di Vinilificio il migliore partner per la tua produzione.
-
+Vinilificio will guide you and advise you on the best choice: cost per copy, quality / volume / duration ratio, prints .... Over ten years experience in the production of vinyl makes Vinilificio the best partner for your productions.
 
 ### Gallery
 <div class="slideshow">
@@ -55,10 +55,10 @@ Vinilificio ti guida e consiglia verso la migliore scelta: costo per copia, rapp
 </div>
 
 
-### Specifiche
-_Audio per Mastering e transfer su Lacquer disc_
+### Specifications
+Audio per Mastering e transfer su Lacquer disc
 
-###### Formati
+###### Audio Format
 
 WAV, AIFF, FLAC, immagine DDP
 
@@ -66,52 +66,53 @@ WAV, AIFF, FLAC, immagine DDP
 
 16 bit, 24 bit
 
-###### Sampling rate e frequenze
+###### Sampling rate and frequences
 
-44100 hz o superiore
+44100 hz or higher
 
 ###### De-essing
 
-Si consiglia di utilizzare un de-esser su tracce vocali con molte sibilanti.
+It is advisable to use a de-esser on vocal tracks with many sibilants.
 
-###### Controfasi e frequenze stereo sotto i 300 hz
+###### Out of phase and stereo frequencies under 300 hz
 
-Evitare controfasi e frequenze in stereo sotto i 300 hz
+Avoid out of phase and stereo signals under 300 hz.
 
-###### Durata per lato e volume ottimale
+###### Music length per side and volume 
 
-* 12″ a 33 rpm ad alto volume max. 12 min.
-* 12″ a 45 rpm ad alto volume max. 9 min.
-* 10″ a 33 rpm ad alto volume max. 8 min.
-* 10″ a 45 rpm ad alto volume max. 6 min.
-* 7″ a 45 rpm ad alto volume max. 4 min.
+* 12″ at 33 rpm high volume max. 12 min.
+* 12″ at 45 rpm high volume max. 9 min.
+* 10″ at 33 rpm high volume max. 8 min.
+* 10″ at 45 rpm high volume max. 6 min.
+* 7″ at 45 rpm high volume max. 4 min.
 
-###### Durata per lato max e volume basso (sconsigliamo di arrivare ai limiti di durata)
-
-* 12″ a 33 rpm a basso volume max. 25 min.
-* 10″ a 33 rpm a basso volume max. 12 min.
-* 7″ a 45 rpm a basso volume max. 6 min.
+###### Max music length per side and low volume (we recommend to do not reach the duration limits)
 
 
-<a href="https://dl.dropboxusercontent.com/u/6988499/Specifiche%20Rand%20_%20Ita/Specifiche%20Audio%20per%20vinili.pdf" target="_blank">Scarica o guarda il pdf con le specifiche dettagliate</a>
+* 12″ at 33 rpm low volume max. 25 min.
+* 10″ at 33 rpm low volume max. 12 min.
+* 7″ at 45 rpm low volume max. 6 min.
 
-### Cover e Packaging
-Possiamo vestire il tuo vinile con copertine, disco bag, buste interne, centrini, adesivi stampati o neutri su diverse carte. Forniamo in oltre buste trasparenti leggere o pesanti, incellofanature, download card.
-<a href="/cover-packaging">Specifiche</a>
 
-### Preventivo
-Per richiedere un preventivo scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  indicando le seguenti informazioni:
+<a href="http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf" target="_blank">Download or view the PDF with detailed specifications</a>
 
-* Quantità
-* Formato vinile
-* Colore vinile
-* Durata master
-* Centrini: stampati o neutri
-* Busta Interna: neutra o stampata
-* Copertina: neutra o stampata
-* Inserto
-* Incellofanatura
-* Extra (stampa adesivi, download card, inserimento cd...)
+### Cover and Packaging
+We can dress your vinyl with covers, disco bags, inner envelopes, lable, printed or neutral stickers on different papers. We supply in addition light or heavy transparent envelopes, incellofanature, download card.
+<a href="/cover-packaging">Specifications</a>
 
-### Ordina
-Per ordinare la stampa del tuo vinile scrivi a <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+### Quotation
+To request a quote, write to<a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
+
+* Quantity
+* Vinyl format
+* Vinyl color
+* Duration of the master
+* Doilies: printed or neutral
+* Internal envelope: neutral or printed
+* Cover: neutral or printed
+* Insert
+* Shrink wrap
+* Extra (sticker printing, download card, cd insert ...)
+
+### Order
+Write here to order your vinyl record pressing <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
