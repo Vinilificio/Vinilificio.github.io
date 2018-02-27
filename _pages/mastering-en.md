@@ -6,11 +6,12 @@ lang: en
 ref: master
 ---
 
-# Mastering audio, ottimizzazione per vinile, restauro
+# Audio mastering, optimization for vinyl, audio restoration
 
 Each sound recording – whether vinyl, files, CDs, DVDs, or video – has its own technical characteristics (advantages and limitations). Mastering can adjust the audio for the support on which it will be transferred. Mastering is an essential process for making a high quality sound product (without errors) and especially for emphasizing those “colors” and  “tones” that otherwise remain imperceptible.
 
-Vinilificio provides mastering with digital/analog mixed paths, optimization of low quality audio, and audio restoration from vinyl. 
+Vinilificio provides mastering with digital/analog mixed paths, optimization of low quality audio, and audio restoration from vinyl.
+
 
 Mastering price list:
 
