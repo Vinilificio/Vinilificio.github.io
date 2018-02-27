@@ -97,18 +97,18 @@ Avoid out of phase and stereo signals under 300 hz.
 <a href="http://www.randmuzik.de/files/spezifikationen_audio_en_1.pdf" target="_blank">Download or view the PDF with detailed specifications</a>
 
 ### Cover and Packaging
-We can dress your vinyl with covers, disco bags, inner envelopes, lable, printed or neutral stickers on different papers. We supply in addition light or heavy transparent envelopes, incellofanature, download card.
+We can dress your vinyl with covers, disco bags, inner envelopes, lable, printed or neutral stickers on different papers. We supply in addition light or heavy transparent envelopes, shrink wrap, download card.
 <a href="/cover-packaging">Specifications</a>
 
 ### Quotation
-To request a quote, write to<a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
+To request a quote, write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>  with the following information:
 
 * Quantity
 * Vinyl format
 * Vinyl color
 * Duration of the master
-* Doilies: printed or neutral
-* Internal envelope: neutral or printed
+* Labels: printed or neutral
+* Inner sleeve: neutral or printed
 * Cover: neutral or printed
 * Insert
 * Shrink wrap
