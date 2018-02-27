@@ -10,7 +10,7 @@ menu:
 - titolo: Specifications
   id: specifications
 - titolo: Cover and Packaging
-  id: cover-e-packaging
+  id: cover-and-packaging
 - titolo: Quotation
   id: quotation
 - titolo: Order
@@ -19,7 +19,7 @@ lang: en
 ref: vinyl-press
 ---
 
-# La stampa dei tuoi vinili a partire da 100 copie 
+# Your vinyl starting from 100 copies
 
 ### Info
 
