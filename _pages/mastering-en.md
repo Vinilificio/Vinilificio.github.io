@@ -8,23 +8,23 @@ ref: master
 
 # Mastering audio, ottimizzazione per vinile, restauro
 
-Ogni supporto fonografico sia esso vinile, file, cd, dvd, video ha delle sue peculiarità tecniche (limiti e vantaggi). Il mastering permette di adattare il master audio al supporto su cui verrà trasferito. Il mastering è un procedimento essenziale per realizzare un buon prodotto audio (senza errori) e soprattutto per poter mettere in risalto quei “colori” e quei “toni” che senza mastering rimarrebbero sopiti.
+Each sound recording – whether vinyl, files, CDs, DVDs, or video – has its own technical characteristics (advantages and limitations). Mastering can adjust the audio for the support on which it will be transferred. Mastering is an essential process for making a high quality sound product (without errors) and especially for emphasizing those “colors” and  “tones” that otherwise remain imperceptible.
 
-Il Vinilificio fornisce servizio di mastering con percorso misto digitale analogico, ottimizzazione audio di bassa qualità e servizio di restauro audio da vinile. Esperienza decennale nel mastering per vinile e digitale.
+Vinilificio provides mastering with digital/analog mixed paths, optimization of low quality audio, and audio restoration from vinyl. 
 
-Le nostre tariffe:
+Mastering price list:
 
-|               | Costo al minuto                                                         |
+|               | Cost per minute                                                         |
 | ------------- |:-----------------------------------------------------------------------:|
-| Mastering (*) | € 6,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
-| Ottimizzazione per vinile (**)      | € 3,00 al minuto + € 30,00 di setup fee per durate minori di 40 minuti. |
+| Mastering (*) | € 6,00 per minute + € 30,00 setup fee for master less then 40 minutes. |
+| Optimization for vinyl (**)      | € 3,00 per minute + € 30,00 setup fee for master less then 40 minutes. |
 
 
 
-(*) Mastering: Percorso misto digitale e analogico/valvolare. Inclusa ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
+(*) Mastering: Digital and analog/tube mixed paths. Including optimization for vinyl (phase control and correction, de-essing, dynamic correction, etc ...). 
 
-(**) Ottimizzazione per vinile: Ottimizzazione per vinile (controllo e correzione fasi,  de-essing, correzione dinamiche, etc...)
+(**) Optimization for vinyl: (phase control and correction, de-essing, dynamic correction, etc ...
 
-Qualità, cura, competenza, esperienza al giusto prezzo per la massima qualità del tuo audio su vinile.
+Care, skill and experience at the right price for the highest quality of your audio on vinyl..
 
-Per maggiori informazioni <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
+For further informations please write to <a href="mailto:info@vinilificio.com">info at vinilificio.com</a>
