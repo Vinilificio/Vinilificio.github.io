@@ -2,11 +2,9 @@ sudo: false
 
 language: ruby
 
-install:
- - gem install jekyll bundler
-
 script:
  - bundle exec jekyll build
+ - bundle exec htmlproofer ./_site
 
 before_deploy:
   - pip install --user awscli
@@ -24,7 +22,7 @@ jobs:
       secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
       bucket: $DEV_CNAME
       skip_cleanup: true
-      local_dir: public
+      local_dir: _site
       upload-dir: $DEV_CNAME
       region: eu-west-1
     after_deploy:
@@ -40,7 +38,7 @@ jobs:
   #     secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
   #     bucket: $PROD_CNAME
   #     skip_cleanup: true
-  #     local_dir: public
+  #     local_dir: _site
   #     upload-dir: $PROD_CNAME
   #     region: eu-west-1
   #   after_deploy:
