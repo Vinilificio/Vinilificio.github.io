@@ -11,39 +11,26 @@ before_deploy:
   - export PATH=$PATH:$HOME/.local/bin
   - aws configure set preview.cloudfront true
 
-jobs:
-  fast_finish: true
+deploy:
+  - provider: s3
+    access_key_id: $DEV_AWS_ACCESS_KEY_ID
+    secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
+    bucket: $DEV_CNAME
+    skip_cleanup: true
+    local_dir: _site
+    region: eu-west-1
+    on:
+      all_branches: true
+  - provider: s3
+    access_key_id: $PROD_AWS_ACCESS_KEY_ID
+    secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
+    bucket: $PROD_CNAME
+    skip_cleanup: true
+    local_dir: _site
+    region: eu-west-1
+    on:
+      tags: true
 
-  include:
-    -
-      # branches:
-      #   only:
-      #     - develop
-      deploy:
-        provider: s3
-        access_key_id: $DEV_AWS_ACCESS_KEY_ID
-        secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
-        bucket: $DEV_CNAME
-        skip_cleanup: true
-        local_dir: _site
-        upload-dir: $DEV_CNAME
-        region: eu-west-1
-      after_deploy:
-        - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
-
-    # -
-    #   # branches:
-    #   #   only:
-    #   #     - master
-    #   deploy:
-    #     provider: s3
-    #     access_key_id: $PROD_AWS_ACCESS_KEY_ID
-    #     secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
-    #     bucket: $PROD_CNAME
-    #     skip_cleanup: true
-    #     local_dir: _site
-    #     upload-dir: $PROD_CNAME
-    #     region: eu-west-1
-    #   after_deploy:
-    #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
-
+after_deploy:
+  - AWS_ACCESS_KEY_ID=$DEV_AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY=$DEV_AWS_SECRET_ACCESS_KEY aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+  - AWS_ACCESS_KEY_ID=$PROD_AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY=$PROD_AWS_SECRET_ACCESS_KEY aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
