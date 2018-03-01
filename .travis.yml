@@ -22,7 +22,7 @@ jobs:
       provider: s3
       access_key_id: $DEV_AWS_ACCESS_KEY_ID
       secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
-      bucket: $DEV_S3_BUCKET
+      bucket: $DEV_CNAME
       skip_cleanup: true
       local_dir: public
       upload-dir: $DEV_CNAME
@@ -36,13 +36,13 @@ jobs:
   #   #     - master
   #   deploy:
   #     provider: s3
-  #     access_key_id: $DEV_AWS_ACCESS_KEY_ID
-  #     secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
-  #     bucket: $DEV_S3_BUCKET
+  #     access_key_id: $PROD_AWS_ACCESS_KEY_ID
+  #     secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
+  #     bucket: $PROD_CNAME
   #     skip_cleanup: true
   #     local_dir: public
-  #     upload-dir: $DEV_CNAME
+  #     upload-dir: $PROD_CNAME
   #     region: eu-west-1
   #   after_deploy:
-  #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+  #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
 
