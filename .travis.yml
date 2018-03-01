@@ -1,0 +1,48 @@
+sudo: false
+
+language: ruby
+
+install:
+ - gem install jekyll bundler
+
+script:
+ - bundle exec jekyll build
+
+before_deploy:
+  - pip install --user awscli
+  - export PATH=$PATH:$HOME/.local/bin
+  - aws configure set preview.cloudfront true
+
+jobs:
+  -
+    # branches:
+    #   only:
+    #     - develop
+    deploy:
+      provider: s3
+      access_key_id: $DEV_AWS_ACCESS_KEY_ID
+      secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
+      bucket: $DEV_S3_BUCKET
+      skip_cleanup: true
+      local_dir: public
+      upload-dir: $DEV_CNAME
+      region: eu-west-1
+    after_deploy:
+      - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+
+  # -
+  #   # branches:
+  #   #   only:
+  #   #     - master
+  #   deploy:
+  #     provider: s3
+  #     access_key_id: $DEV_AWS_ACCESS_KEY_ID
+  #     secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
+  #     bucket: $DEV_S3_BUCKET
+  #     skip_cleanup: true
+  #     local_dir: public
+  #     upload-dir: $DEV_CNAME
+  #     region: eu-west-1
+  #   after_deploy:
+  #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+
