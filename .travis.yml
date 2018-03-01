@@ -12,35 +12,38 @@ before_deploy:
   - aws configure set preview.cloudfront true
 
 jobs:
-  -
-    # branches:
-    #   only:
-    #     - develop
-    deploy:
-      provider: s3
-      access_key_id: $DEV_AWS_ACCESS_KEY_ID
-      secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
-      bucket: $DEV_CNAME
-      skip_cleanup: true
-      local_dir: _site
-      upload-dir: $DEV_CNAME
-      region: eu-west-1
-    after_deploy:
-      - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+  fast_finish: true
 
-  # -
-  #   # branches:
-  #   #   only:
-  #   #     - master
-  #   deploy:
-  #     provider: s3
-  #     access_key_id: $PROD_AWS_ACCESS_KEY_ID
-  #     secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
-  #     bucket: $PROD_CNAME
-  #     skip_cleanup: true
-  #     local_dir: _site
-  #     upload-dir: $PROD_CNAME
-  #     region: eu-west-1
-  #   after_deploy:
-  #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
+  include:
+    -
+      # branches:
+      #   only:
+      #     - develop
+      deploy:
+        provider: s3
+        access_key_id: $DEV_AWS_ACCESS_KEY_ID
+        secret_access_key: $DEV_AWS_SECRET_ACCESS_KEY
+        bucket: $DEV_CNAME
+        skip_cleanup: true
+        local_dir: _site
+        upload-dir: $DEV_CNAME
+        region: eu-west-1
+      after_deploy:
+        - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${DEV_CNAME}')].Id" --output text)
+
+    # -
+    #   # branches:
+    #   #   only:
+    #   #     - master
+    #   deploy:
+    #     provider: s3
+    #     access_key_id: $PROD_AWS_ACCESS_KEY_ID
+    #     secret_access_key: $PROD_AWS_SECRET_ACCESS_KEY
+    #     bucket: $PROD_CNAME
+    #     skip_cleanup: true
+    #     local_dir: _site
+    #     upload-dir: $PROD_CNAME
+    #     region: eu-west-1
+    #   after_deploy:
+    #     - aws cloudfront create-invalidation --paths '/*' --distribution-id $(aws cloudfront list-distributions --query "DistributionList.Items[?contains(Aliases.Items, '${PROD_CNAME}')].Id" --output text)
 
