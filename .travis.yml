@@ -6,6 +6,7 @@ install:
  - gem install jekyll bundler
 
 script:
+ - bundle install
  - bundle exec jekyll build
 
 before_deploy:
