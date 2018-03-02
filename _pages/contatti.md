@@ -6,7 +6,7 @@ ref: contact
 ---
 
 Vinilificio<br>
-via Santa Margherita, 14/A<br>
+via Santa Margherita 14/A<br>
 40123 Bologna<br>
 Italy
 
