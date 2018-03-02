@@ -3,7 +3,6 @@ sudo: false
 language: ruby
 
 script:
- - bundle install
  - bundle exec jekyll build
 #  - bundle exec htmlproofer ./_site
 
